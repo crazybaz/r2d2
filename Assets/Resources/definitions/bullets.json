@@ -1,0 +1,296 @@
+[
+    {
+        "id": "Bullet1",
+        "damage": 100,
+        "speed": 150,
+        "obstacleCollisionType": "Collision",
+        "destroyable": false
+    },
+    {
+        "id": "Bullet2",
+        "damage": 125,
+        "speed": 160,
+        "obstacleCollisionType": "Collision",
+        "destroyable": false
+    },
+    {
+        "id": "Bullet3",
+        "damage": 150,
+        "speed": 170,
+        "obstacleCollisionType": "Collision",
+        "destroyable": false
+    },
+    {
+        "id": "Grenade1",
+        "damage": 300,
+        "speed": 80,
+        "distance": 75,
+        "obstacleCollisionType": "Collision",
+        "damageRadius": 12,
+        "destroyable": false,
+        "explodeOnAnyCollision": true
+    },
+    {
+        "id": "Grenade2",
+        "damage": 400,
+        "speed": 90,
+        "distance": 100,
+        "obstacleCollisionType": "Collision",
+        "damageRadius": 15,
+        "destroyable": false,
+        "explodeOnAnyCollision": true
+    },
+    {
+        "id": "Shell1",
+        "damage": 600,
+        "speed": 160,
+        "obstacleCollisionType": "Collision",
+        "damageRadius": 15,
+        "destroyable": false
+    },
+    {
+        "id": "Shell2",
+        "damage": 750,
+        "speed": 170,
+        "obstacleCollisionType": "Collision",
+        "damageRadius": 17,
+        "destroyable": false
+    },
+    {
+        "id": "Shell3",
+        "damage": 900,
+        "speed": 180,
+        "obstacleCollisionType": "Collision",
+        "damageRadius": 20,
+        "destroyable": false
+    },
+    {
+        "id": "Mine1",
+        "damage": 400,
+        "lifeTime": 10,
+        "obstacleCollisionType": "Collision",
+        "damageRadius": 18,
+        "activationRadius": 12,
+        "destroyable": true
+    },
+    {
+        "id": "Mine2",
+        "damage": 550,
+        "lifeTime": 11,
+        "obstacleCollisionType": "Collision",
+        "damageRadius": 20,
+        "activationRadius": 14,
+        "destroyable": true
+    },
+    {
+        "id": "Mine3",
+        "damage": 700,
+        "lifeTime": 12,
+        "obstacleCollisionType": "Collision",
+        "damageRadius": 22,
+        "activationRadius": 16,
+        "destroyable": true
+    },
+    {
+        "id": "Laser1",
+        "damage": 500,
+        "speed": 120,
+        "obstacleCollisionType": "Ignore",
+        "destroyable": false
+    },
+    {
+        "id": "Laser2",
+        "damage": 625,
+        "speed": 130,
+        "obstacleCollisionType": "Ignore",
+        "destroyable": false
+    },
+    {
+        "id": "Laser3",
+        "damage": 750,
+        "speed": 140,
+        "obstacleCollisionType": "Ignore",
+        "destroyable": false
+    },
+    {
+        "id": "PulseShell1",
+        "damage": 1000,
+        "speed": 180,
+        "obstacleCollisionType": "ReduceDamage",
+        "destroyable": false
+    },
+    {
+        "id": "PulseShell2",
+        "damage": 1250,
+        "speed": 190,
+        "obstacleCollisionType": "ReduceDamage",
+        "destroyable": false
+    },
+    {
+        "id": "PulseBeam1",
+        "damage": 1000,
+        "speed": 200,
+        "obstacleCollisionType": "ReduceDamage",
+        "destroyable": false
+    },
+    {
+        "id": "PulseBeam2",
+        "damage": 1250,
+        "speed": 220,
+        "obstacleCollisionType": "ReduceDamage",
+        "destroyable": false
+    },
+    {
+        "id": "PulseBall1",
+        "damage": 600,
+        "speed": 140,
+        "obstacleCollisionType": "ReduceDamage",
+        "destroyable": false
+    },
+    {
+        "id": "PulseBolo1",
+        "damage": 800,
+        "speed": 140,
+        "obstacleCollisionType": "ReduceDamage",
+        "destroyable": false
+    },
+    {
+        "id": "ShockWaves1",
+        "damage": 300,
+        "speed": 70,
+        "lifeTime": 2,
+        "obstacleCollisionType": "ReduceDamage",
+        "destroyable": false
+    },
+    {
+        "id": "Missile1",
+        "damage": 300,
+        "speed": 120,
+        "obstacleCollisionType": "Collision",
+        "damageRadius": 18,
+        "destroyable": true
+    },
+    {
+        "id": "CruiseMissile1",
+        "damage": 500,
+        "speed": 140,
+        "lifeTime": 5,
+        "obstacleCollisionType": "Collision",
+        "damageRadius": 22,
+        "activationRadius": 20,
+        "destroyable": true
+    },
+    {
+        "id": "Electra1",
+        "damage": 20,
+        "speed": 500,
+        "obstacleCollisionType": "Ignore",
+        "destroyable": false
+    },
+    {
+        "id": "VacuumBomb1",
+        "damage": 5000,
+        "speed": 130,
+        "obstacleCollisionType": "Ignore",
+        "damageRadius": 80,
+        "destroyable": false,
+        "explodeOnAnyCollision": true
+    },
+    {
+        "id": "VacuumBomb2",
+        "damage": 6000,
+        "speed": 130,
+        "obstacleCollisionType": "Ignore",
+        "damageRadius": 90,
+        "destroyable": false,
+        "explodeOnAnyCollision": true
+    },
+    {
+        "id": "VacuumBomb3",
+        "damage": 7000,
+        "speed": 130,
+        "obstacleCollisionType": "Ignore",
+        "damageRadius": 100,
+        "destroyable": false,
+        "explodeOnAnyCollision": true
+    },
+    {
+        "id": "VacuumBomb4",
+        "damage": 8000,
+        "speed": 130,
+        "obstacleCollisionType": "Ignore",
+        "damageRadius": 110,
+        "destroyable": false,
+        "explodeOnAnyCollision": true
+    },
+    {
+        "id": "VacuumBomb5",
+        "damage": 9000,
+        "speed": 130,
+        "obstacleCollisionType": "Ignore",
+        "damageRadius": 120,
+        "destroyable": false,
+        "explodeOnAnyCollision": true
+    },
+    {
+        "id": "ArtilleryBomb1",
+        "damage": 2000,
+        "speed": 130,
+        "obstacleCollisionType": "Ignore",
+        "damageRadius": 80,
+        "destroyable": false,
+        "explodeOnAnyCollision": true
+    },
+    {
+        "id": "ArtilleryBomb2",
+        "damage": 2500,
+        "speed": 130,
+        "obstacleCollisionType": "Ignore",
+        "damageRadius": 90,
+        "destroyable": false,
+        "explodeOnAnyCollision": true
+    },
+    {
+        "id": "ArtilleryBomb3",
+        "damage": 3000,
+        "speed": 130,
+        "obstacleCollisionType": "Ignore",
+        "damageRadius": 100,
+        "destroyable": false,
+        "explodeOnAnyCollision": true
+    },
+    {
+        "id": "ArtilleryBomb4",
+        "damage": 3500,
+        "speed": 130,
+        "obstacleCollisionType": "Ignore",
+        "damageRadius": 110,
+        "destroyable": false,
+        "explodeOnAnyCollision": true
+    },
+    {
+        "id": "ArtilleryBomb5",
+        "damage": 4000,
+        "speed": 130,
+        "obstacleCollisionType": "Ignore",
+        "damageRadius": 120,
+        "destroyable": false,
+        "explodeOnAnyCollision": true
+    },
+    {
+        "id": "RocketMissile1",
+        "damage": 500,
+        "speed": 200,
+        "lifeTime": 2,
+        "obstacleCollisionType": "Ignore",
+        "destroyable": false
+    },
+    {
+        "id": "RocketMissile2",
+        "damage": 600,
+        "speed": 200,
+        "lifeTime": 2,
+        "obstacleCollisionType": "Ignore",
+        "destroyable": false
+    }
+]

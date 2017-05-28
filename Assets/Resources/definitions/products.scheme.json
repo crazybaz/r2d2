@@ -1,0 +1,46 @@
+{
+  "type": "array",
+  "format": "table",
+  "options": {
+    "disable_array_reorder": true
+  },
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "group": {
+        "type": "string",
+        "required": true,
+        "enum": ["Soft", "Hard"]
+      },
+      "tier": {
+        "type": "string"
+      },
+      "active": {
+        "type": "boolean",
+        "required": true
+      },
+      "reward": {
+        "type": "object",
+        "options": {
+          "table_row": true
+        },
+        "properties": {
+          "Hard": {
+            "description": "Hard",
+            "type": "integer"
+          },
+          "Soft": {
+            "description": "Soft",
+            "type": "integer"
+          }
+        }
+      },
+      "dummyPrice": {
+        "type": "string"
+      }
+    }
+  }
+}

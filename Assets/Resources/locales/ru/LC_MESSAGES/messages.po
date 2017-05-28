@@ -1,0 +1,724 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"POT-Creation-Date: 2017-04-19T06:36:27.541Z\n"
+"PO-Revision-Date: 2017-04-19T06:36:27.541Z\n"
+"Language: ru\n"
+
+msgid "start_battle.tips.text1"
+msgstr "Не удается победить Босса - Улучшай своего Паладина!"
+
+msgid "start_battle.tips.text2"
+msgstr "Пассивные способности срабатывают автоматически."
+
+msgid "start_battle.tips.text3"
+msgstr "Из любого противника есть шанс получить награду!"
+
+msgid "start_battle.tips.text4"
+msgstr "Мы используем возобновляемую энергию!"
+
+msgid "start_battle.loading.label"
+msgstr "Загрузка {0}"
+
+msgid "start_battle.start_button.label"
+msgstr ""
+"Старт \n"
+"двигателя"
+
+msgid "ability_dialog.title"
+msgstr "Способности"
+
+msgid "ability_dialog.subtitle"
+msgstr "Задания"
+
+msgid "ability_dialog.bottom_message"
+msgstr "Включитете способность или нажмите в любом месте для продолжения боя"
+
+msgid "options_dialog.title"
+msgstr "Настройки"
+
+msgid "options_dialog.facebook_button_top"
+msgstr "Подключитесь и играйте"
+
+msgid "options_dialog.facebook_button_bottom"
+msgstr "без ограничений"
+
+msgid "options_dialog.restore_button"
+msgstr "Восстановить покупки"
+
+msgid "options_dialog.help_button"
+msgstr "Help"
+
+msgid "options_dialog.friends_label"
+msgstr "Сохраните прогресс и играйте с друзьями"
+
+msgid "options_dialog.terms_of_service"
+msgstr "Пользовательское соглашение"
+
+msgid "options_dialog.privacy_policy"
+msgstr "Политика конфиденциальности"
+
+msgid "options_dialog.userId"
+msgstr "Ваш игровой ID:"
+
+msgid "bank_dialog.SoftTier0_75.label"
+msgstr "Маленькие токены"
+
+msgid "bank_dialog.SoftTier1.label"
+msgstr "Средние токены"
+
+msgid "bank_dialog.SoftTier2.label"
+msgstr "Токены "
+
+msgid "bank_dialog.SoftTier3.label"
+msgstr "Пара токенов"
+
+msgid "bank_dialog.SoftTier4.label"
+msgstr "Несколько токенов"
+
+msgid "bank_dialog.SoftTier5.label"
+msgstr "Кучка токенов"
+
+msgid "bank_dialog.SoftTier7.label"
+msgstr "Пачка токенов"
+
+msgid "bank_dialog.SoftTier10.label"
+msgstr "Пакет токенов"
+
+msgid "bank_dialog.SoftTier12.label"
+msgstr "Горка токенов"
+
+msgid "bank_dialog.SoftTier15.label"
+msgstr "Много пончиков"
+
+msgid "bank_dialog.SoftTier20.label"
+msgstr "Коробочка токенов"
+
+msgid "bank_dialog.SoftTier25.label"
+msgstr "Поднос токенов"
+
+msgid "bank_dialog.SoftTier30.label"
+msgstr "Коробка токенов"
+
+msgid "bank_dialog.SoftTier40.label"
+msgstr "Упаковка токенов"
+
+msgid "bank_dialog.SoftTier45.label"
+msgstr "Мешок токенов"
+
+msgid "bank_dialog.SoftTier50.label"
+msgstr "Рюкзак токенов"
+
+msgid "bank_dialog.SoftTier55.label"
+msgstr "Ящик токенов"
+
+msgid "bank_dialog.SoftTier60.label"
+msgstr "Сундук токенов"
+
+msgid "bank_dialog.SoftTier63.label"
+msgstr "Контейнер токенов"
+
+msgid "bank_dialog.SoftTier66.label"
+msgstr "Вагон токенов"
+
+msgid "bank_dialog.SoftTier70.label"
+msgstr "Пирамида токенов"
+
+msgid "bank_dialog.SoftTier72.label"
+msgstr "Огромная гора токенов"
+
+msgid "bank_dialog.HardTier0_5.label"
+msgstr "Маленькие монеты"
+
+msgid "bank_dialog.HardTier0_75.label"
+msgstr "Средние монеты"
+
+msgid "bank_dialog.HardTier1.label"
+msgstr "Монеты "
+
+msgid "bank_dialog.HardTier2.label"
+msgstr "Пара монет"
+
+msgid "bank_dialog.HardTier3.label"
+msgstr "Несколько монет"
+
+msgid "bank_dialog.HardTier4.label"
+msgstr "Кучка монет"
+
+msgid "bank_dialog.HardTier5.label"
+msgstr "Пачка монет"
+
+msgid "bank_dialog.HardTier7.label"
+msgstr "Пакет монет"
+
+msgid "bank_dialog.HardTier10.label"
+msgstr "Горка монет"
+
+msgid "bank_dialog.HardTier12.label"
+msgstr "Много пончиков"
+
+msgid "bank_dialog.HardTier15.label"
+msgstr "Коробочка монет"
+
+msgid "bank_dialog.HardTier20.label"
+msgstr "Поднос монет"
+
+msgid "bank_dialog.HardTier25.label"
+msgstr "Коробка монет"
+
+msgid "bank_dialog.HardTier30.label"
+msgstr "Упаковка монет"
+
+msgid "bank_dialog.HardTier40.label"
+msgstr "Мешок монет"
+
+msgid "bank_dialog.HardTier45.label"
+msgstr "Рюкзак монет"
+
+msgid "bank_dialog.HardTier50.label"
+msgstr "Ящик монет"
+
+msgid "bank_dialog.HardTier55.label"
+msgstr "Сундук монет"
+
+msgid "bank_dialog.HardTier60.label"
+msgstr "Контейнер монет"
+
+msgid "bank_dialog.HardTier63.label"
+msgstr "Вагон монет"
+
+msgid "bank_dialog.HardTier66.label"
+msgstr "Пирамида монет"
+
+msgid "bank_dialog.HardTier70.label"
+msgstr "Гора монет"
+
+msgid "bank_dialog.HardTier72.label"
+msgstr "Огромная гора монет"
+
+msgid "bank_dialog.Chest.header"
+msgstr "Сундуки"
+
+msgid "bank_dialog.Soft.header"
+msgstr "Токены"
+
+msgid "bank_dialog.Hard.header"
+msgstr "Монеты"
+
+msgid "bank_dialog.tab_group.chest_tab.label"
+msgstr "Сундуки"
+
+msgid "bank_dialog.tab_group.soft_tab.label"
+msgstr "Токены"
+
+msgid "bank_dialog.tab_group.hard_tab.label"
+msgstr "Монеты"
+
+msgid "bank_dialog.popular_item.label0"
+msgstr "ХИТ"
+
+msgid "bank_dialog.popular_item.label1"
+msgstr "ПРОДАЖ"
+
+msgid "bank_dialog.sales_item.label0"
+msgstr "РАСПРОДАЖА"
+
+msgid "bank_dialog.sales_item.label1"
+msgstr "ТОВАРА"
+
+msgid "bank_dialog.offer_item.label0"
+msgstr "ПЕРСОНАЛЬНОЕ"
+
+msgid "bank_dialog.offer_item.label1"
+msgstr "ПРЕДЛОЖЕНИЕ"
+
+msgid "bank_dialog.chest_item.reward.label"
+msgstr "Содержит рекурсов:"
+
+msgid "hangar_dialog.configure_button"
+msgstr "Конфигурация"
+
+msgid "hangar_dialog.start_button"
+msgstr "Начать бой!"
+
+msgid "hangar_dialog.requirements_title"
+msgstr "Требуется:"
+
+msgid "hangar_dialog.requirements_level_title"
+msgstr "Уровень"
+
+msgid "hangar_dialog.requirements_upgrades_of_paladin"
+msgstr "апгрейдов"
+
+msgid "paladin_ranger_name"
+msgstr "Рэнжер"
+
+msgid "paladin_ranger_name_requirements"
+msgstr "Рэнжера"
+
+msgid "paladin_assault_name"
+msgstr "Штурмовик"
+
+msgid "paladin_assault_name_requirements"
+msgstr "Штурмовика"
+
+msgid "paladin_crusader_name"
+msgstr "Крестоносец"
+
+msgid "paladin_crusader_name_requirements"
+msgstr "Крестоносца\n"
+
+msgid "paladin_peacemaker_name"
+msgstr "Миротворец"
+
+msgid "paladin_peacemaker_name_requirements"
+msgstr "Миротворца"
+
+msgid "paladin_juggernaut_name"
+msgstr "Джагернаут"
+
+msgid "paladin_juggernaut_name_requirements"
+msgstr "Джагернаута"
+
+msgid "exp_screen.maximum"
+msgstr "максимум"
+
+msgid "configuration_dialog.head"
+msgstr "Голова"
+
+msgid "configuration_dialog.frame"
+msgstr "Корпус"
+
+msgid "configuration_dialog.chassis"
+msgstr "Шасси"
+
+msgid "configuration_dialog.tab_group.paladin"
+msgstr "Паладин"
+
+msgid "configuration_dialog.tab_group.weapon"
+msgstr "Оружие"
+
+msgid "configuration_dialog.tab_group.ability"
+msgstr "Способности"
+
+msgid "configuration_dialog.weapon_subtitle1"
+msgstr "Выберите оружие"
+
+msgid "configuration_dialog.weapon_subtitle2"
+msgstr "максимум одно для каждого типа"
+
+msgid "configuration_dialog.ability_subtitle1"
+msgstr "Выберите способности"
+
+msgid "configuration_dialog.ability_subtitle2"
+msgstr "не больше, чем доступно слотов"
+
+msgid "preloader_dialog.header.label"
+msgstr "Последний Паладин"
+
+msgid "preloader_dialog.button_guest.label0"
+msgstr "Играть как Гость"
+
+msgid "preloader_dialog.button_guest.label1"
+msgstr "с ограничениями"
+
+msgid "preloader_dialog.button_fb.label0"
+msgstr "Подключить и играть"
+
+msgid "preloader_dialog.button_fb.label1"
+msgstr "без ограничений"
+
+msgid "preloader_dialog.more_info.label"
+msgstr "Больше информации"
+
+msgid "preloader_dialog.hint.topLabel"
+msgstr "Ограничения"
+
+msgid "preloader_dialog.hint.bottomLabel"
+msgstr "Нажми где угодно, чтобы закрыть..."
+
+msgid "preloader_dialog.hint.text"
+msgstr "Ни кто не узнает о ваших рекордах и достижениях!"
+
+msgid "preloader_dialog.loading.label"
+msgstr "Загрузка "
+
+msgid "preloader_dialog.loading.progress"
+msgstr "{0}%"
+
+msgid "preloader_dialog.loading.userId.label"
+msgstr "Ваш ID:"
+
+msgid "preloader_dialog.loading.version.label"
+msgstr "Версия:"
+
+msgid "Machinegun"
+msgstr "Пулемет"
+
+msgid "Laser"
+msgstr "Лазер"
+
+msgid "Cannon"
+msgstr "Пушка"
+
+msgid "PulseCannon"
+msgstr "Пульспушка"
+
+msgid "ShockCannon"
+msgstr "Шокпушка"
+
+msgid "WaveCannon"
+msgstr "Волнпушка"
+
+msgid "PlasmaCannon"
+msgstr "Плазмапушка"
+
+msgid "BoloCannon"
+msgstr "Болопушка"
+
+msgid "HeavyPlasma"
+msgstr "Тяжелая плазмапушка"
+
+msgid "Electra"
+msgstr "Электра"
+
+msgid "Missile"
+msgstr "Рокета"
+
+msgid "GrenadeLauncher"
+msgstr "Гранатомет"
+
+msgid "MissileSystem"
+msgstr "Рокетная система"
+
+msgid "RocketLauncher"
+msgstr "Рокетомет"
+
+msgid "Miner"
+msgstr "Минер"
+
+msgid "suspension_Light"
+msgstr "Легкое"
+
+msgid "suspension_Normal"
+msgstr "Среднее"
+
+msgid "suspension_Heavy"
+msgstr "Тяжелое"
+
+msgid "suspension_Passive"
+msgstr "Пассивное"
+
+msgid "suspension_Drone"
+msgstr "Дроны"
+
+msgid "configuration_dialog.active_abilities"
+msgstr "Активные способности"
+
+msgid "configuration_dialog.passive_abilities"
+msgstr "Пассивные способности"
+
+msgid "ClusterGrenades"
+msgstr "Кластерные гранаты"
+
+msgid "Invulnerability"
+msgstr "Инвулнерабилити"
+
+msgid "Nanobots"
+msgstr "Наноботы"
+
+msgid "ShockShells"
+msgstr "Шоковая оболочка"
+
+msgid "Phantom"
+msgstr "Фантом"
+
+msgid "ShockWaves"
+msgstr "Шоковая волна"
+
+msgid "VacuumBomb"
+msgstr "Вакуумная бомба"
+
+msgid "Artillery"
+msgstr "Артилерия"
+
+msgid "DroneX"
+msgstr "ДронХ"
+
+msgid "DroneY"
+msgstr "ДронУ"
+
+msgid "Rocket"
+msgstr "Рокета"
+
+msgid "HiScores"
+msgstr "Хай скор"
+
+msgid "Bankir"
+msgstr "Банкир"
+
+msgid "HealthBonus"
+msgstr "Жизненный бонус"
+
+msgid "SpeedBonus"
+msgstr "Скоростной бонус"
+
+msgid "DamageBonus"
+msgstr "Уронный бонус"
+
+msgid "FireRate"
+msgstr "Скорость огня"
+
+msgid "ArmorBonus"
+msgstr "Бонус брони"
+
+msgid "DropRate"
+msgstr "Рейтинг дропа"
+
+msgid "Vampirism"
+msgstr "Вампиризм"
+
+msgid "Torn"
+msgstr "Разорванный"
+
+msgid "Magnet"
+msgstr "Магнит"
+
+msgid "result_dialog.header.scores.label"
+msgstr "Ваш результат"
+
+msgid "result_dialog.record_scores.label"
+msgstr "Рекордный результат"
+
+msgid "result_dialog.rewards.header.label"
+msgstr "Полученные награды"
+
+msgid "result_dialog.rewards.exp.label"
+msgstr "Опыт"
+
+msgid "result_dialog.continue_button.label"
+msgstr "Продолжить"
+
+msgid "result_dialog.continue_play_button.label"
+msgstr "Продолжить игру"
+
+msgid "result_dialog.facebook_button.login.label1"
+msgstr "Подключится к Facebook"
+
+msgid "result_dialog.facebook_button.login.label2"
+msgstr "и получить бонусы"
+
+msgid "result_dialog.facebook_button.share.label"
+msgstr "Поделиться с друзьями"
+
+msgid "result_dialog.header.new_record.label"
+msgstr "НОВЫЙ РЕКОРД"
+
+msgid "result_dialog.facebook_login_bonus.label"
+msgstr "БОНУС"
+
+msgid "energy_dialog.header.label"
+msgstr "Энергия"
+
+msgid "energy_dialog.header.trend.label"
+msgstr "Мы используем только возобновляемую энергию!"
+
+msgid "energy_dialog.full_energy_pack.label0"
+msgstr "ЭНЕРГИТИЧЕСКИЙ"
+
+msgid "energy_dialog.full_energy_pack.label1"
+msgstr "пакет"
+
+msgid "energy_dialog.friends_request.label0"
+msgstr "Запрос"
+
+msgid "energy_dialog.friends_request.label1"
+msgstr "энергии у ваших"
+
+msgid "energy_dialog.friends_request.label2"
+msgstr "ДРУЗЕЙ"
+
+msgid "energy_dialog.speedup_item.next_energy.label"
+msgstr "Купить"
+
+msgid "energy_dialog.full_energy_pack.button.label"
+msgstr "Купить"
+
+msgid "energy_dialog.friends_request.button.label"
+msgstr "Запросить"
+
+msgid "energy_dialog.speedup_item.button.label"
+msgstr "Ускорить"
+
+msgid "energy_dialog.unlimited_item.label0"
+msgstr "НЕОГРАНИЧЕННАЯ"
+
+msgid "energy_dialog.unlimited_item.label1"
+msgstr "энергия на"
+
+msgid "energy_dialog.unlimited_item.label2"
+msgstr "%num часов"
+
+msgid "energy_dialog.unlimited_item.button.label"
+msgstr "Купить"
+
+msgid "common.and"
+msgstr "И"
+
+msgid "leaderboard_dialog.tab_world"
+msgstr "Мировой"
+
+msgid "leaderboard_dialog.tab_local"
+msgstr "Локальный"
+
+msgid "leaderboard_dialog.tab_friends"
+msgstr "Дружеский"
+
+msgid "achieves_and_board_sreen.tab_achieves"
+msgstr "Достижения"
+
+msgid "achieves_and_board_sreen.tab_leaderboard"
+msgstr "Лидерборд"
+
+msgid "quest_dialog.header.label"
+msgstr "Квесты"
+
+msgid "quest_dialog.skip_button.label"
+msgstr "Пропустить"
+
+msgid "quest_dialog.next_quest.label"
+msgstr "Следующий квест через:"
+
+msgid "quest_dialog.collect_button.label"
+msgstr "Получить приз"
+
+msgid "quest_dialog.chest_progress_info.label0"
+msgstr "Выполните"
+
+msgid "quest_dialog.chest_progress_info.label1"
+msgstr "квесты и получите Приз!"
+
+msgid "quest_dialog.chest_reward_legend.label0"
+msgstr "Вы выполнили"
+
+msgid "quest_dialog.chest_reward_legend.label1"
+msgstr "квесты и"
+
+msgid "quest_dialog.chest_reward_legend.label2"
+msgstr "можете получить Приз"
+
+msgid "quest_dialog.description.label0"
+msgstr "Победить в {0} боях"
+
+msgid "quest_dialog.description.label1"
+msgstr "Победить в {0} боях на Рейнджере"
+
+msgid "quest_dialog.description.label2"
+msgstr "Победить в {0} боях на Штурмовике"
+
+msgid "quest_dialog.description.label3"
+msgstr "Победить в {0} боях на Миротворце"
+
+msgid "quest_dialog.description.label4"
+msgstr "Победить в {0} боях на Крестоносце"
+
+msgid "quest_dialog.description.label5"
+msgstr "Победить в {0} боях на Джагернауте"
+
+msgid "quest_dialog.description.label6"
+msgstr "Уничтожить {0} любых противников"
+
+msgid "quest_dialog.description.label7"
+msgstr "Уничтожить {0} преград"
+
+msgid "quest_dialog.description.label8"
+msgstr "Уничтожить {0} легких противников"
+
+msgid "quest_dialog.description.label9"
+msgstr "Уничтожить {0} средних противников"
+
+msgid "quest_dialog.description.label10"
+msgstr "Уничтожить {0} тяжелых противников"
+
+msgid "quest_dialog.description.label11"
+msgstr "Уничтожить {0} летающих противников"
+
+msgid "quest_dialog.description.label12"
+msgstr "Уничтожить {0} бункеров"
+
+msgid "quest_dialog.description.label13"
+msgstr "Уничтожить {0} Боссов"
+
+msgid "quest_dialog.description.label14"
+msgstr "Уничтожить {0} раз Босса Танк"
+
+msgid "quest_dialog.description.label15"
+msgstr "Уничтожить {0} раз Босса Вертолет"
+
+msgid "quest_dialog.description.label16"
+msgstr "Уничтожить {0} раз Босса Бронепоезд"
+
+msgid "quest_dialog.description.label17"
+msgstr "Набрать максимальное комбо {0} раз"
+
+msgid "quest_dialog.description.label18"
+msgstr "Набрать максимальное комбо в 1 бою"
+
+msgid "quest_dialog.description.label19"
+msgstr "Собери {0} монет"
+
+msgid "quest_dialog.description.label20"
+msgstr "Собери {0} микросхем"
+
+msgid "quest_dialog.description.label21"
+msgstr "Собери {0} бронепластин"
+
+msgid "quest_dialog.description.label22"
+msgstr "Собери {0} пружин "
+
+msgid "quest_dialog.description.label23"
+msgstr "Собери {0} энергопакетов"
+
+msgid "quest_dialog.description.label24"
+msgstr "Собери {0} снарядов"
+
+msgid "quest_dialog.description.label25"
+msgstr "Набрать {0} опыта за один бой"
+
+msgid "quest_dialog.description.label26"
+msgstr "Набрать {0} монет за один бой"
+
+msgid "quest_dialog.description.label27"
+msgstr "Активировать {0} любых способностей"
+
+msgid "quest_dialog.description.label28"
+msgstr "Уничтожить всех противников в бою"
+
+msgid "quest_dialog.description.label29"
+msgstr "Растоптать {0} противников"
+
+msgid "quest_dialog.description.label30"
+msgstr "Набрать {0} очков за бой"
+
+msgid "quest_dialog.description.label31"
+msgstr "Набрать суммарно {0} очков"
+
+msgid "quest_dialog.description.label32"
+msgstr "Получить новый уровень"
+
+msgid "quest_dialog.description.label33"
+msgstr "Закончить бой с полной прочностью"
+
+msgid "quest_dialog.description.label34"
+msgstr "Закончить бой без повреждений"
+
+msgid "quest_dialog.description.label35"
+msgstr "Произвести {0} улучшений"
+
+msgid "quest_dialog.description.label36"
+msgstr "Отправить приглашения в игру {0} друзьям"

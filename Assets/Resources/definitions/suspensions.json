@@ -1,0 +1,14 @@
+{
+    "Machinegun": "Light",
+    "Laser": "Light",
+    "Cannon": "Normal",
+    "PulseCannon": "Normal",
+    "ShockCannon": "Normal",
+    "WaveCannon": "Normal",
+    "PlasmaCannon": "Heavy",
+    "BoloCannon": "Heavy",
+    "Missile": "Passive",
+    "GrenadeLauncher": "Passive",
+    "MissileSystem": "Passive",
+    "RocketLauncher": "Passive"
+}

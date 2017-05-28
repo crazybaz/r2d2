@@ -1,0 +1,337 @@
+[
+    {
+        "playerLevel": 1,
+        "back": "Desert",
+        "bossLevel": 1,
+        "patterns": {
+            "1": 4,
+            "2": 1
+        }
+    },
+    {
+        "playerLevel": 2,
+        "back": "Desert",
+        "bossLevel": 1,
+        "patterns": {
+            "1": 3,
+            "2": 2,
+            "3": 2
+        }
+    },
+    {
+        "playerLevel": 3,
+        "back": "Desert",
+        "bossLevel": 1,
+        "patterns": {
+            "1": 2,
+            "2": 3,
+            "3": 2
+        }
+    },
+    {
+        "playerLevel": 4,
+        "back": "Desert",
+        "bossLevel": 2,
+        "patterns": {
+            "1": 1,
+            "2": 3,
+            "3": 2,
+            "4": 1
+        }
+    },
+    {
+        "playerLevel": 5,
+        "back": "Desert",
+        "bossLevel": 2,
+        "patterns": {
+            "2": 2,
+            "3": 2,
+            "4": 3,
+            "5": 1
+        }
+    },
+    {
+        "playerLevel": 6,
+        "back": "Desert",
+        "bossLevel": 2,
+        "patterns": {
+            "3": 1,
+            "4": 2,
+            "5": 4,
+            "6": 2,
+            "7": 1
+        }
+    },
+    {
+        "playerLevel": 7,
+        "back": "Desert",
+        "bossLevel": 2,
+        "patterns": {
+            "4": 1,
+            "5": 2,
+            "6": 5,
+            "7": 1,
+            "8": 1
+        }
+    },
+    {
+        "playerLevel": 8,
+        "back": "Desert",
+        "bossLevel": 3,
+        "patterns": {
+            "5": 1,
+            "6": 2,
+            "7": 6,
+            "8": 2,
+            "9": 1
+        }
+    },
+    {
+        "playerLevel": 9,
+        "back": "Desert",
+        "bossLevel": 3,
+        "patterns": {
+            "6": 1,
+            "7": 2,
+            "8": 7,
+            "9": 2,
+            "10": 1
+        }
+    },
+    {
+        "playerLevel": 10,
+        "back": "Desert",
+        "bossLevel": 3,
+        "patterns": {
+            "7": 2,
+            "8": 2,
+            "9": 8,
+            "10": 2
+        }
+    },
+    {
+        "playerLevel": 11,
+        "back": "Desert",
+        "bossLevel": 4,
+        "patterns": {
+            "8": 3,
+            "9": 4,
+            "10": 9
+        }
+    },
+    {
+        "playerLevel": 12,
+        "back": "Desert",
+        "bossLevel": 4,
+        "patterns": {
+            "8": 4,
+            "9": 4,
+            "10": 9
+        }
+    },
+    {
+        "playerLevel": 13,
+        "back": "Desert",
+        "bossLevel": 4,
+        "patterns": {
+            "8": 3,
+            "9": 4,
+            "10": 9
+        }
+    },
+    {
+        "playerLevel": 14,
+        "back": "Desert",
+        "bossLevel": 5,
+        "patterns": {
+            "8": 3,
+            "9": 4,
+            "10": 9
+        }
+    },
+    {
+        "playerLevel": 15,
+        "back": "Desert",
+        "bossLevel": 5,
+        "patterns": {
+            "8": 2,
+            "9": 5,
+            "10": 9
+        }
+    },
+    {
+        "playerLevel": 16,
+        "back": "Woods",
+        "bossLevel": 6
+    },
+    {
+        "playerLevel": 17,
+        "back": "Woods",
+        "bossLevel": 6
+    },
+    {
+        "playerLevel": 18,
+        "back": "Woods",
+        "bossLevel": 6
+    },
+    {
+        "playerLevel": 19,
+        "back": "Woods",
+        "bossLevel": 7
+    },
+    {
+        "playerLevel": 20,
+        "back": "Woods",
+        "bossLevel": 7
+    },
+    {
+        "playerLevel": 21,
+        "back": "Woods",
+        "bossLevel": 7
+    },
+    {
+        "playerLevel": 22,
+        "back": "Woods",
+        "bossLevel": 8
+    },
+    {
+        "playerLevel": 23,
+        "back": "Woods",
+        "bossLevel": 8
+    },
+    {
+        "playerLevel": 24,
+        "back": "Woods",
+        "bossLevel": 8
+    },
+    {
+        "playerLevel": 25,
+        "back": "Woods",
+        "bossLevel": 9
+    },
+    {
+        "playerLevel": 26,
+        "back": "Woods",
+        "bossLevel": 9
+    },
+    {
+        "playerLevel": 27,
+        "back": "Woods",
+        "bossLevel": 9
+    },
+    {
+        "playerLevel": 28,
+        "back": "Woods",
+        "bossLevel": 10
+    },
+    {
+        "playerLevel": 29,
+        "back": "Woods",
+        "bossLevel": 10
+    },
+    {
+        "playerLevel": 30,
+        "back": "Woods",
+        "bossLevel": 10
+    },
+    {
+        "playerLevel": 31,
+        "back": "Urban",
+        "bossLevel": 11
+    },
+    {
+        "playerLevel": 32,
+        "back": "Urban",
+        "bossLevel": 11
+    },
+    {
+        "playerLevel": 33,
+        "back": "Urban",
+        "bossLevel": 12
+    },
+    {
+        "playerLevel": 34,
+        "back": "Urban",
+        "bossLevel": 12
+    },
+    {
+        "playerLevel": 35,
+        "back": "Urban",
+        "bossLevel": 13
+    },
+    {
+        "playerLevel": 36,
+        "back": "Urban",
+        "bossLevel": 13
+    },
+    {
+        "playerLevel": 37,
+        "back": "Urban",
+        "bossLevel": 14
+    },
+    {
+        "playerLevel": 38,
+        "back": "Urban",
+        "bossLevel": 14
+    },
+    {
+        "playerLevel": 39,
+        "back": "Urban",
+        "bossLevel": 15
+    },
+    {
+        "playerLevel": 40,
+        "back": "Urban",
+        "bossLevel": 15
+    },
+    {
+        "playerLevel": 41,
+        "back": "Urban",
+        "bossLevel": 16
+    },
+    {
+        "playerLevel": 42,
+        "back": "Urban",
+        "bossLevel": 16
+    },
+    {
+        "playerLevel": 43,
+        "back": "Urban",
+        "bossLevel": 17
+    },
+    {
+        "playerLevel": 44,
+        "back": "Urban",
+        "bossLevel": 17
+    },
+    {
+        "playerLevel": 45,
+        "back": "Urban",
+        "bossLevel": 18
+    },
+    {
+        "playerLevel": 46,
+        "back": "Urban",
+        "bossLevel": 18
+    },
+    {
+        "playerLevel": 47,
+        "back": "Urban",
+        "bossLevel": 19
+    },
+    {
+        "playerLevel": 48,
+        "back": "Urban",
+        "bossLevel": 19
+    },
+    {
+        "playerLevel": 49,
+        "back": "Urban",
+        "bossLevel": 20
+    },
+    {
+        "playerLevel": 50,
+        "back": "Urban",
+        "bossLevel": 20
+    }
+]

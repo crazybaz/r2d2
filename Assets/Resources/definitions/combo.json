@@ -1,0 +1,38 @@
+[
+    {
+        "multiplier": 2,
+        "objectsCount": 5
+    },
+    {
+        "multiplier": 3,
+        "objectsCount": 7
+    },
+    {
+        "multiplier": 4,
+        "objectsCount": 9
+    },
+    {
+        "multiplier": 5,
+        "objectsCount": 11
+    },
+    {
+        "multiplier": 6,
+        "objectsCount": 13
+    },
+    {
+        "multiplier": 7,
+        "objectsCount": 15
+    },
+    {
+        "multiplier": 8,
+        "objectsCount": 17
+    },
+    {
+        "multiplier": 9,
+        "objectsCount": 19
+    },
+    {
+        "multiplier": 10,
+        "objectsCount": 25
+    }
+]

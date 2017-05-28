@@ -1,0 +1,6282 @@
+[
+    {
+        "stage": 1,
+        "id": "BossTank",
+        "level": 1,
+        "pawns": [
+            {
+                "type": "BossTankStage1Machinegun",
+                "maxHealth": 500,
+                "collisionDamage": 100,
+                "rewardPoints": 100,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 1
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage1Cannon",
+                "maxHealth": 700,
+                "collisionDamage": 100,
+                "rewardPoints": 200,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTank",
+        "level": 2,
+        "pawns": [
+            {
+                "type": "BossTankStage1Machinegun",
+                "maxHealth": 550,
+                "collisionDamage": 110,
+                "rewardPoints": 110,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 1
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage1Cannon",
+                "maxHealth": 750,
+                "collisionDamage": 110,
+                "rewardPoints": 210,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTank",
+        "level": 3,
+        "pawns": [
+            {
+                "type": "BossTankStage1Machinegun",
+                "maxHealth": 600,
+                "collisionDamage": 120,
+                "rewardPoints": 120,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 2
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage1Cannon",
+                "maxHealth": 800,
+                "collisionDamage": 120,
+                "rewardPoints": 220,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTank",
+        "level": 4,
+        "pawns": [
+            {
+                "type": "BossTankStage1Machinegun",
+                "maxHealth": 650,
+                "collisionDamage": 130,
+                "rewardPoints": 130,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 2
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage1Cannon",
+                "maxHealth": 850,
+                "collisionDamage": 130,
+                "rewardPoints": 230,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTank",
+        "level": 5,
+        "pawns": [
+            {
+                "type": "BossTankStage1Machinegun",
+                "maxHealth": 700,
+                "collisionDamage": 140,
+                "rewardPoints": 140,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 3
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage1Cannon",
+                "maxHealth": 900,
+                "collisionDamage": 140,
+                "rewardPoints": 240,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTank",
+        "level": 6,
+        "pawns": [
+            {
+                "type": "BossTankStage1Machinegun",
+                "maxHealth": 750,
+                "collisionDamage": 150,
+                "rewardPoints": 150,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 3
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage1Cannon",
+                "maxHealth": 950,
+                "collisionDamage": 150,
+                "rewardPoints": 250,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTank",
+        "level": 7,
+        "pawns": [
+            {
+                "type": "BossTankStage1Machinegun",
+                "maxHealth": 800,
+                "collisionDamage": 160,
+                "rewardPoints": 160,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 4
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage1Cannon",
+                "maxHealth": 1000,
+                "collisionDamage": 160,
+                "rewardPoints": 260,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTank",
+        "level": 8,
+        "pawns": [
+            {
+                "type": "BossTankStage1Machinegun",
+                "maxHealth": 850,
+                "collisionDamage": 170,
+                "rewardPoints": 170,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 4
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage1Cannon",
+                "maxHealth": 1050,
+                "collisionDamage": 170,
+                "rewardPoints": 270,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTank",
+        "level": 9,
+        "pawns": [
+            {
+                "type": "BossTankStage1Machinegun",
+                "maxHealth": 900,
+                "collisionDamage": 180,
+                "rewardPoints": 180,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 5
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage1Cannon",
+                "maxHealth": 1100,
+                "collisionDamage": 180,
+                "rewardPoints": 280,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTank",
+        "level": 10,
+        "pawns": [
+            {
+                "type": "BossTankStage1Machinegun",
+                "maxHealth": 950,
+                "collisionDamage": 190,
+                "rewardPoints": 190,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 5
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage1Cannon",
+                "maxHealth": 1150,
+                "collisionDamage": 190,
+                "rewardPoints": 290,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTank",
+        "level": 11,
+        "pawns": [
+            {
+                "type": "BossTankStage1Machinegun",
+                "maxHealth": 1000,
+                "collisionDamage": 200,
+                "rewardPoints": 200,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 6
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage1Cannon",
+                "maxHealth": 1200,
+                "collisionDamage": 200,
+                "rewardPoints": 300,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTank",
+        "level": 12,
+        "pawns": [
+            {
+                "type": "BossTankStage1Machinegun",
+                "maxHealth": 1050,
+                "collisionDamage": 210,
+                "rewardPoints": 210,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 6
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage1Cannon",
+                "maxHealth": 1250,
+                "collisionDamage": 210,
+                "rewardPoints": 310,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTank",
+        "level": 13,
+        "pawns": [
+            {
+                "type": "BossTankStage1Machinegun",
+                "maxHealth": 1100,
+                "collisionDamage": 220,
+                "rewardPoints": 220,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 7
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage1Cannon",
+                "maxHealth": 1300,
+                "collisionDamage": 220,
+                "rewardPoints": 320,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTank",
+        "level": 14,
+        "pawns": [
+            {
+                "type": "BossTankStage1Machinegun",
+                "maxHealth": 1150,
+                "collisionDamage": 230,
+                "rewardPoints": 230,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 7
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage1Cannon",
+                "maxHealth": 1350,
+                "collisionDamage": 230,
+                "rewardPoints": 330,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTank",
+        "level": 15,
+        "pawns": [
+            {
+                "type": "BossTankStage1Machinegun",
+                "maxHealth": 1200,
+                "collisionDamage": 240,
+                "rewardPoints": 240,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 8
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage1Cannon",
+                "maxHealth": 1400,
+                "collisionDamage": 240,
+                "rewardPoints": 340,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTank",
+        "level": 16,
+        "pawns": [
+            {
+                "type": "BossTankStage1Machinegun",
+                "maxHealth": 1250,
+                "collisionDamage": 250,
+                "rewardPoints": 250,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 8
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage1Cannon",
+                "maxHealth": 1450,
+                "collisionDamage": 250,
+                "rewardPoints": 350,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTank",
+        "level": 17,
+        "pawns": [
+            {
+                "type": "BossTankStage1Machinegun",
+                "maxHealth": 1300,
+                "collisionDamage": 260,
+                "rewardPoints": 260,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 9
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage1Cannon",
+                "maxHealth": 1500,
+                "collisionDamage": 260,
+                "rewardPoints": 360,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTank",
+        "level": 18,
+        "pawns": [
+            {
+                "type": "BossTankStage1Machinegun",
+                "maxHealth": 1350,
+                "collisionDamage": 270,
+                "rewardPoints": 270,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 9
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage1Cannon",
+                "maxHealth": 1550,
+                "collisionDamage": 270,
+                "rewardPoints": 370,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTank",
+        "level": 19,
+        "pawns": [
+            {
+                "type": "BossTankStage1Machinegun",
+                "maxHealth": 1400,
+                "collisionDamage": 280,
+                "rewardPoints": 280,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 10
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage1Cannon",
+                "maxHealth": 1600,
+                "collisionDamage": 280,
+                "rewardPoints": 380,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTank",
+        "level": 20,
+        "pawns": [
+            {
+                "type": "BossTankStage1Machinegun",
+                "maxHealth": 1450,
+                "collisionDamage": 290,
+                "rewardPoints": 290,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 10
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage1Cannon",
+                "maxHealth": 1650,
+                "collisionDamage": 290,
+                "rewardPoints": 390,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTank",
+        "level": 1,
+        "pawns": [
+            {
+                "type": "BossTankStage2Rocket",
+                "maxHealth": 500,
+                "collisionDamage": 100,
+                "rewardPoints": 100,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 1
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage2Cannon",
+                "maxHealth": 700,
+                "collisionDamage": 100,
+                "rewardPoints": 200,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTank",
+        "level": 2,
+        "pawns": [
+            {
+                "type": "BossTankStage2Rocket",
+                "maxHealth": 550,
+                "collisionDamage": 110,
+                "rewardPoints": 110,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 1
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage2Cannon",
+                "maxHealth": 750,
+                "collisionDamage": 110,
+                "rewardPoints": 210,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTank",
+        "level": 3,
+        "pawns": [
+            {
+                "type": "BossTankStage2Rocket",
+                "maxHealth": 600,
+                "collisionDamage": 120,
+                "rewardPoints": 120,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 2
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage2Cannon",
+                "maxHealth": 800,
+                "collisionDamage": 120,
+                "rewardPoints": 220,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTank",
+        "level": 4,
+        "pawns": [
+            {
+                "type": "BossTankStage2Rocket",
+                "maxHealth": 650,
+                "collisionDamage": 130,
+                "rewardPoints": 130,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 2
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage2Cannon",
+                "maxHealth": 850,
+                "collisionDamage": 130,
+                "rewardPoints": 230,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTank",
+        "level": 5,
+        "pawns": [
+            {
+                "type": "BossTankStage2Rocket",
+                "maxHealth": 700,
+                "collisionDamage": 140,
+                "rewardPoints": 140,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 3
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage2Cannon",
+                "maxHealth": 900,
+                "collisionDamage": 140,
+                "rewardPoints": 240,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTank",
+        "level": 6,
+        "pawns": [
+            {
+                "type": "BossTankStage2Rocket",
+                "maxHealth": 750,
+                "collisionDamage": 150,
+                "rewardPoints": 150,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 3
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage2Cannon",
+                "maxHealth": 950,
+                "collisionDamage": 150,
+                "rewardPoints": 250,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTank",
+        "level": 7,
+        "pawns": [
+            {
+                "type": "BossTankStage2Rocket",
+                "maxHealth": 800,
+                "collisionDamage": 160,
+                "rewardPoints": 160,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 4
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage2Cannon",
+                "maxHealth": 1000,
+                "collisionDamage": 160,
+                "rewardPoints": 260,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTank",
+        "level": 8,
+        "pawns": [
+            {
+                "type": "BossTankStage2Rocket",
+                "maxHealth": 850,
+                "collisionDamage": 170,
+                "rewardPoints": 170,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 4
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage2Cannon",
+                "maxHealth": 1050,
+                "collisionDamage": 170,
+                "rewardPoints": 270,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTank",
+        "level": 9,
+        "pawns": [
+            {
+                "type": "BossTankStage2Rocket",
+                "maxHealth": 900,
+                "collisionDamage": 180,
+                "rewardPoints": 180,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 5
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage2Cannon",
+                "maxHealth": 1100,
+                "collisionDamage": 180,
+                "rewardPoints": 280,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTank",
+        "level": 10,
+        "pawns": [
+            {
+                "type": "BossTankStage2Rocket",
+                "maxHealth": 950,
+                "collisionDamage": 190,
+                "rewardPoints": 190,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 5
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage2Cannon",
+                "maxHealth": 1150,
+                "collisionDamage": 190,
+                "rewardPoints": 290,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTank",
+        "level": 11,
+        "pawns": [
+            {
+                "type": "BossTankStage2Rocket",
+                "maxHealth": 1000,
+                "collisionDamage": 200,
+                "rewardPoints": 200,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 6
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage2Cannon",
+                "maxHealth": 1200,
+                "collisionDamage": 200,
+                "rewardPoints": 300,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTank",
+        "level": 12,
+        "pawns": [
+            {
+                "type": "BossTankStage2Rocket",
+                "maxHealth": 1050,
+                "collisionDamage": 210,
+                "rewardPoints": 210,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 6
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage2Cannon",
+                "maxHealth": 1250,
+                "collisionDamage": 210,
+                "rewardPoints": 310,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTank",
+        "level": 13,
+        "pawns": [
+            {
+                "type": "BossTankStage2Rocket",
+                "maxHealth": 1100,
+                "collisionDamage": 220,
+                "rewardPoints": 220,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 7
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage2Cannon",
+                "maxHealth": 1300,
+                "collisionDamage": 220,
+                "rewardPoints": 320,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTank",
+        "level": 14,
+        "pawns": [
+            {
+                "type": "BossTankStage2Rocket",
+                "maxHealth": 1150,
+                "collisionDamage": 230,
+                "rewardPoints": 230,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 7
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage2Cannon",
+                "maxHealth": 1350,
+                "collisionDamage": 230,
+                "rewardPoints": 330,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTank",
+        "level": 15,
+        "pawns": [
+            {
+                "type": "BossTankStage2Rocket",
+                "maxHealth": 1200,
+                "collisionDamage": 240,
+                "rewardPoints": 240,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 8
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage2Cannon",
+                "maxHealth": 1400,
+                "collisionDamage": 240,
+                "rewardPoints": 340,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTank",
+        "level": 16,
+        "pawns": [
+            {
+                "type": "BossTankStage2Rocket",
+                "maxHealth": 1250,
+                "collisionDamage": 250,
+                "rewardPoints": 250,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 8
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage2Cannon",
+                "maxHealth": 1450,
+                "collisionDamage": 250,
+                "rewardPoints": 350,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTank",
+        "level": 17,
+        "pawns": [
+            {
+                "type": "BossTankStage2Rocket",
+                "maxHealth": 1300,
+                "collisionDamage": 260,
+                "rewardPoints": 260,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 9
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage2Cannon",
+                "maxHealth": 1500,
+                "collisionDamage": 260,
+                "rewardPoints": 360,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTank",
+        "level": 18,
+        "pawns": [
+            {
+                "type": "BossTankStage2Rocket",
+                "maxHealth": 1350,
+                "collisionDamage": 270,
+                "rewardPoints": 270,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 9
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage2Cannon",
+                "maxHealth": 1550,
+                "collisionDamage": 270,
+                "rewardPoints": 370,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTank",
+        "level": 19,
+        "pawns": [
+            {
+                "type": "BossTankStage2Rocket",
+                "maxHealth": 1400,
+                "collisionDamage": 280,
+                "rewardPoints": 280,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 10
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage2Cannon",
+                "maxHealth": 1600,
+                "collisionDamage": 280,
+                "rewardPoints": 380,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTank",
+        "level": 20,
+        "pawns": [
+            {
+                "type": "BossTankStage2Rocket",
+                "maxHealth": 1450,
+                "collisionDamage": 290,
+                "rewardPoints": 290,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 10
+                    }
+                ]
+            },
+            {
+                "type": "BossTankStage2Cannon",
+                "maxHealth": 1650,
+                "collisionDamage": 290,
+                "rewardPoints": 390,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTank",
+        "level": 1,
+        "pawns": [
+            {
+                "type": "BossTankStage3",
+                "maxHealth": 1500,
+                "collisionDamage": 200,
+                "rewardPoints": 1000,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTank",
+        "level": 2,
+        "pawns": [
+            {
+                "type": "BossTankStage3",
+                "maxHealth": 1575,
+                "collisionDamage": 220,
+                "rewardPoints": 1050,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTank",
+        "level": 3,
+        "pawns": [
+            {
+                "type": "BossTankStage3",
+                "maxHealth": 1650,
+                "collisionDamage": 240,
+                "rewardPoints": 1100,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTank",
+        "level": 4,
+        "pawns": [
+            {
+                "type": "BossTankStage3",
+                "maxHealth": 1725,
+                "collisionDamage": 260,
+                "rewardPoints": 1150,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTank",
+        "level": 5,
+        "pawns": [
+            {
+                "type": "BossTankStage3",
+                "maxHealth": 1800,
+                "collisionDamage": 280,
+                "rewardPoints": 1200,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTank",
+        "level": 6,
+        "pawns": [
+            {
+                "type": "BossTankStage3",
+                "maxHealth": 1875,
+                "collisionDamage": 300,
+                "rewardPoints": 1250,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTank",
+        "level": 7,
+        "pawns": [
+            {
+                "type": "BossTankStage3",
+                "maxHealth": 1950,
+                "collisionDamage": 320,
+                "rewardPoints": 1300,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTank",
+        "level": 8,
+        "pawns": [
+            {
+                "type": "BossTankStage3",
+                "maxHealth": 2025,
+                "collisionDamage": 340,
+                "rewardPoints": 1350,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTank",
+        "level": 9,
+        "pawns": [
+            {
+                "type": "BossTankStage3",
+                "maxHealth": 2100,
+                "collisionDamage": 360,
+                "rewardPoints": 1400,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTank",
+        "level": 10,
+        "pawns": [
+            {
+                "type": "BossTankStage3",
+                "maxHealth": 2175,
+                "collisionDamage": 380,
+                "rewardPoints": 1450,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTank",
+        "level": 11,
+        "pawns": [
+            {
+                "type": "BossTankStage3",
+                "maxHealth": 2250,
+                "collisionDamage": 400,
+                "rewardPoints": 1500,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTank",
+        "level": 12,
+        "pawns": [
+            {
+                "type": "BossTankStage3",
+                "maxHealth": 2325,
+                "collisionDamage": 420,
+                "rewardPoints": 1550,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTank",
+        "level": 13,
+        "pawns": [
+            {
+                "type": "BossTankStage3",
+                "maxHealth": 2400,
+                "collisionDamage": 440,
+                "rewardPoints": 1600,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTank",
+        "level": 14,
+        "pawns": [
+            {
+                "type": "BossTankStage3",
+                "maxHealth": 2475,
+                "collisionDamage": 460,
+                "rewardPoints": 1650,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTank",
+        "level": 15,
+        "pawns": [
+            {
+                "type": "BossTankStage3",
+                "maxHealth": 2550,
+                "collisionDamage": 480,
+                "rewardPoints": 1700,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTank",
+        "level": 16,
+        "pawns": [
+            {
+                "type": "BossTankStage3",
+                "maxHealth": 2625,
+                "collisionDamage": 500,
+                "rewardPoints": 1750,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTank",
+        "level": 17,
+        "pawns": [
+            {
+                "type": "BossTankStage3",
+                "maxHealth": 2700,
+                "collisionDamage": 520,
+                "rewardPoints": 1800,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTank",
+        "level": 18,
+        "pawns": [
+            {
+                "type": "BossTankStage3",
+                "maxHealth": 2775,
+                "collisionDamage": 540,
+                "rewardPoints": 1850,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTank",
+        "level": 19,
+        "pawns": [
+            {
+                "type": "BossTankStage3",
+                "maxHealth": 2850,
+                "collisionDamage": 560,
+                "rewardPoints": 1900,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTank",
+        "level": 20,
+        "pawns": [
+            {
+                "type": "BossTankStage3",
+                "maxHealth": 2925,
+                "collisionDamage": 580,
+                "rewardPoints": 1950,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTrain",
+        "level": 1,
+        "pawns": [
+            {
+                "type": "BossTrainStage1Machinegun",
+                "maxHealth": 700,
+                "collisionDamage": 140,
+                "rewardPoints": 140,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 1
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage1Cannon",
+                "maxHealth": 800,
+                "collisionDamage": 160,
+                "rewardPoints": 200,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTrain",
+        "level": 2,
+        "pawns": [
+            {
+                "type": "BossTrainStage1Machinegun",
+                "maxHealth": 750,
+                "collisionDamage": 150,
+                "rewardPoints": 150,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 1
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage1Cannon",
+                "maxHealth": 850,
+                "collisionDamage": 170,
+                "rewardPoints": 210,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTrain",
+        "level": 3,
+        "pawns": [
+            {
+                "type": "BossTrainStage1Machinegun",
+                "maxHealth": 800,
+                "collisionDamage": 160,
+                "rewardPoints": 160,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 2
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage1Cannon",
+                "maxHealth": 900,
+                "collisionDamage": 180,
+                "rewardPoints": 220,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTrain",
+        "level": 4,
+        "pawns": [
+            {
+                "type": "BossTrainStage1Machinegun",
+                "maxHealth": 850,
+                "collisionDamage": 170,
+                "rewardPoints": 170,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 2
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage1Cannon",
+                "maxHealth": 950,
+                "collisionDamage": 190,
+                "rewardPoints": 230,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTrain",
+        "level": 5,
+        "pawns": [
+            {
+                "type": "BossTrainStage1Machinegun",
+                "maxHealth": 900,
+                "collisionDamage": 180,
+                "rewardPoints": 180,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 3
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage1Cannon",
+                "maxHealth": 1000,
+                "collisionDamage": 200,
+                "rewardPoints": 240,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTrain",
+        "level": 6,
+        "pawns": [
+            {
+                "type": "BossTrainStage1Machinegun",
+                "maxHealth": 950,
+                "collisionDamage": 190,
+                "rewardPoints": 190,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 3
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage1Cannon",
+                "maxHealth": 1050,
+                "collisionDamage": 210,
+                "rewardPoints": 250,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTrain",
+        "level": 7,
+        "pawns": [
+            {
+                "type": "BossTrainStage1Machinegun",
+                "maxHealth": 1000,
+                "collisionDamage": 200,
+                "rewardPoints": 200,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 4
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage1Cannon",
+                "maxHealth": 1100,
+                "collisionDamage": 220,
+                "rewardPoints": 260,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTrain",
+        "level": 8,
+        "pawns": [
+            {
+                "type": "BossTrainStage1Machinegun",
+                "maxHealth": 1050,
+                "collisionDamage": 210,
+                "rewardPoints": 210,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 4
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage1Cannon",
+                "maxHealth": 1150,
+                "collisionDamage": 230,
+                "rewardPoints": 270,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTrain",
+        "level": 9,
+        "pawns": [
+            {
+                "type": "BossTrainStage1Machinegun",
+                "maxHealth": 1100,
+                "collisionDamage": 220,
+                "rewardPoints": 220,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 5
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage1Cannon",
+                "maxHealth": 1200,
+                "collisionDamage": 240,
+                "rewardPoints": 280,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTrain",
+        "level": 10,
+        "pawns": [
+            {
+                "type": "BossTrainStage1Machinegun",
+                "maxHealth": 1150,
+                "collisionDamage": 230,
+                "rewardPoints": 230,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 5
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage1Cannon",
+                "maxHealth": 1250,
+                "collisionDamage": 250,
+                "rewardPoints": 290,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTrain",
+        "level": 11,
+        "pawns": [
+            {
+                "type": "BossTrainStage1Machinegun",
+                "maxHealth": 1200,
+                "collisionDamage": 240,
+                "rewardPoints": 240,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 6
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage1Cannon",
+                "maxHealth": 1300,
+                "collisionDamage": 260,
+                "rewardPoints": 300,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTrain",
+        "level": 12,
+        "pawns": [
+            {
+                "type": "BossTrainStage1Machinegun",
+                "maxHealth": 1250,
+                "collisionDamage": 250,
+                "rewardPoints": 250,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 6
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage1Cannon",
+                "maxHealth": 1350,
+                "collisionDamage": 270,
+                "rewardPoints": 310,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTrain",
+        "level": 13,
+        "pawns": [
+            {
+                "type": "BossTrainStage1Machinegun",
+                "maxHealth": 1300,
+                "collisionDamage": 260,
+                "rewardPoints": 260,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 7
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage1Cannon",
+                "maxHealth": 1400,
+                "collisionDamage": 280,
+                "rewardPoints": 320,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTrain",
+        "level": 14,
+        "pawns": [
+            {
+                "type": "BossTrainStage1Machinegun",
+                "maxHealth": 1350,
+                "collisionDamage": 270,
+                "rewardPoints": 270,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 7
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage1Cannon",
+                "maxHealth": 1450,
+                "collisionDamage": 290,
+                "rewardPoints": 330,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTrain",
+        "level": 15,
+        "pawns": [
+            {
+                "type": "BossTrainStage1Machinegun",
+                "maxHealth": 1400,
+                "collisionDamage": 280,
+                "rewardPoints": 280,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 8
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage1Cannon",
+                "maxHealth": 1500,
+                "collisionDamage": 300,
+                "rewardPoints": 340,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTrain",
+        "level": 16,
+        "pawns": [
+            {
+                "type": "BossTrainStage1Machinegun",
+                "maxHealth": 1450,
+                "collisionDamage": 290,
+                "rewardPoints": 290,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 8
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage1Cannon",
+                "maxHealth": 1550,
+                "collisionDamage": 310,
+                "rewardPoints": 350,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTrain",
+        "level": 17,
+        "pawns": [
+            {
+                "type": "BossTrainStage1Machinegun",
+                "maxHealth": 1500,
+                "collisionDamage": 300,
+                "rewardPoints": 300,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 9
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage1Cannon",
+                "maxHealth": 1600,
+                "collisionDamage": 320,
+                "rewardPoints": 360,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTrain",
+        "level": 18,
+        "pawns": [
+            {
+                "type": "BossTrainStage1Machinegun",
+                "maxHealth": 1550,
+                "collisionDamage": 310,
+                "rewardPoints": 310,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 9
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage1Cannon",
+                "maxHealth": 1650,
+                "collisionDamage": 330,
+                "rewardPoints": 370,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTrain",
+        "level": 19,
+        "pawns": [
+            {
+                "type": "BossTrainStage1Machinegun",
+                "maxHealth": 1600,
+                "collisionDamage": 320,
+                "rewardPoints": 320,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 10
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage1Cannon",
+                "maxHealth": 1700,
+                "collisionDamage": 340,
+                "rewardPoints": 380,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossTrain",
+        "level": 20,
+        "pawns": [
+            {
+                "type": "BossTrainStage1Machinegun",
+                "maxHealth": 1650,
+                "collisionDamage": 330,
+                "rewardPoints": 330,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 10
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage1Cannon",
+                "maxHealth": 1750,
+                "collisionDamage": 350,
+                "rewardPoints": 390,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTrain",
+        "level": 1,
+        "pawns": [
+            {
+                "type": "BossTrainStage2Cannon",
+                "maxHealth": 900,
+                "collisionDamage": 140,
+                "rewardPoints": 140,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 1
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2Missile",
+                "maxHealth": 1100,
+                "collisionDamage": 160,
+                "rewardPoints": 200,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 1
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2BoloCannon",
+                "maxHealth": 1300,
+                "collisionDamage": 180,
+                "rewardPoints": 220,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTrain",
+        "level": 2,
+        "pawns": [
+            {
+                "type": "BossTrainStage2Cannon",
+                "maxHealth": 950,
+                "collisionDamage": 150,
+                "rewardPoints": 150,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 1
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2Missile",
+                "maxHealth": 1150,
+                "collisionDamage": 170,
+                "rewardPoints": 210,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 1
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2BoloCannon",
+                "maxHealth": 1350,
+                "collisionDamage": 190,
+                "rewardPoints": 230,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTrain",
+        "level": 3,
+        "pawns": [
+            {
+                "type": "BossTrainStage2Cannon",
+                "maxHealth": 1000,
+                "collisionDamage": 160,
+                "rewardPoints": 160,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 2
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2Missile",
+                "maxHealth": 1200,
+                "collisionDamage": 180,
+                "rewardPoints": 220,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 2
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2BoloCannon",
+                "maxHealth": 1400,
+                "collisionDamage": 200,
+                "rewardPoints": 240,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTrain",
+        "level": 4,
+        "pawns": [
+            {
+                "type": "BossTrainStage2Cannon",
+                "maxHealth": 1050,
+                "collisionDamage": 170,
+                "rewardPoints": 170,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 2
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2Missile",
+                "maxHealth": 1250,
+                "collisionDamage": 190,
+                "rewardPoints": 230,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 2
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2BoloCannon",
+                "maxHealth": 1450,
+                "collisionDamage": 210,
+                "rewardPoints": 250,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTrain",
+        "level": 5,
+        "pawns": [
+            {
+                "type": "BossTrainStage2Cannon",
+                "maxHealth": 1100,
+                "collisionDamage": 180,
+                "rewardPoints": 180,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 3
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2Missile",
+                "maxHealth": 1300,
+                "collisionDamage": 200,
+                "rewardPoints": 240,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 3
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2BoloCannon",
+                "maxHealth": 1500,
+                "collisionDamage": 220,
+                "rewardPoints": 260,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTrain",
+        "level": 6,
+        "pawns": [
+            {
+                "type": "BossTrainStage2Cannon",
+                "maxHealth": 1150,
+                "collisionDamage": 190,
+                "rewardPoints": 190,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 3
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2Missile",
+                "maxHealth": 1350,
+                "collisionDamage": 210,
+                "rewardPoints": 250,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 3
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2BoloCannon",
+                "maxHealth": 1550,
+                "collisionDamage": 230,
+                "rewardPoints": 270,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTrain",
+        "level": 7,
+        "pawns": [
+            {
+                "type": "BossTrainStage2Cannon",
+                "maxHealth": 1200,
+                "collisionDamage": 200,
+                "rewardPoints": 200,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 4
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2Missile",
+                "maxHealth": 1400,
+                "collisionDamage": 220,
+                "rewardPoints": 260,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 4
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2BoloCannon",
+                "maxHealth": 1600,
+                "collisionDamage": 240,
+                "rewardPoints": 280,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTrain",
+        "level": 8,
+        "pawns": [
+            {
+                "type": "BossTrainStage2Cannon",
+                "maxHealth": 1250,
+                "collisionDamage": 210,
+                "rewardPoints": 210,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 4
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2Missile",
+                "maxHealth": 1450,
+                "collisionDamage": 230,
+                "rewardPoints": 270,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 4
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2BoloCannon",
+                "maxHealth": 1650,
+                "collisionDamage": 250,
+                "rewardPoints": 290,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTrain",
+        "level": 9,
+        "pawns": [
+            {
+                "type": "BossTrainStage2Cannon",
+                "maxHealth": 1300,
+                "collisionDamage": 220,
+                "rewardPoints": 220,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 5
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2Missile",
+                "maxHealth": 1500,
+                "collisionDamage": 240,
+                "rewardPoints": 280,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 5
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2BoloCannon",
+                "maxHealth": 1700,
+                "collisionDamage": 260,
+                "rewardPoints": 300,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTrain",
+        "level": 10,
+        "pawns": [
+            {
+                "type": "BossTrainStage2Cannon",
+                "maxHealth": 1350,
+                "collisionDamage": 230,
+                "rewardPoints": 230,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 5
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2Missile",
+                "maxHealth": 1550,
+                "collisionDamage": 250,
+                "rewardPoints": 290,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 5
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2BoloCannon",
+                "maxHealth": 1750,
+                "collisionDamage": 270,
+                "rewardPoints": 310,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTrain",
+        "level": 11,
+        "pawns": [
+            {
+                "type": "BossTrainStage2Cannon",
+                "maxHealth": 1400,
+                "collisionDamage": 240,
+                "rewardPoints": 240,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 6
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2Missile",
+                "maxHealth": 1600,
+                "collisionDamage": 260,
+                "rewardPoints": 300,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 6
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2BoloCannon",
+                "maxHealth": 1800,
+                "collisionDamage": 280,
+                "rewardPoints": 320,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTrain",
+        "level": 12,
+        "pawns": [
+            {
+                "type": "BossTrainStage2Cannon",
+                "maxHealth": 1450,
+                "collisionDamage": 250,
+                "rewardPoints": 250,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 6
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2Missile",
+                "maxHealth": 1650,
+                "collisionDamage": 270,
+                "rewardPoints": 310,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 6
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2BoloCannon",
+                "maxHealth": 1850,
+                "collisionDamage": 290,
+                "rewardPoints": 330,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTrain",
+        "level": 13,
+        "pawns": [
+            {
+                "type": "BossTrainStage2Cannon",
+                "maxHealth": 1500,
+                "collisionDamage": 260,
+                "rewardPoints": 260,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 7
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2Missile",
+                "maxHealth": 1700,
+                "collisionDamage": 280,
+                "rewardPoints": 320,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 7
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2BoloCannon",
+                "maxHealth": 1900,
+                "collisionDamage": 300,
+                "rewardPoints": 340,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTrain",
+        "level": 14,
+        "pawns": [
+            {
+                "type": "BossTrainStage2Cannon",
+                "maxHealth": 1550,
+                "collisionDamage": 270,
+                "rewardPoints": 270,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 7
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2Missile",
+                "maxHealth": 1750,
+                "collisionDamage": 290,
+                "rewardPoints": 330,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 7
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2BoloCannon",
+                "maxHealth": 1950,
+                "collisionDamage": 310,
+                "rewardPoints": 350,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTrain",
+        "level": 15,
+        "pawns": [
+            {
+                "type": "BossTrainStage2Cannon",
+                "maxHealth": 1600,
+                "collisionDamage": 280,
+                "rewardPoints": 280,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 8
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2Missile",
+                "maxHealth": 1800,
+                "collisionDamage": 300,
+                "rewardPoints": 340,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 8
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2BoloCannon",
+                "maxHealth": 2000,
+                "collisionDamage": 320,
+                "rewardPoints": 360,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTrain",
+        "level": 16,
+        "pawns": [
+            {
+                "type": "BossTrainStage2Cannon",
+                "maxHealth": 1650,
+                "collisionDamage": 290,
+                "rewardPoints": 290,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 8
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2Missile",
+                "maxHealth": 1850,
+                "collisionDamage": 310,
+                "rewardPoints": 350,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 8
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2BoloCannon",
+                "maxHealth": 2050,
+                "collisionDamage": 330,
+                "rewardPoints": 370,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTrain",
+        "level": 17,
+        "pawns": [
+            {
+                "type": "BossTrainStage2Cannon",
+                "maxHealth": 1700,
+                "collisionDamage": 300,
+                "rewardPoints": 300,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 9
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2Missile",
+                "maxHealth": 1900,
+                "collisionDamage": 320,
+                "rewardPoints": 360,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 9
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2BoloCannon",
+                "maxHealth": 2100,
+                "collisionDamage": 340,
+                "rewardPoints": 380,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTrain",
+        "level": 18,
+        "pawns": [
+            {
+                "type": "BossTrainStage2Cannon",
+                "maxHealth": 1750,
+                "collisionDamage": 310,
+                "rewardPoints": 310,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 9
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2Missile",
+                "maxHealth": 1950,
+                "collisionDamage": 330,
+                "rewardPoints": 370,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 9
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2BoloCannon",
+                "maxHealth": 2150,
+                "collisionDamage": 350,
+                "rewardPoints": 390,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTrain",
+        "level": 19,
+        "pawns": [
+            {
+                "type": "BossTrainStage2Cannon",
+                "maxHealth": 1800,
+                "collisionDamage": 320,
+                "rewardPoints": 320,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 10
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2Missile",
+                "maxHealth": 2000,
+                "collisionDamage": 340,
+                "rewardPoints": 380,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 10
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2BoloCannon",
+                "maxHealth": 2200,
+                "collisionDamage": 360,
+                "rewardPoints": 400,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossTrain",
+        "level": 20,
+        "pawns": [
+            {
+                "type": "BossTrainStage2Cannon",
+                "maxHealth": 1850,
+                "collisionDamage": 330,
+                "rewardPoints": 330,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 10
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2Missile",
+                "maxHealth": 2050,
+                "collisionDamage": 350,
+                "rewardPoints": 390,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 10
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage2BoloCannon",
+                "maxHealth": 2250,
+                "collisionDamage": 370,
+                "rewardPoints": 410,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTrain",
+        "level": 1,
+        "pawns": [
+            {
+                "type": "BossTrainStage3Machinegun",
+                "maxHealth": 900,
+                "collisionDamage": 140,
+                "rewardPoints": 140,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 1
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3Missile",
+                "maxHealth": 1100,
+                "collisionDamage": 160,
+                "rewardPoints": 200,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 1
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3BoloCannon",
+                "maxHealth": 1300,
+                "collisionDamage": 180,
+                "rewardPoints": 220,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTrain",
+        "level": 2,
+        "pawns": [
+            {
+                "type": "BossTrainStage3Machinegun",
+                "maxHealth": 950,
+                "collisionDamage": 150,
+                "rewardPoints": 150,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 1
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3Missile",
+                "maxHealth": 1150,
+                "collisionDamage": 170,
+                "rewardPoints": 210,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 1
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3BoloCannon",
+                "maxHealth": 1350,
+                "collisionDamage": 190,
+                "rewardPoints": 230,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTrain",
+        "level": 3,
+        "pawns": [
+            {
+                "type": "BossTrainStage3Machinegun",
+                "maxHealth": 1000,
+                "collisionDamage": 160,
+                "rewardPoints": 160,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 2
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3Missile",
+                "maxHealth": 1200,
+                "collisionDamage": 180,
+                "rewardPoints": 220,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 2
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3BoloCannon",
+                "maxHealth": 1400,
+                "collisionDamage": 200,
+                "rewardPoints": 240,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTrain",
+        "level": 4,
+        "pawns": [
+            {
+                "type": "BossTrainStage3Machinegun",
+                "maxHealth": 1050,
+                "collisionDamage": 170,
+                "rewardPoints": 170,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 2
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3Missile",
+                "maxHealth": 1250,
+                "collisionDamage": 190,
+                "rewardPoints": 230,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 2
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3BoloCannon",
+                "maxHealth": 1450,
+                "collisionDamage": 210,
+                "rewardPoints": 250,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTrain",
+        "level": 5,
+        "pawns": [
+            {
+                "type": "BossTrainStage3Machinegun",
+                "maxHealth": 1100,
+                "collisionDamage": 180,
+                "rewardPoints": 180,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 3
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3Missile",
+                "maxHealth": 1300,
+                "collisionDamage": 200,
+                "rewardPoints": 240,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 3
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3BoloCannon",
+                "maxHealth": 1500,
+                "collisionDamage": 220,
+                "rewardPoints": 260,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTrain",
+        "level": 6,
+        "pawns": [
+            {
+                "type": "BossTrainStage3Machinegun",
+                "maxHealth": 1150,
+                "collisionDamage": 190,
+                "rewardPoints": 190,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 3
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3Missile",
+                "maxHealth": 1350,
+                "collisionDamage": 210,
+                "rewardPoints": 250,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 3
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3BoloCannon",
+                "maxHealth": 1550,
+                "collisionDamage": 230,
+                "rewardPoints": 270,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTrain",
+        "level": 7,
+        "pawns": [
+            {
+                "type": "BossTrainStage3Machinegun",
+                "maxHealth": 1200,
+                "collisionDamage": 200,
+                "rewardPoints": 200,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 4
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3Missile",
+                "maxHealth": 1400,
+                "collisionDamage": 220,
+                "rewardPoints": 260,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 4
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3BoloCannon",
+                "maxHealth": 1600,
+                "collisionDamage": 240,
+                "rewardPoints": 280,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTrain",
+        "level": 8,
+        "pawns": [
+            {
+                "type": "BossTrainStage3Machinegun",
+                "maxHealth": 1250,
+                "collisionDamage": 210,
+                "rewardPoints": 210,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 4
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3Missile",
+                "maxHealth": 1450,
+                "collisionDamage": 230,
+                "rewardPoints": 270,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 4
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3BoloCannon",
+                "maxHealth": 1650,
+                "collisionDamage": 250,
+                "rewardPoints": 290,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTrain",
+        "level": 9,
+        "pawns": [
+            {
+                "type": "BossTrainStage3Machinegun",
+                "maxHealth": 1300,
+                "collisionDamage": 220,
+                "rewardPoints": 220,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 5
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3Missile",
+                "maxHealth": 1500,
+                "collisionDamage": 240,
+                "rewardPoints": 280,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 5
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3BoloCannon",
+                "maxHealth": 1700,
+                "collisionDamage": 260,
+                "rewardPoints": 300,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTrain",
+        "level": 10,
+        "pawns": [
+            {
+                "type": "BossTrainStage3Machinegun",
+                "maxHealth": 1350,
+                "collisionDamage": 230,
+                "rewardPoints": 230,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 5
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3Missile",
+                "maxHealth": 1550,
+                "collisionDamage": 250,
+                "rewardPoints": 290,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 5
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3BoloCannon",
+                "maxHealth": 1750,
+                "collisionDamage": 270,
+                "rewardPoints": 310,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTrain",
+        "level": 11,
+        "pawns": [
+            {
+                "type": "BossTrainStage3Machinegun",
+                "maxHealth": 1400,
+                "collisionDamage": 240,
+                "rewardPoints": 240,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 6
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3Missile",
+                "maxHealth": 1600,
+                "collisionDamage": 260,
+                "rewardPoints": 300,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 6
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3BoloCannon",
+                "maxHealth": 1800,
+                "collisionDamage": 280,
+                "rewardPoints": 320,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTrain",
+        "level": 12,
+        "pawns": [
+            {
+                "type": "BossTrainStage3Machinegun",
+                "maxHealth": 1450,
+                "collisionDamage": 250,
+                "rewardPoints": 250,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 6
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3Missile",
+                "maxHealth": 1650,
+                "collisionDamage": 270,
+                "rewardPoints": 310,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 6
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3BoloCannon",
+                "maxHealth": 1850,
+                "collisionDamage": 290,
+                "rewardPoints": 330,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTrain",
+        "level": 13,
+        "pawns": [
+            {
+                "type": "BossTrainStage3Machinegun",
+                "maxHealth": 1500,
+                "collisionDamage": 260,
+                "rewardPoints": 260,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 7
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3Missile",
+                "maxHealth": 1700,
+                "collisionDamage": 280,
+                "rewardPoints": 320,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 7
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3BoloCannon",
+                "maxHealth": 1900,
+                "collisionDamage": 300,
+                "rewardPoints": 340,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTrain",
+        "level": 14,
+        "pawns": [
+            {
+                "type": "BossTrainStage3Machinegun",
+                "maxHealth": 1550,
+                "collisionDamage": 270,
+                "rewardPoints": 270,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 7
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3Missile",
+                "maxHealth": 1750,
+                "collisionDamage": 290,
+                "rewardPoints": 330,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 7
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3BoloCannon",
+                "maxHealth": 1950,
+                "collisionDamage": 310,
+                "rewardPoints": 350,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTrain",
+        "level": 15,
+        "pawns": [
+            {
+                "type": "BossTrainStage3Machinegun",
+                "maxHealth": 1600,
+                "collisionDamage": 280,
+                "rewardPoints": 280,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 8
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3Missile",
+                "maxHealth": 1800,
+                "collisionDamage": 300,
+                "rewardPoints": 340,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 8
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3BoloCannon",
+                "maxHealth": 2000,
+                "collisionDamage": 320,
+                "rewardPoints": 360,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTrain",
+        "level": 16,
+        "pawns": [
+            {
+                "type": "BossTrainStage3Machinegun",
+                "maxHealth": 1650,
+                "collisionDamage": 290,
+                "rewardPoints": 290,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 8
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3Missile",
+                "maxHealth": 1850,
+                "collisionDamage": 310,
+                "rewardPoints": 350,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 8
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3BoloCannon",
+                "maxHealth": 2050,
+                "collisionDamage": 330,
+                "rewardPoints": 370,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTrain",
+        "level": 17,
+        "pawns": [
+            {
+                "type": "BossTrainStage3Machinegun",
+                "maxHealth": 1700,
+                "collisionDamage": 300,
+                "rewardPoints": 300,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 9
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3Missile",
+                "maxHealth": 1900,
+                "collisionDamage": 320,
+                "rewardPoints": 360,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 9
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3BoloCannon",
+                "maxHealth": 2100,
+                "collisionDamage": 340,
+                "rewardPoints": 380,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTrain",
+        "level": 18,
+        "pawns": [
+            {
+                "type": "BossTrainStage3Machinegun",
+                "maxHealth": 1750,
+                "collisionDamage": 310,
+                "rewardPoints": 310,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 9
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3Missile",
+                "maxHealth": 1950,
+                "collisionDamage": 330,
+                "rewardPoints": 370,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 9
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3BoloCannon",
+                "maxHealth": 2150,
+                "collisionDamage": 350,
+                "rewardPoints": 390,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTrain",
+        "level": 19,
+        "pawns": [
+            {
+                "type": "BossTrainStage3Machinegun",
+                "maxHealth": 1800,
+                "collisionDamage": 320,
+                "rewardPoints": 320,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 10
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3Missile",
+                "maxHealth": 2000,
+                "collisionDamage": 340,
+                "rewardPoints": 380,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 10
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3BoloCannon",
+                "maxHealth": 2200,
+                "collisionDamage": 360,
+                "rewardPoints": 400,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossTrain",
+        "level": 20,
+        "pawns": [
+            {
+                "type": "BossTrainStage3Machinegun",
+                "maxHealth": 1850,
+                "collisionDamage": 330,
+                "rewardPoints": 330,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 10
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3Missile",
+                "maxHealth": 2050,
+                "collisionDamage": 350,
+                "rewardPoints": 390,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 10
+                    }
+                ]
+            },
+            {
+                "type": "BossTrainStage3BoloCannon",
+                "maxHealth": 2250,
+                "collisionDamage": 370,
+                "rewardPoints": 410,
+                "weaponInfo": [
+                    {
+                        "type": "BossPulseCannon",
+                        "level": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossTrain",
+        "level": 1,
+        "pawns": [
+            {
+                "type": "BossTrainStage4",
+                "maxHealth": 2500,
+                "collisionDamage": 450,
+                "rewardPoints": 1200,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossTrain",
+        "level": 2,
+        "pawns": [
+            {
+                "type": "BossTrainStage4",
+                "maxHealth": 2625,
+                "collisionDamage": 495,
+                "rewardPoints": 1250,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossTrain",
+        "level": 3,
+        "pawns": [
+            {
+                "type": "BossTrainStage4",
+                "maxHealth": 2756,
+                "collisionDamage": 545,
+                "rewardPoints": 1300,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossTrain",
+        "level": 4,
+        "pawns": [
+            {
+                "type": "BossTrainStage4",
+                "maxHealth": 2894,
+                "collisionDamage": 600,
+                "rewardPoints": 1350,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossTrain",
+        "level": 5,
+        "pawns": [
+            {
+                "type": "BossTrainStage4",
+                "maxHealth": 3039,
+                "collisionDamage": 660,
+                "rewardPoints": 1400,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossTrain",
+        "level": 6,
+        "pawns": [
+            {
+                "type": "BossTrainStage4",
+                "maxHealth": 3191,
+                "collisionDamage": 726,
+                "rewardPoints": 1450,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossTrain",
+        "level": 7,
+        "pawns": [
+            {
+                "type": "BossTrainStage4",
+                "maxHealth": 3351,
+                "collisionDamage": 799,
+                "rewardPoints": 1500,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossTrain",
+        "level": 8,
+        "pawns": [
+            {
+                "type": "BossTrainStage4",
+                "maxHealth": 3519,
+                "collisionDamage": 879,
+                "rewardPoints": 1550,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossTrain",
+        "level": 9,
+        "pawns": [
+            {
+                "type": "BossTrainStage4",
+                "maxHealth": 3695,
+                "collisionDamage": 967,
+                "rewardPoints": 1600,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossTrain",
+        "level": 10,
+        "pawns": [
+            {
+                "type": "BossTrainStage4",
+                "maxHealth": 3880,
+                "collisionDamage": 1064,
+                "rewardPoints": 1650,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossTrain",
+        "level": 11,
+        "pawns": [
+            {
+                "type": "BossTrainStage4",
+                "maxHealth": 4074,
+                "collisionDamage": 1170,
+                "rewardPoints": 1700,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossTrain",
+        "level": 12,
+        "pawns": [
+            {
+                "type": "BossTrainStage4",
+                "maxHealth": 4278,
+                "collisionDamage": 1287,
+                "rewardPoints": 1750,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossTrain",
+        "level": 13,
+        "pawns": [
+            {
+                "type": "BossTrainStage4",
+                "maxHealth": 4492,
+                "collisionDamage": 1416,
+                "rewardPoints": 1800,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossTrain",
+        "level": 14,
+        "pawns": [
+            {
+                "type": "BossTrainStage4",
+                "maxHealth": 4717,
+                "collisionDamage": 1558,
+                "rewardPoints": 1850,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossTrain",
+        "level": 15,
+        "pawns": [
+            {
+                "type": "BossTrainStage4",
+                "maxHealth": 4953,
+                "collisionDamage": 1714,
+                "rewardPoints": 1900,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossTrain",
+        "level": 16,
+        "pawns": [
+            {
+                "type": "BossTrainStage4",
+                "maxHealth": 5201,
+                "collisionDamage": 1885,
+                "rewardPoints": 1950,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossTrain",
+        "level": 17,
+        "pawns": [
+            {
+                "type": "BossTrainStage4",
+                "maxHealth": 5461,
+                "collisionDamage": 2074,
+                "rewardPoints": 2000,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossTrain",
+        "level": 18,
+        "pawns": [
+            {
+                "type": "BossTrainStage4",
+                "maxHealth": 5734,
+                "collisionDamage": 2281,
+                "rewardPoints": 2050,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossTrain",
+        "level": 19,
+        "pawns": [
+            {
+                "type": "BossTrainStage4",
+                "maxHealth": 6021,
+                "collisionDamage": 2509,
+                "rewardPoints": 2100,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossTrain",
+        "level": 20,
+        "pawns": [
+            {
+                "type": "BossTrainStage4",
+                "maxHealth": 6322,
+                "collisionDamage": 2760,
+                "rewardPoints": 2150,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossHelicopter",
+        "level": 1,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage1Machinegun",
+                "maxHealth": 900,
+                "collisionDamage": 140,
+                "rewardPoints": 140,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 1
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage1Gun",
+                "maxHealth": 1100,
+                "collisionDamage": 160,
+                "rewardPoints": 200,
+                "weaponInfo": [
+                    {
+                        "type": "BossLaser",
+                        "level": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossHelicopter",
+        "level": 2,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage1Machinegun",
+                "maxHealth": 950,
+                "collisionDamage": 150,
+                "rewardPoints": 150,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 1
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage1Gun",
+                "maxHealth": 1150,
+                "collisionDamage": 170,
+                "rewardPoints": 210,
+                "weaponInfo": [
+                    {
+                        "type": "BossLaser",
+                        "level": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossHelicopter",
+        "level": 3,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage1Machinegun",
+                "maxHealth": 1000,
+                "collisionDamage": 160,
+                "rewardPoints": 160,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 2
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage1Gun",
+                "maxHealth": 1200,
+                "collisionDamage": 180,
+                "rewardPoints": 220,
+                "weaponInfo": [
+                    {
+                        "type": "BossLaser",
+                        "level": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossHelicopter",
+        "level": 4,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage1Machinegun",
+                "maxHealth": 1050,
+                "collisionDamage": 170,
+                "rewardPoints": 170,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 2
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage1Gun",
+                "maxHealth": 1250,
+                "collisionDamage": 190,
+                "rewardPoints": 230,
+                "weaponInfo": [
+                    {
+                        "type": "BossLaser",
+                        "level": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossHelicopter",
+        "level": 5,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage1Machinegun",
+                "maxHealth": 1100,
+                "collisionDamage": 180,
+                "rewardPoints": 180,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 3
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage1Gun",
+                "maxHealth": 1300,
+                "collisionDamage": 200,
+                "rewardPoints": 240,
+                "weaponInfo": [
+                    {
+                        "type": "BossLaser",
+                        "level": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossHelicopter",
+        "level": 6,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage1Machinegun",
+                "maxHealth": 1150,
+                "collisionDamage": 190,
+                "rewardPoints": 190,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 3
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage1Gun",
+                "maxHealth": 1350,
+                "collisionDamage": 210,
+                "rewardPoints": 250,
+                "weaponInfo": [
+                    {
+                        "type": "BossLaser",
+                        "level": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossHelicopter",
+        "level": 7,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage1Machinegun",
+                "maxHealth": 1200,
+                "collisionDamage": 200,
+                "rewardPoints": 200,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 4
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage1Gun",
+                "maxHealth": 1400,
+                "collisionDamage": 220,
+                "rewardPoints": 260,
+                "weaponInfo": [
+                    {
+                        "type": "BossLaser",
+                        "level": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossHelicopter",
+        "level": 8,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage1Machinegun",
+                "maxHealth": 1250,
+                "collisionDamage": 210,
+                "rewardPoints": 210,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 4
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage1Gun",
+                "maxHealth": 1450,
+                "collisionDamage": 230,
+                "rewardPoints": 270,
+                "weaponInfo": [
+                    {
+                        "type": "BossLaser",
+                        "level": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossHelicopter",
+        "level": 9,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage1Machinegun",
+                "maxHealth": 1300,
+                "collisionDamage": 220,
+                "rewardPoints": 220,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 5
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage1Gun",
+                "maxHealth": 1500,
+                "collisionDamage": 240,
+                "rewardPoints": 280,
+                "weaponInfo": [
+                    {
+                        "type": "BossLaser",
+                        "level": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossHelicopter",
+        "level": 10,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage1Machinegun",
+                "maxHealth": 1350,
+                "collisionDamage": 230,
+                "rewardPoints": 230,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 5
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage1Gun",
+                "maxHealth": 1550,
+                "collisionDamage": 250,
+                "rewardPoints": 290,
+                "weaponInfo": [
+                    {
+                        "type": "BossLaser",
+                        "level": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossHelicopter",
+        "level": 11,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage1Machinegun",
+                "maxHealth": 1400,
+                "collisionDamage": 240,
+                "rewardPoints": 240,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 6
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage1Gun",
+                "maxHealth": 1600,
+                "collisionDamage": 260,
+                "rewardPoints": 300,
+                "weaponInfo": [
+                    {
+                        "type": "BossLaser",
+                        "level": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossHelicopter",
+        "level": 12,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage1Machinegun",
+                "maxHealth": 1450,
+                "collisionDamage": 250,
+                "rewardPoints": 250,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 6
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage1Gun",
+                "maxHealth": 1650,
+                "collisionDamage": 270,
+                "rewardPoints": 310,
+                "weaponInfo": [
+                    {
+                        "type": "BossLaser",
+                        "level": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossHelicopter",
+        "level": 13,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage1Machinegun",
+                "maxHealth": 1500,
+                "collisionDamage": 260,
+                "rewardPoints": 260,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 7
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage1Gun",
+                "maxHealth": 1700,
+                "collisionDamage": 280,
+                "rewardPoints": 320,
+                "weaponInfo": [
+                    {
+                        "type": "BossLaser",
+                        "level": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossHelicopter",
+        "level": 14,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage1Machinegun",
+                "maxHealth": 1550,
+                "collisionDamage": 270,
+                "rewardPoints": 270,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 7
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage1Gun",
+                "maxHealth": 1750,
+                "collisionDamage": 290,
+                "rewardPoints": 330,
+                "weaponInfo": [
+                    {
+                        "type": "BossLaser",
+                        "level": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossHelicopter",
+        "level": 15,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage1Machinegun",
+                "maxHealth": 1600,
+                "collisionDamage": 280,
+                "rewardPoints": 280,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 8
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage1Gun",
+                "maxHealth": 1800,
+                "collisionDamage": 300,
+                "rewardPoints": 340,
+                "weaponInfo": [
+                    {
+                        "type": "BossLaser",
+                        "level": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossHelicopter",
+        "level": 16,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage1Machinegun",
+                "maxHealth": 1650,
+                "collisionDamage": 290,
+                "rewardPoints": 290,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 8
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage1Gun",
+                "maxHealth": 1850,
+                "collisionDamage": 310,
+                "rewardPoints": 350,
+                "weaponInfo": [
+                    {
+                        "type": "BossLaser",
+                        "level": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossHelicopter",
+        "level": 17,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage1Machinegun",
+                "maxHealth": 1700,
+                "collisionDamage": 300,
+                "rewardPoints": 300,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 9
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage1Gun",
+                "maxHealth": 1900,
+                "collisionDamage": 320,
+                "rewardPoints": 360,
+                "weaponInfo": [
+                    {
+                        "type": "BossLaser",
+                        "level": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossHelicopter",
+        "level": 18,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage1Machinegun",
+                "maxHealth": 1750,
+                "collisionDamage": 310,
+                "rewardPoints": 310,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 9
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage1Gun",
+                "maxHealth": 1950,
+                "collisionDamage": 330,
+                "rewardPoints": 370,
+                "weaponInfo": [
+                    {
+                        "type": "BossLaser",
+                        "level": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossHelicopter",
+        "level": 19,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage1Machinegun",
+                "maxHealth": 1800,
+                "collisionDamage": 320,
+                "rewardPoints": 320,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 10
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage1Gun",
+                "maxHealth": 2000,
+                "collisionDamage": 340,
+                "rewardPoints": 380,
+                "weaponInfo": [
+                    {
+                        "type": "BossLaser",
+                        "level": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 1,
+        "id": "BossHelicopter",
+        "level": 20,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage1Machinegun",
+                "maxHealth": 1850,
+                "collisionDamage": 330,
+                "rewardPoints": 330,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 10
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage1Gun",
+                "maxHealth": 2050,
+                "collisionDamage": 350,
+                "rewardPoints": 390,
+                "weaponInfo": [
+                    {
+                        "type": "BossLaser",
+                        "level": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossHelicopter",
+        "level": 1,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage2Machinegun",
+                "maxHealth": 900,
+                "collisionDamage": 140,
+                "rewardPoints": 140,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 1
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage2RocketLauncher",
+                "maxHealth": 1100,
+                "collisionDamage": 160,
+                "rewardPoints": 200,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossHelicopter",
+        "level": 2,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage2Machinegun",
+                "maxHealth": 950,
+                "collisionDamage": 150,
+                "rewardPoints": 150,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 1
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage2RocketLauncher",
+                "maxHealth": 1150,
+                "collisionDamage": 170,
+                "rewardPoints": 210,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossHelicopter",
+        "level": 3,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage2Machinegun",
+                "maxHealth": 1000,
+                "collisionDamage": 160,
+                "rewardPoints": 160,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 2
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage2RocketLauncher",
+                "maxHealth": 1200,
+                "collisionDamage": 180,
+                "rewardPoints": 220,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossHelicopter",
+        "level": 4,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage2Machinegun",
+                "maxHealth": 1050,
+                "collisionDamage": 170,
+                "rewardPoints": 170,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 2
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage2RocketLauncher",
+                "maxHealth": 1250,
+                "collisionDamage": 190,
+                "rewardPoints": 230,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossHelicopter",
+        "level": 5,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage2Machinegun",
+                "maxHealth": 1100,
+                "collisionDamage": 180,
+                "rewardPoints": 180,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 3
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage2RocketLauncher",
+                "maxHealth": 1300,
+                "collisionDamage": 200,
+                "rewardPoints": 240,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossHelicopter",
+        "level": 6,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage2Machinegun",
+                "maxHealth": 1150,
+                "collisionDamage": 190,
+                "rewardPoints": 190,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 3
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage2RocketLauncher",
+                "maxHealth": 1350,
+                "collisionDamage": 210,
+                "rewardPoints": 250,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossHelicopter",
+        "level": 7,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage2Machinegun",
+                "maxHealth": 1200,
+                "collisionDamage": 200,
+                "rewardPoints": 200,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 4
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage2RocketLauncher",
+                "maxHealth": 1400,
+                "collisionDamage": 220,
+                "rewardPoints": 260,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossHelicopter",
+        "level": 8,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage2Machinegun",
+                "maxHealth": 1250,
+                "collisionDamage": 210,
+                "rewardPoints": 210,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 4
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage2RocketLauncher",
+                "maxHealth": 1450,
+                "collisionDamage": 230,
+                "rewardPoints": 270,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossHelicopter",
+        "level": 9,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage2Machinegun",
+                "maxHealth": 1300,
+                "collisionDamage": 220,
+                "rewardPoints": 220,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 5
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage2RocketLauncher",
+                "maxHealth": 1500,
+                "collisionDamage": 240,
+                "rewardPoints": 280,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossHelicopter",
+        "level": 10,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage2Machinegun",
+                "maxHealth": 1350,
+                "collisionDamage": 230,
+                "rewardPoints": 230,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 5
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage2RocketLauncher",
+                "maxHealth": 1550,
+                "collisionDamage": 250,
+                "rewardPoints": 290,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossHelicopter",
+        "level": 11,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage2Machinegun",
+                "maxHealth": 1400,
+                "collisionDamage": 240,
+                "rewardPoints": 240,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 6
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage2RocketLauncher",
+                "maxHealth": 1600,
+                "collisionDamage": 260,
+                "rewardPoints": 300,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossHelicopter",
+        "level": 12,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage2Machinegun",
+                "maxHealth": 1450,
+                "collisionDamage": 250,
+                "rewardPoints": 250,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 6
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage2RocketLauncher",
+                "maxHealth": 1650,
+                "collisionDamage": 270,
+                "rewardPoints": 310,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossHelicopter",
+        "level": 13,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage2Machinegun",
+                "maxHealth": 1500,
+                "collisionDamage": 260,
+                "rewardPoints": 260,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 7
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage2RocketLauncher",
+                "maxHealth": 1700,
+                "collisionDamage": 280,
+                "rewardPoints": 320,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossHelicopter",
+        "level": 14,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage2Machinegun",
+                "maxHealth": 1550,
+                "collisionDamage": 270,
+                "rewardPoints": 270,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 7
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage2RocketLauncher",
+                "maxHealth": 1750,
+                "collisionDamage": 290,
+                "rewardPoints": 330,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossHelicopter",
+        "level": 15,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage2Machinegun",
+                "maxHealth": 1600,
+                "collisionDamage": 280,
+                "rewardPoints": 280,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 8
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage2RocketLauncher",
+                "maxHealth": 1800,
+                "collisionDamage": 300,
+                "rewardPoints": 340,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossHelicopter",
+        "level": 16,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage2Machinegun",
+                "maxHealth": 1650,
+                "collisionDamage": 290,
+                "rewardPoints": 290,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 8
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage2RocketLauncher",
+                "maxHealth": 1850,
+                "collisionDamage": 310,
+                "rewardPoints": 350,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossHelicopter",
+        "level": 17,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage2Machinegun",
+                "maxHealth": 1700,
+                "collisionDamage": 300,
+                "rewardPoints": 300,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 9
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage2RocketLauncher",
+                "maxHealth": 1900,
+                "collisionDamage": 320,
+                "rewardPoints": 360,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossHelicopter",
+        "level": 18,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage2Machinegun",
+                "maxHealth": 1750,
+                "collisionDamage": 310,
+                "rewardPoints": 310,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 9
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage2RocketLauncher",
+                "maxHealth": 1950,
+                "collisionDamage": 330,
+                "rewardPoints": 370,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossHelicopter",
+        "level": 19,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage2Machinegun",
+                "maxHealth": 1800,
+                "collisionDamage": 320,
+                "rewardPoints": 320,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 10
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage2RocketLauncher",
+                "maxHealth": 2000,
+                "collisionDamage": 340,
+                "rewardPoints": 380,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 2,
+        "id": "BossHelicopter",
+        "level": 20,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage2Machinegun",
+                "maxHealth": 1850,
+                "collisionDamage": 330,
+                "rewardPoints": 330,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 10
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage2RocketLauncher",
+                "maxHealth": 2050,
+                "collisionDamage": 350,
+                "rewardPoints": 390,
+                "weaponInfo": [
+                    {
+                        "type": "BossRocketLauncher",
+                        "level": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossHelicopter",
+        "level": 1,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage3Machinegun",
+                "maxHealth": 900,
+                "collisionDamage": 140,
+                "rewardPoints": 140,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 1
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage3Gun",
+                "maxHealth": 1100,
+                "collisionDamage": 160,
+                "rewardPoints": 200,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossHelicopter",
+        "level": 2,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage3Machinegun",
+                "maxHealth": 950,
+                "collisionDamage": 150,
+                "rewardPoints": 150,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 1
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage3Gun",
+                "maxHealth": 1150,
+                "collisionDamage": 170,
+                "rewardPoints": 210,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossHelicopter",
+        "level": 3,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage3Machinegun",
+                "maxHealth": 1000,
+                "collisionDamage": 160,
+                "rewardPoints": 160,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 2
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage3Gun",
+                "maxHealth": 1200,
+                "collisionDamage": 180,
+                "rewardPoints": 220,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossHelicopter",
+        "level": 4,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage3Machinegun",
+                "maxHealth": 1050,
+                "collisionDamage": 170,
+                "rewardPoints": 170,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 2
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage3Gun",
+                "maxHealth": 1250,
+                "collisionDamage": 190,
+                "rewardPoints": 230,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossHelicopter",
+        "level": 5,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage3Machinegun",
+                "maxHealth": 1100,
+                "collisionDamage": 180,
+                "rewardPoints": 180,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 3
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage3Gun",
+                "maxHealth": 1300,
+                "collisionDamage": 200,
+                "rewardPoints": 240,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossHelicopter",
+        "level": 6,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage3Machinegun",
+                "maxHealth": 1150,
+                "collisionDamage": 190,
+                "rewardPoints": 190,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 3
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage3Gun",
+                "maxHealth": 1350,
+                "collisionDamage": 210,
+                "rewardPoints": 250,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossHelicopter",
+        "level": 7,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage3Machinegun",
+                "maxHealth": 1200,
+                "collisionDamage": 200,
+                "rewardPoints": 200,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 4
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage3Gun",
+                "maxHealth": 1400,
+                "collisionDamage": 220,
+                "rewardPoints": 260,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossHelicopter",
+        "level": 8,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage3Machinegun",
+                "maxHealth": 1250,
+                "collisionDamage": 210,
+                "rewardPoints": 210,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 4
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage3Gun",
+                "maxHealth": 1450,
+                "collisionDamage": 230,
+                "rewardPoints": 270,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossHelicopter",
+        "level": 9,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage3Machinegun",
+                "maxHealth": 1300,
+                "collisionDamage": 220,
+                "rewardPoints": 220,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 5
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage3Gun",
+                "maxHealth": 1500,
+                "collisionDamage": 240,
+                "rewardPoints": 280,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossHelicopter",
+        "level": 10,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage3Machinegun",
+                "maxHealth": 1350,
+                "collisionDamage": 230,
+                "rewardPoints": 230,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 5
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage3Gun",
+                "maxHealth": 1550,
+                "collisionDamage": 250,
+                "rewardPoints": 290,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossHelicopter",
+        "level": 11,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage3Machinegun",
+                "maxHealth": 1400,
+                "collisionDamage": 240,
+                "rewardPoints": 240,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 6
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage3Gun",
+                "maxHealth": 1600,
+                "collisionDamage": 260,
+                "rewardPoints": 300,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossHelicopter",
+        "level": 12,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage3Machinegun",
+                "maxHealth": 1450,
+                "collisionDamage": 250,
+                "rewardPoints": 250,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 6
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage3Gun",
+                "maxHealth": 1650,
+                "collisionDamage": 270,
+                "rewardPoints": 310,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossHelicopter",
+        "level": 13,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage3Machinegun",
+                "maxHealth": 1500,
+                "collisionDamage": 260,
+                "rewardPoints": 260,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 7
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage3Gun",
+                "maxHealth": 1700,
+                "collisionDamage": 280,
+                "rewardPoints": 320,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossHelicopter",
+        "level": 14,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage3Machinegun",
+                "maxHealth": 1550,
+                "collisionDamage": 270,
+                "rewardPoints": 270,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 7
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage3Gun",
+                "maxHealth": 1750,
+                "collisionDamage": 290,
+                "rewardPoints": 330,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossHelicopter",
+        "level": 15,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage3Machinegun",
+                "maxHealth": 1600,
+                "collisionDamage": 280,
+                "rewardPoints": 280,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 8
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage3Gun",
+                "maxHealth": 1800,
+                "collisionDamage": 300,
+                "rewardPoints": 340,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossHelicopter",
+        "level": 16,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage3Machinegun",
+                "maxHealth": 1650,
+                "collisionDamage": 290,
+                "rewardPoints": 290,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 8
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage3Gun",
+                "maxHealth": 1850,
+                "collisionDamage": 310,
+                "rewardPoints": 350,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 8
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossHelicopter",
+        "level": 17,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage3Machinegun",
+                "maxHealth": 1700,
+                "collisionDamage": 300,
+                "rewardPoints": 300,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 9
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage3Gun",
+                "maxHealth": 1900,
+                "collisionDamage": 320,
+                "rewardPoints": 360,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossHelicopter",
+        "level": 18,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage3Machinegun",
+                "maxHealth": 1750,
+                "collisionDamage": 310,
+                "rewardPoints": 310,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 9
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage3Gun",
+                "maxHealth": 1950,
+                "collisionDamage": 330,
+                "rewardPoints": 370,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossHelicopter",
+        "level": 19,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage3Machinegun",
+                "maxHealth": 1800,
+                "collisionDamage": 320,
+                "rewardPoints": 320,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 10
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage3Gun",
+                "maxHealth": 2000,
+                "collisionDamage": 340,
+                "rewardPoints": 380,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 3,
+        "id": "BossHelicopter",
+        "level": 20,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage3Machinegun",
+                "maxHealth": 1850,
+                "collisionDamage": 330,
+                "rewardPoints": 330,
+                "weaponInfo": [
+                    {
+                        "type": "BossMachinegun",
+                        "level": 10
+                    }
+                ]
+            },
+            {
+                "type": "BossHelicopterStage3Gun",
+                "maxHealth": 2050,
+                "collisionDamage": 350,
+                "rewardPoints": 390,
+                "weaponInfo": [
+                    {
+                        "type": "BossCannon",
+                        "level": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossHelicopter",
+        "level": 1,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage4",
+                "maxHealth": 3500,
+                "collisionDamage": 450,
+                "rewardPoints": 1200,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossHelicopter",
+        "level": 2,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage4",
+                "maxHealth": 3675,
+                "collisionDamage": 495,
+                "rewardPoints": 1250,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossHelicopter",
+        "level": 3,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage4",
+                "maxHealth": 3859,
+                "collisionDamage": 545,
+                "rewardPoints": 1300,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossHelicopter",
+        "level": 4,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage4",
+                "maxHealth": 4052,
+                "collisionDamage": 600,
+                "rewardPoints": 1350,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossHelicopter",
+        "level": 5,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage4",
+                "maxHealth": 4255,
+                "collisionDamage": 660,
+                "rewardPoints": 1400,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossHelicopter",
+        "level": 6,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage4",
+                "maxHealth": 4468,
+                "collisionDamage": 726,
+                "rewardPoints": 1450,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossHelicopter",
+        "level": 7,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage4",
+                "maxHealth": 4691,
+                "collisionDamage": 799,
+                "rewardPoints": 1500,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossHelicopter",
+        "level": 8,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage4",
+                "maxHealth": 4926,
+                "collisionDamage": 879,
+                "rewardPoints": 1550,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossHelicopter",
+        "level": 9,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage4",
+                "maxHealth": 5172,
+                "collisionDamage": 967,
+                "rewardPoints": 1600,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossHelicopter",
+        "level": 10,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage4",
+                "maxHealth": 5431,
+                "collisionDamage": 1064,
+                "rewardPoints": 1650,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossHelicopter",
+        "level": 11,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage4",
+                "maxHealth": 5703,
+                "collisionDamage": 1170,
+                "rewardPoints": 1700,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossHelicopter",
+        "level": 12,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage4",
+                "maxHealth": 5988,
+                "collisionDamage": 1287,
+                "rewardPoints": 1750,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossHelicopter",
+        "level": 13,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage4",
+                "maxHealth": 6287,
+                "collisionDamage": 1416,
+                "rewardPoints": 1800,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossHelicopter",
+        "level": 14,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage4",
+                "maxHealth": 6601,
+                "collisionDamage": 1558,
+                "rewardPoints": 1850,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossHelicopter",
+        "level": 15,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage4",
+                "maxHealth": 6931,
+                "collisionDamage": 1714,
+                "rewardPoints": 1900,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossHelicopter",
+        "level": 16,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage4",
+                "maxHealth": 7278,
+                "collisionDamage": 1885,
+                "rewardPoints": 1950,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossHelicopter",
+        "level": 17,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage4",
+                "maxHealth": 7642,
+                "collisionDamage": 2074,
+                "rewardPoints": 2000,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossHelicopter",
+        "level": 18,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage4",
+                "maxHealth": 8024,
+                "collisionDamage": 2281,
+                "rewardPoints": 2050,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossHelicopter",
+        "level": 19,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage4",
+                "maxHealth": 8425,
+                "collisionDamage": 2509,
+                "rewardPoints": 2100,
+                "weaponInfo": []
+            }
+        ]
+    },
+    {
+        "stage": 4,
+        "id": "BossHelicopter",
+        "level": 20,
+        "pawns": [
+            {
+                "type": "BossHelicopterStage4",
+                "maxHealth": 8846,
+                "collisionDamage": 2760,
+                "rewardPoints": 2150,
+                "weaponInfo": []
+            }
+        ]
+    }
+]

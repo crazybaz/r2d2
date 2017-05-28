@@ -1,0 +1,169 @@
+{
+  "type": "array",
+  "format": "table",
+  "options": {
+    "disable_array_reorder": true
+  },
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "upgradeLevel": {
+        "type": "integer"
+      },
+      "headUpgradeCost": {
+        "type": "object",
+        "options": {
+          "table_row": true
+        },
+        "properties": {
+          "Soft": {
+            "description": "Soft",
+            "type": "integer"
+          },
+          "Microchips": {
+            "description": "Microchips",
+            "type": "integer"
+          }
+        }
+      },
+      "headMultiplier": {
+        "type": "object",
+        "options": {
+          "table_row": true
+        },
+        "properties": {
+          "health": {
+            "type": "number"
+          },
+          "resist": {
+            "type": "number"
+          }
+        }
+      },
+      "frameUpgradeCost": {
+        "type": "object",
+        "options": {
+          "table_row": true
+        },
+        "properties": {
+          "Soft": {
+            "type": "integer"
+          },
+          "ArmorPlates": {
+            "type": "integer"
+          }
+        }
+      },
+      "frameMultiplier": {
+        "type": "object",
+        "options": {
+          "table_row": true
+        },
+        "properties": {
+          "health": {
+            "type": "number"
+          },
+          "armor": {
+            "type": "number"
+          },
+          "collisionDamage": {
+            "type": "number"
+          }
+        }
+      },
+      "chassisUpgradeCost": {
+        "type": "object",
+        "options": {
+          "table_row": true
+        },
+        "properties": {
+          "Soft": {
+            "type": "integer"
+          },
+          "Springs": {
+            "type": "integer"
+          }
+        }
+      },
+      "chassisMultiplier": {
+        "type": "object",
+        "options": {
+          "table_row": true
+        },
+        "properties": {
+          "health": {
+            "type": "number"
+          },
+          "speed": {
+            "type": "number"
+          },
+          "collisionDamage": {
+            "type": "number"
+          },
+          "resist": {
+            "type": "number"
+          }
+        }
+      },
+      "health": {
+        "type": "integer"
+      },
+      "speed": {
+        "type": "integer"
+      },
+      "armor": {
+        "type": "integer"
+      },
+      "resist": {
+        "type": "number"
+      },
+      "collisionDamage": {
+        "type": "integer"
+      },
+      "suspensions": {
+        "type": "array",
+        "format": "table",
+        "options": {
+          "disable_array_reorder": true
+        },
+        "items": {
+          "type": "string"
+        }
+      },
+      "abilitySlots": {
+        "type": "object",
+        "options": {
+          "table_row": true
+        },
+        "properties": {
+          "active": {
+            "type": "integer"
+          },
+          "passive": {
+            "type": "integer"
+          }
+        }
+      },
+      "unlockReqs": {
+        "type": "object",
+        "options": {
+          "table_row": true
+        },
+        "properties": {
+          "playerLevel": {
+            "type": "integer"
+          },
+          "paladinType": {
+            "type": "string"
+          },
+          "paladinUpgrades": {
+            "type": "integer"
+          }
+        }
+      }
+    }
+  }
+}

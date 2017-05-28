@@ -1,0 +1,26 @@
+{
+  "type": "array",
+  "format": "table",
+  "options": {
+    "disable_array_reorder": true
+  },
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "reqs": {
+        "type": "object",
+        "options": {
+          "table_row": true
+        },
+        "properties": {
+          "paladinType": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "type": "array",
+  "options": {
+    "disable_array_reorder": true
+  },
+  "items": {
+    "type": "object",
+    "options": {
+      "collapsed": true
+    },
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "kind": {
+        "type": "string"
+      },
+      "Trooper": {
+        "type": [
+          "object",
+          "array"
+        ],
+        "format": "table",
+        "options": {
+          "disable_collapse": true,
+          "disable_edit_json": true,
+          "disable_array_reorder": true
+        },
+        "properties": {
+          "dpopPossibility": {
+            "type": "integer"
+          }
+        },
+        "items": {
+          "type": "object",
+          "options": {
+            "disable_collapse": true,
+            "disable_edit_json": true
+          },
+          "properties": {
+            "hpAmountPercent": {
+              "type": "integer"
+            },
+            "dpopPossibility": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "integer"
+            }
+          }
+        }
+      },
+      "Mite": {
+        "type": [
+          "object",
+          "array"
+        ],
+        "format": "table",
+        "options": {
+          "disable_collapse": true,
+          "disable_edit_json": true,
+          "disable_array_reorder": true
+        },
+        "properties": {
+          "dpopPossibility": {
+            "type": "integer"
+          }
+        },
+        "items": {
+          "type": "object",
+          "options": {
+            "disable_collapse": true,
+            "disable_edit_json": true
+          },
+          "properties": {
+            "hpAmountPercent": {
+              "type": "integer"
+            },
+            "dpopPossibility": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "integer"
+            }
+          }
+        }
+      },
+      "LightMech": {
+        "type": [
+          "object",
+          "array"
+        ],
+        "format": "table",
+        "options": {
+          "disable_collapse": true,
+          "disable_edit_json": true,
+          "disable_array_reorder": true
+        },
+        "properties": {
+          "dpopPossibility": {
+            "type": "integer"
+          }
+        },
+        "items": {
+          "type": "object",
+          "options": {
+            "disable_collapse": true,
+            "disable_edit_json": true
+          },
+          "properties": {
+            "hpAmountPercent": {
+              "type": "integer"
+            },
+            "dpopPossibility": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "integer"
+            }
+          }
+        }
+      },
+      "Exoskeleton": {
+        "type": [
+          "object",
+          "array"
+        ],
+        "format": "table",
+        "options": {
+          "disable_collapse": true,
+          "disable_edit_json": true,
+          "disable_array_reorder": true
+        },
+        "properties": {
+          "dpopPossibility": {
+            "type": "integer"
+          }
+        },
+        "items": {
+          "type": "object",
+          "options": {
+            "disable_collapse": true,
+            "disable_edit_json": true
+          },
+          "properties": {
+            "hpAmountPercent": {
+              "type": "integer"
+            },
+            "dpopPossibility": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "integer"
+            }
+          }
+        }
+      },
+      "Buggy": {
+        "type": [
+          "object",
+          "array"
+        ],
+        "format": "table",
+        "options": {
+          "disable_collapse": true,
+          "disable_edit_json": true,
+          "disable_array_reorder": true
+        },
+        "properties": {
+          "dpopPossibility": {
+            "type": "integer"
+          }
+        },
+        "items": {
+          "type": "object",
+          "options": {
+            "disable_collapse": true,
+            "disable_edit_json": true
+          },
+          "properties": {
+            "hpAmountPercent": {
+              "type": "integer"
+            },
+            "dpopPossibility": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "integer"
+            }
+          }
+        }
+      },
+      "Bmp": {
+        "type": [
+          "object",
+          "array"
+        ],
+        "format": "table",
+        "options": {
+          "disable_collapse": true,
+          "disable_edit_json": true,
+          "disable_array_reorder": true
+        },
+        "properties": {
+          "dpopPossibility": {
+            "type": "integer"
+          }
+        },
+        "items": {
+          "type": "object",
+          "options": {
+            "disable_collapse": true,
+            "disable_edit_json": true
+          },
+          "properties": {
+            "hpAmountPercent": {
+              "type": "integer"
+            },
+            "dpopPossibility": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "integer"
+            }
+          }
+        }
+      },
+      "Tank": {
+        "type": [
+          "object",
+          "array"
+        ],
+        "format": "table",
+        "options": {
+          "disable_collapse": true,
+          "disable_edit_json": true,
+          "disable_array_reorder": true
+        },
+        "properties": {
+          "dpopPossibility": {
+            "type": "integer"
+          }
+        },
+        "items": {
+          "type": "object",
+          "options": {
+            "disable_collapse": true,
+            "disable_edit_json": true
+          },
+          "properties": {
+            "hpAmountPercent": {
+              "type": "integer"
+            },
+            "dpopPossibility": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "integer"
+            }
+          }
+        }
+      },
+      "Mech": {
+        "type": [
+          "object",
+          "array"
+        ],
+        "format": "table",
+        "options": {
+          "disable_collapse": true,
+          "disable_edit_json": true,
+          "disable_array_reorder": true
+        },
+        "properties": {
+          "dpopPossibility": {
+            "type": "integer"
+          }
+        },
+        "items": {
+          "type": "object",
+          "options": {
+            "disable_collapse": true,
+            "disable_edit_json": true
+          },
+          "properties": {
+            "hpAmountPercent": {
+              "type": "integer"
+            },
+            "dpopPossibility": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "integer"
+            }
+          }
+        }
+      },
+      "Drone": {
+        "type": [
+          "object",
+          "array"
+        ],
+        "format": "table",
+        "options": {
+          "disable_collapse": true,
+          "disable_edit_json": true,
+          "disable_array_reorder": true
+        },
+        "properties": {
+          "dpopPossibility": {
+            "type": "integer"
+          }
+        },
+        "items": {
+          "type": "object",
+          "options": {
+            "disable_collapse": true,
+            "disable_edit_json": true
+          },
+          "properties": {
+            "hpAmountPercent": {
+              "type": "integer"
+            },
+            "dpopPossibility": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "integer"
+            }
+          }
+        }
+      },
+      "Helicopter": {
+        "type": [
+          "object",
+          "array"
+        ],
+        "format": "table",
+        "options": {
+          "disable_collapse": true,
+          "disable_edit_json": true,
+          "disable_array_reorder": true
+        },
+        "properties": {
+          "dpopPossibility": {
+            "type": "integer"
+          }
+        },
+        "items": {
+          "type": "object",
+          "options": {
+            "disable_collapse": true,
+            "disable_edit_json": true
+          },
+          "properties": {
+            "hpAmountPercent": {
+              "type": "integer"
+            },
+            "dpopPossibility": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "integer"
+            }
+          }
+        }
+      },
+      "HeavyTank": {
+        "type": [
+          "object",
+          "array"
+        ],
+        "format": "table",
+        "options": {
+          "disable_collapse": true,
+          "disable_edit_json": true,
+          "disable_array_reorder": true
+        },
+        "properties": {
+          "dpopPossibility": {
+            "type": "integer"
+          }
+        },
+        "items": {
+          "type": "object",
+          "options": {
+            "disable_collapse": true,
+            "disable_edit_json": true
+          },
+          "properties": {
+            "hpAmountPercent": {
+              "type": "integer"
+            },
+            "dpopPossibility": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "integer"
+            }
+          }
+        }
+      },
+      "Bunker": {
+        "type": [
+          "object",
+          "array"
+        ],
+        "format": "table",
+        "options": {
+          "disable_collapse": true,
+          "disable_edit_json": true,
+          "disable_array_reorder": true
+        },
+        "properties": {
+          "dpopPossibility": {
+            "type": "integer"
+          }
+        },
+        "items": {
+          "type": "object",
+          "options": {
+            "disable_collapse": true,
+            "disable_edit_json": true
+          },
+          "properties": {
+            "hpAmountPercent": {
+              "type": "integer"
+            },
+            "dpopPossibility": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "integer"
+            }
+          }
+        }
+      },
+      "BossTank": {
+        "type": [
+          "object",
+          "array"
+        ],
+        "format": "table",
+        "options": {
+          "disable_collapse": true,
+          "disable_edit_json": true,
+          "disable_array_reorder": true
+        },
+        "properties": {
+          "dpopPossibility": {
+            "type": "integer"
+          }
+        },
+        "items": {
+          "type": "object",
+          "options": {
+            "disable_collapse": true,
+            "disable_edit_json": true
+          },
+          "properties": {
+            "hpAmountPercent": {
+              "type": "integer"
+            },
+            "dpopPossibility": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "integer"
+            }
+          }
+        }
+      },
+      "BossTrain": {
+        "type": [
+          "object",
+          "array"
+        ],
+        "format": "table",
+        "options": {
+          "disable_collapse": true,
+          "disable_edit_json": true,
+          "disable_array_reorder": true
+        },
+        "properties": {
+          "dpopPossibility": {
+            "type": "integer"
+          }
+        },
+        "items": {
+          "type": "object",
+          "options": {
+            "disable_collapse": true,
+            "disable_edit_json": true
+          },
+          "properties": {
+            "hpAmountPercent": {
+              "type": "integer"
+            },
+            "dpopPossibility": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "integer"
+            }
+          }
+        }
+      },
+      "BossHelicopter": {
+        "type": [
+          "object",
+          "array"
+        ],
+        "format": "table",
+        "options": {
+          "disable_collapse": true,
+          "disable_edit_json": true,
+          "disable_array_reorder": true
+        },
+        "properties": {
+          "dpopPossibility": {
+            "type": "integer"
+          }
+        },
+        "items": {
+          "type": "object",
+          "options": {
+            "disable_collapse": true,
+            "disable_edit_json": true
+          },
+          "properties": {
+            "hpAmountPercent": {
+              "type": "integer"
+            },
+            "dpopPossibility": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "integer"
+            }
+          }
+        }
+      }
+    }
+  }
+}

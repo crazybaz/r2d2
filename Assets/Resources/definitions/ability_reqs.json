@@ -1,0 +1,134 @@
+[
+    {
+        "id": "ClusterGrenades",
+        "reqs": {
+            "paladinType": "Assault"
+        }
+    },
+    {
+        "id": "Invulnerability",
+        "reqs": {
+            "paladinType": "Crusader"
+        }
+    },
+    {
+        "id": "Nanobots",
+        "reqs": {
+            "paladinType": "Ranger"
+        }
+    },
+    {
+        "id": "ShockShells",
+        "reqs": {
+            "paladinType": "Peacemaker"
+        }
+    },
+    {
+        "id": "Phantom",
+        "reqs": {
+            "paladinType": "Juggernaut"
+        }
+    },
+    {
+        "id": "ShockWaves",
+        "reqs": {
+            "paladinType": "Ranger"
+        }
+    },
+    {
+        "id": "VacuumBomb",
+        "reqs": {
+            "paladinType": "Peacemaker"
+        }
+    },
+    {
+        "id": "Artillery",
+        "reqs": {
+            "paladinType": "Ranger"
+        }
+    },
+    {
+        "id": "DroneX",
+        "reqs": {
+            "paladinType": "Ranger"
+        }
+    },
+    {
+        "id": "DroneY",
+        "reqs": {
+            "paladinType": "Ranger"
+        }
+    },
+    {
+        "id": "Rocket",
+        "reqs": {
+            "paladinType": "Crusader"
+        }
+    },
+    {
+        "id": "HiScores",
+        "reqs": {
+            "paladinType": "Ranger"
+        }
+    },
+    {
+        "id": "Bankir",
+        "reqs": {
+            "paladinType": "Peacemaker"
+        }
+    },
+    {
+        "id": "HealthBonus",
+        "reqs": {
+            "paladinType": "Peacemaker"
+        }
+    },
+    {
+        "id": "SpeedBonus",
+        "reqs": {
+            "paladinType": "Juggernaut"
+        }
+    },
+    {
+        "id": "DamageBonus",
+        "reqs": {
+            "paladinType": "Ranger"
+        }
+    },
+    {
+        "id": "FireRate",
+        "reqs": {
+            "paladinType": "Assault"
+        }
+    },
+    {
+        "id": "ArmorBonus",
+        "reqs": {
+            "paladinType": "Assault"
+        }
+    },
+    {
+        "id": "DropRate",
+        "reqs": {
+            "paladinType": "Ranger"
+        }
+    },
+    {
+        "id": "Vampirism",
+        "reqs": {
+            "paladinType": "Peacemaker"
+        }
+    },
+    {
+        "id": "Torn",
+        "reqs": {
+            "paladinType": "Juggernaut"
+        }
+    },
+    {
+        "id": "Magnet",
+        "reqs": {
+            "paladinType": "Crusader"
+        }
+    }
+]

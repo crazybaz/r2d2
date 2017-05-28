@@ -1,0 +1,100 @@
+{
+  "type": "array",
+  "format": "table",
+  "options": {
+    "disable_array_reorder": true
+  },
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "level": {
+        "type": "integer"
+      },
+      "activationCount": {
+        "type": "integer"
+      },
+      "upgradeCost": {
+        "type": "object",
+        "options": {
+          "disable_collapse": true,
+          "disable_edit_json": true
+        },
+        "properties": {
+          "Soft": {
+            "type": "integer"
+          },
+          "EnergyPack": {
+            "type": "integer"
+          }
+        }
+      },
+      "options": {
+        "type": "object",
+        "options": {
+          "disable_collapse": true,
+          "disable_edit_json": true,
+          "disable_properties": false
+        },
+        "properties": {
+          "distance": {
+            "type": "integer"
+          },
+          "force": {
+            "type": "integer"
+          },
+          "value": {
+            "type": "integer"
+          },
+          "multiplier": {
+            "type": "number"
+          },
+          "lootBonus": {
+            "type": "integer"
+          },
+          "abilityBonus": {
+            "type": "integer"
+          },
+          "amount": {
+            "type": "integer"
+          },
+          "reloadTime": {
+            "type": "number"
+          },
+          "bullet": {
+            "type": "string"
+          },
+          "weaponLevel": {
+            "type": "integer"
+          },
+          "healthPoints": {
+            "type": "integer"
+          },
+          "duration": {
+            "type": "integer"
+          },
+          "stun": {
+            "type": "number"
+          },
+          "restorePart": {
+            "type": "number"
+          },
+          "maxHealth": {
+            "type": "integer"
+          },
+          "targetAngle": {
+            "type": "integer"
+          },
+          "minDistance": {
+            "type": "integer"
+          },
+          "maxDistance": {
+            "type": "integer"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "reward": [
+            {
+                "count": 100,
+                "items": [
+                    "Shell",
+                    "Springs"
+                ]
+            },
+            {
+                "count": 50,
+                "items": [
+                    "Microchips",
+                    "ArmorPlates",
+                    "EnergyPack"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "reward": [
+            {
+                "count": 150,
+                "items": [
+                    "Shell",
+                    "Springs"
+                ]
+            },
+            {
+                "count": 75,
+                "items": [
+                    "Microchips",
+                    "ArmorPlates",
+                    "EnergyPack"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "reward": [
+            {
+                "count": 200,
+                "items": [
+                    "Shell",
+                    "Springs"
+                ]
+            },
+            {
+                "count": 100,
+                "items": [
+                    "Microchips",
+                    "ArmorPlates",
+                    "EnergyPack"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "reward": [
+            {
+                "count": 250,
+                "items": [
+                    "Shell",
+                    "Springs"
+                ]
+            },
+            {
+                "count": 125,
+                "items": [
+                    "Microchips",
+                    "ArmorPlates",
+                    "EnergyPack"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "reward": [
+            {
+                "count": 300,
+                "items": [
+                    "Shell",
+                    "Springs"
+                ]
+            },
+            {
+                "count": 150,
+                "items": [
+                    "Microchips",
+                    "ArmorPlates",
+                    "EnergyPack"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "reward": [
+            {
+                "count": 350,
+                "items": [
+                    "Shell",
+                    "Springs"
+                ]
+            },
+            {
+                "count": 175,
+                "items": [
+                    "Microchips",
+                    "ArmorPlates",
+                    "EnergyPack"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "reward": [
+            {
+                "count": 400,
+                "items": [
+                    "Shell",
+                    "Springs"
+                ]
+            },
+            {
+                "count": 200,
+                "items": [
+                    "Microchips",
+                    "ArmorPlates",
+                    "EnergyPack"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "reward": [
+            {
+                "count": 175,
+                "items": [
+                    "Shell",
+                    "Springs"
+                ]
+            },
+            {
+                "count": 80,
+                "items": [
+                    "Microchips",
+                    "ArmorPlates",
+                    "EnergyPack"
+                ]
+            }
+        ]
+    }
+]

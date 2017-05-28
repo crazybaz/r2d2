@@ -1,0 +1,723 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"POT-Creation-Date: 2017-04-19T06:36:27.541Z\n"
+"PO-Revision-Date: 2017-04-19T06:36:27.541Z\n"
+"Language: en\n"
+
+msgid "start_battle.tips.text1"
+msgstr "You can't defeat the Boss? Upgrade your Paladin!"
+
+msgid "start_battle.tips.text2"
+msgstr "Pasive abilities work automaticly."
+
+msgid "start_battle.tips.text3"
+msgstr "You can get profit from any enemy."
+
+msgid "start_battle.tips.text4"
+msgstr "We use renewable energy only!"
+
+msgid "start_battle.loading.label"
+msgstr "Loading {0}"
+
+msgid "start_battle.start_button.label"
+msgstr ""
+"Start\n"
+"Engine"
+
+msgid "ability_dialog.title"
+msgstr "Abilities"
+
+msgid "ability_dialog.subtitle"
+msgstr "Quest"
+
+msgid "ability_dialog.bottom_message"
+msgstr "Activate ability or tap anywhere to start"
+
+msgid "options_dialog.title"
+msgstr "Options"
+
+msgid "options_dialog.facebook_button_top"
+msgstr "Log into Facebook"
+
+msgid "options_dialog.facebook_button_bottom"
+msgstr "and get bonuses"
+
+msgid "options_dialog.restore_button"
+msgstr "Restore purchases"
+
+msgid "options_dialog.help_button"
+msgstr "Help"
+
+msgid "options_dialog.friends_label"
+msgstr "Stay saved and play with your friends"
+
+msgid "options_dialog.terms_of_service"
+msgstr "Terms of service"
+
+msgid "options_dialog.privacy_policy"
+msgstr "Privacy policy"
+
+msgid "options_dialog.userId"
+msgstr "Your user ID is"
+
+msgid "bank_dialog.SoftTier0_75.label"
+msgstr "Small tokens"
+
+msgid "bank_dialog.SoftTier1.label"
+msgstr "Middle tokens"
+
+msgid "bank_dialog.SoftTier2.label"
+msgstr "Tokens"
+
+msgid "bank_dialog.SoftTier3.label"
+msgstr "A couple of Tokens"
+
+msgid "bank_dialog.SoftTier4.label"
+msgstr "A few Tokens"
+
+msgid "bank_dialog.SoftTier5.label"
+msgstr "A pile of Tokens"
+
+msgid "bank_dialog.SoftTier7.label"
+msgstr "A pack of Tokens"
+
+msgid "bank_dialog.SoftTier10.label"
+msgstr "A package of Tokens"
+
+msgid "bank_dialog.SoftTier12.label"
+msgstr "A height of Tokens"
+
+msgid "bank_dialog.SoftTier15.label"
+msgstr "Many Tokens"
+
+msgid "bank_dialog.SoftTier20.label"
+msgstr "A capsule of Tokens"
+
+msgid "bank_dialog.SoftTier25.label"
+msgstr "A tray of Tokens"
+
+msgid "bank_dialog.SoftTier30.label"
+msgstr "A box of Tokens"
+
+msgid "bank_dialog.SoftTier40.label"
+msgstr "A wrapping of Tokens"
+
+msgid "bank_dialog.SoftTier45.label"
+msgstr "A bag of Tokens"
+
+msgid "bank_dialog.SoftTier50.label"
+msgstr "A backpack full of Tokens"
+
+msgid "bank_dialog.SoftTier55.label"
+msgstr "A crate of Tokens"
+
+msgid "bank_dialog.SoftTier60.label"
+msgstr "A chest of Tokens"
+
+msgid "bank_dialog.SoftTier63.label"
+msgstr "A case of Tokens"
+
+msgid "bank_dialog.SoftTier66.label"
+msgstr "A wagon full of Tokens"
+
+msgid "bank_dialog.SoftTier70.label"
+msgstr "A pyramid full of Tokens"
+
+msgid "bank_dialog.SoftTier72.label"
+msgstr "A huge amount of Tokens"
+
+msgid "bank_dialog.HardTier0_5.label"
+msgstr "Small coins"
+
+msgid "bank_dialog.HardTier0_75.label"
+msgstr "Middle coins"
+
+msgid "bank_dialog.HardTier1.label"
+msgstr "Coins"
+
+msgid "bank_dialog.HardTier2.label"
+msgstr "A couple of Coins"
+
+msgid "bank_dialog.HardTier3.label"
+msgstr "A few Coins"
+
+msgid "bank_dialog.HardTier4.label"
+msgstr "A pile of Coins"
+
+msgid "bank_dialog.HardTier5.label"
+msgstr "A pack of Coins"
+
+msgid "bank_dialog.HardTier7.label"
+msgstr "A package of Coins"
+
+msgid "bank_dialog.HardTier10.label"
+msgstr "A height of Coins"
+
+msgid "bank_dialog.HardTier12.label"
+msgstr "Many Coins"
+
+msgid "bank_dialog.HardTier15.label"
+msgstr "A capsule of Coins"
+
+msgid "bank_dialog.HardTier20.label"
+msgstr "A tray of Coins"
+
+msgid "bank_dialog.HardTier25.label"
+msgstr "A box of Coins"
+
+msgid "bank_dialog.HardTier30.label"
+msgstr "A wrapping of Coins"
+
+msgid "bank_dialog.HardTier40.label"
+msgstr "A bag of Coins"
+
+msgid "bank_dialog.HardTier45.label"
+msgstr "A backpack full of Coins"
+
+msgid "bank_dialog.HardTier50.label"
+msgstr "A crate of Coins"
+
+msgid "bank_dialog.HardTier55.label"
+msgstr "A chest of Coins"
+
+msgid "bank_dialog.HardTier60.label"
+msgstr "A case of Coins"
+
+msgid "bank_dialog.HardTier63.label"
+msgstr "A wagon full of Coins"
+
+msgid "bank_dialog.HardTier66.label"
+msgstr "A pyramid full of Coins"
+
+msgid "bank_dialog.HardTier70.label"
+msgstr "A heap of Coins"
+
+msgid "bank_dialog.HardTier72.label"
+msgstr "A huge amount of Coins"
+
+msgid "bank_dialog.Chest.header"
+msgstr "Chests"
+
+msgid "bank_dialog.Soft.header"
+msgstr "Tokens"
+
+msgid "bank_dialog.Hard.header"
+msgstr "Coins"
+
+msgid "bank_dialog.tab_group.chest_tab.label"
+msgstr "Chests"
+
+msgid "bank_dialog.tab_group.soft_tab.label"
+msgstr "Tokens"
+
+msgid "bank_dialog.tab_group.hard_tab.label"
+msgstr "Coins"
+
+msgid "bank_dialog.popular_item.label0"
+msgstr "MOST"
+
+msgid "bank_dialog.popular_item.label1"
+msgstr "POPULAR"
+
+msgid "bank_dialog.sales_item.label0"
+msgstr "SALES"
+
+msgid "bank_dialog.sales_item.label1"
+msgstr "OFFER"
+
+msgid "bank_dialog.offer_item.label0"
+msgstr "PERSONAL"
+
+msgid "bank_dialog.offer_item.label1"
+msgstr "OFFER"
+
+msgid "bank_dialog.chest_item.reward.label"
+msgstr "Contains reward"
+
+msgid "hangar_dialog.configure_button"
+msgstr "Configure"
+
+msgid "hangar_dialog.start_button"
+msgstr "Start the fight!"
+
+msgid "hangar_dialog.requirements_title"
+msgstr "Required:"
+
+msgid "hangar_dialog.requirements_level_title"
+msgstr "Level"
+
+msgid "hangar_dialog.requirements_upgrades_of_paladin"
+msgstr "upgrades"
+
+msgid "paladin_ranger_name"
+msgstr "Ranger"
+
+msgid "paladin_ranger_name_requirements"
+msgstr "Ranger"
+
+msgid "paladin_assault_name"
+msgstr "Assault"
+
+msgid "paladin_assault_name_requirements"
+msgstr "Assault"
+
+msgid "paladin_crusader_name"
+msgstr "Crusader"
+
+msgid "paladin_crusader_name_requirements"
+msgstr "Crusader"
+
+msgid "paladin_peacemaker_name"
+msgstr "Peacemaker"
+
+msgid "paladin_peacemaker_name_requirements"
+msgstr "Peacemaker"
+
+msgid "paladin_juggernaut_name"
+msgstr "Juggernaut"
+
+msgid "paladin_juggernaut_name_requirements"
+msgstr "Juggernaut"
+
+msgid "exp_screen.maximum"
+msgstr "maximum"
+
+msgid "configuration_dialog.head"
+msgstr "Head"
+
+msgid "configuration_dialog.frame"
+msgstr "Frame"
+
+msgid "configuration_dialog.chassis"
+msgstr "Chassis"
+
+msgid "configuration_dialog.tab_group.paladin"
+msgstr "Paladin"
+
+msgid "configuration_dialog.tab_group.weapon"
+msgstr "Weapon"
+
+msgid "configuration_dialog.tab_group.ability"
+msgstr "Abilities"
+
+msgid "configuration_dialog.weapon_subtitle1"
+msgstr "Select the weapons"
+
+msgid "configuration_dialog.weapon_subtitle2"
+msgstr "maximum one for every suspension"
+
+msgid "configuration_dialog.ability_subtitle1"
+msgstr "Select the abilities"
+
+msgid "configuration_dialog.ability_subtitle2"
+msgstr "not more than the available slots"
+
+msgid "preloader_dialog.header.label"
+msgstr "The last Paladin"
+
+msgid "preloader_dialog.button_guest.label0"
+msgstr "Play as Guest"
+
+msgid "preloader_dialog.button_guest.label1"
+msgstr "with limitations"
+
+msgid "preloader_dialog.button_fb.label0"
+msgstr "Connect and play"
+
+msgid "preloader_dialog.button_fb.label1"
+msgstr "without limitations"
+
+msgid "preloader_dialog.more_info.label"
+msgstr "More info"
+
+msgid "preloader_dialog.hint.topLabel"
+msgstr "Limitations"
+
+msgid "preloader_dialog.hint.bottomLabel"
+msgstr "Tap anywhere to close"
+
+msgid "preloader_dialog.hint.text"
+msgstr "No one will know about your records and achievements!"
+
+msgid "preloader_dialog.loading.label"
+msgstr "Loading "
+
+msgid "preloader_dialog.loading.progress"
+msgstr "{0}%"
+
+msgid "preloader_dialog.loading.userId.label"
+msgstr "Your user ID:"
+
+msgid "preloader_dialog.loading.version.label"
+msgstr "Version:"
+
+msgid "Machinegun"
+msgstr "Machinegun"
+
+msgid "Laser"
+msgstr "Laser"
+
+msgid "Cannon"
+msgstr "Cannon"
+
+msgid "PulseCannon"
+msgstr "Pulse Cannon"
+
+msgid "ShockCannon"
+msgstr "Shock Cannon"
+
+msgid "WaveCannon"
+msgstr "Wave Cannon"
+
+msgid "PlasmaCannon"
+msgstr "Plasma Cannon"
+
+msgid "BoloCannon"
+msgstr "Bolo Cannon"
+
+msgid "HeavyPlasma"
+msgstr "Heavy Plasma"
+
+msgid "Electra"
+msgstr "Electra"
+
+msgid "Missile"
+msgstr "Missile"
+
+msgid "GrenadeLauncher"
+msgstr "Grenade Launcher"
+
+msgid "MissileSystem"
+msgstr "Missile System"
+
+msgid "RocketLauncher"
+msgstr "Rocket Launcher"
+
+msgid "Miner"
+msgstr "Miner"
+
+msgid "suspension_Light"
+msgstr "Light"
+
+msgid "suspension_Normal"
+msgstr "Normal"
+
+msgid "suspension_Heavy"
+msgstr "Heavy"
+
+msgid "suspension_Passive"
+msgstr "Passive"
+
+msgid "suspension_Drone"
+msgstr "Drone"
+
+msgid "configuration_dialog.active_abilities"
+msgstr "Active abilities"
+
+msgid "configuration_dialog.passive_abilities"
+msgstr "Passive abilities"
+
+msgid "ClusterGrenades"
+msgstr "Cluster Grenades"
+
+msgid "Invulnerability"
+msgstr "Invulnerability"
+
+msgid "Nanobots"
+msgstr "Nanobots"
+
+msgid "ShockShells"
+msgstr "Shock Shells"
+
+msgid "Phantom"
+msgstr "Phantom"
+
+msgid "ShockWaves"
+msgstr "Shock Waves"
+
+msgid "VacuumBomb"
+msgstr "Vacuum Bomb"
+
+msgid "Artillery"
+msgstr "Artillery"
+
+msgid "DroneX"
+msgstr "DroneX"
+
+msgid "DroneY"
+msgstr "DroneY"
+
+msgid "Rocket"
+msgstr "Rocket"
+
+msgid "HiScores"
+msgstr "HiScores"
+
+msgid "Bankir"
+msgstr "Bankir"
+
+msgid "HealthBonus"
+msgstr "Health Bonus"
+
+msgid "SpeedBonus"
+msgstr "Speed Bonus"
+
+msgid "DamageBonus"
+msgstr "Damage Bonus"
+
+msgid "FireRate"
+msgstr "Fire Rate"
+
+msgid "ArmorBonus"
+msgstr "Armor Bonus"
+
+msgid "DropRate"
+msgstr "Drop Rate"
+
+msgid "Vampirism"
+msgstr "Vampirism"
+
+msgid "Torn"
+msgstr "Torn"
+
+msgid "Magnet"
+msgstr "Magnet"
+
+msgid "result_dialog.header.scores.label"
+msgstr "Your scores:"
+
+msgid "result_dialog.record_scores.label"
+msgstr "Record scores:"
+
+msgid "result_dialog.rewards.header.label"
+msgstr "Collected rewards"
+
+msgid "result_dialog.rewards.exp.label"
+msgstr "Experience:"
+
+msgid "result_dialog.continue_button.label"
+msgstr "Continue"
+
+msgid "result_dialog.continue_play_button.label"
+msgstr "Continue play"
+
+msgid "result_dialog.facebook_button.login.label1"
+msgstr "Log into Facebook"
+
+msgid "result_dialog.facebook_button.login.label2"
+msgstr "and get bonuses"
+
+msgid "result_dialog.facebook_button.share.label"
+msgstr "Share with friends"
+
+msgid "result_dialog.header.new_record.label"
+msgstr "NEW RECORD"
+
+msgid "result_dialog.facebook_login_bonus.label"
+msgstr "BONUS"
+
+msgid "energy_dialog.header.label"
+msgstr "Energy"
+
+msgid "energy_dialog.header.trend.label"
+msgstr "We use renewable energy only!"
+
+msgid "energy_dialog.full_energy_pack.label0"
+msgstr "ENERGY"
+
+msgid "energy_dialog.full_energy_pack.label1"
+msgstr "pack"
+
+msgid "energy_dialog.friends_request.label0"
+msgstr "REQUEST"
+
+msgid "energy_dialog.friends_request.label1"
+msgstr "energy from your"
+
+msgid "energy_dialog.friends_request.label2"
+msgstr "FRIENDS"
+
+msgid "energy_dialog.speedup_item.next_energy.label"
+msgstr "Purchase"
+
+msgid "energy_dialog.full_energy_pack.button.label"
+msgstr "Purchase"
+
+msgid "energy_dialog.friends_request.button.label"
+msgstr "Request"
+
+msgid "energy_dialog.speedup_item.button.label"
+msgstr "Speed up"
+
+msgid "energy_dialog.unlimited_item.label0"
+msgstr "UNLIMITED"
+
+msgid "energy_dialog.unlimited_item.label1"
+msgstr "energy for"
+
+msgid "energy_dialog.unlimited_item.label2"
+msgstr "hours"
+
+msgid "energy_dialog.unlimited_item.button.label"
+msgstr "Purchase"
+
+msgid "common.and"
+msgstr "&"
+
+msgid "leaderboard_dialog.tab_world"
+msgstr "World"
+
+msgid "leaderboard_dialog.tab_local"
+msgstr "Local"
+
+msgid "leaderboard_dialog.tab_friends"
+msgstr "Friends"
+
+msgid "achieves_and_board_sreen.tab_achieves"
+msgstr "Achievements"
+
+msgid "achieves_and_board_sreen.tab_leaderboard"
+msgstr "Leaderboard"
+
+msgid "quest_dialog.header.label"
+msgstr "Quests"
+
+msgid "quest_dialog.skip_button.label"
+msgstr "Skip"
+
+msgid "quest_dialog.next_quest.label"
+msgstr "Next quest in:"
+
+msgid "quest_dialog.collect_button.label"
+msgstr "Collect reward"
+
+msgid "quest_dialog.chest_progress_info.label0"
+msgstr "Complete"
+
+msgid "quest_dialog.chest_progress_info.label1"
+msgstr "quests and get a prize!"
+
+msgid "quest_dialog.chest_reward_legend.label0"
+msgstr "You've completed"
+
+msgid "quest_dialog.chest_reward_legend.label1"
+msgstr "quests and"
+
+msgid "quest_dialog.chest_reward_legend.label2"
+msgstr "may gata prize"
+
+msgid "quest_dialog.description.label0"
+msgstr "Win in {0} fights"
+
+msgid "quest_dialog.description.label1"
+msgstr "Win in {0} fights on Ranger"
+
+msgid "quest_dialog.description.label2"
+msgstr "Win in {0} fights on Assault"
+
+msgid "quest_dialog.description.label3"
+msgstr "Win in {0} fights on Peacemaker"
+
+msgid "quest_dialog.description.label4"
+msgstr "Win in {0} fights on Crusader"
+
+msgid "quest_dialog.description.label5"
+msgstr "Win in {0} fights on Juggernaut"
+
+msgid "quest_dialog.description.label6"
+msgstr "Kill any {0} enemies"
+
+msgid "quest_dialog.description.label7"
+msgstr "Destroy any {0} obstacles"
+
+msgid "quest_dialog.description.label8"
+msgstr "Kill any {0} easy enemies"
+
+msgid "quest_dialog.description.label9"
+msgstr "Kill any {0} medium enemies"
+
+msgid "quest_dialog.description.label10"
+msgstr "Kill any {0} heavy enemies"
+
+msgid "quest_dialog.description.label11"
+msgstr "Kill any {0} flying enemies"
+
+msgid "quest_dialog.description.label12"
+msgstr "Kill any {0} static enemies"
+
+msgid "quest_dialog.description.label13"
+msgstr "Kill any {0} Bosses"
+
+msgid "quest_dialog.description.label14"
+msgstr "Kill {0} Tank Bosses"
+
+msgid "quest_dialog.description.label15"
+msgstr "Kill {0} Helicopter Bosses"
+
+msgid "quest_dialog.description.label16"
+msgstr "Kill {0} Armored Train Bosses"
+
+msgid "quest_dialog.description.label17"
+msgstr "Get maximus combo {0} times"
+
+msgid "quest_dialog.description.label18"
+msgstr "Get maximus combo in one fight"
+
+msgid "quest_dialog.description.label19"
+msgstr "Collect {0} coins"
+
+msgid "quest_dialog.description.label20"
+msgstr "Collect {0} microchips"
+
+msgid "quest_dialog.description.label21"
+msgstr "Collect {0} armored plates"
+
+msgid "quest_dialog.description.label22"
+msgstr "Collect {0} springs"
+
+msgid "quest_dialog.description.label23"
+msgstr "Collect {0} energy packs"
+
+msgid "quest_dialog.description.label24"
+msgstr "Collect {0} shells"
+
+msgid "quest_dialog.description.label25"
+msgstr "Collect {0} experince in one fight"
+
+msgid "quest_dialog.description.label26"
+msgstr "Collect {0} coins in one fight"
+
+msgid "quest_dialog.description.label27"
+msgstr "Activate {0} any abilities"
+
+msgid "quest_dialog.description.label28"
+msgstr "Kill all enemies in one fight"
+
+msgid "quest_dialog.description.label29"
+msgstr "Crush {0} any enemies"
+
+msgid "quest_dialog.description.label30"
+msgstr "Get {0} scores in one fight"
+
+msgid "quest_dialog.description.label31"
+msgstr "Get in total {0} scores"
+
+msgid "quest_dialog.description.label32"
+msgstr "Get the new level"
+
+msgid "quest_dialog.description.label33"
+msgstr "Complete the fight with a full durability"
+
+msgid "quest_dialog.description.label34"
+msgstr "Complete the fight without any damages"
+
+msgid "quest_dialog.description.label35"
+msgstr "Complete {0} upgrades"
+
+msgid "quest_dialog.description.label36"
+msgstr "Send {0} invites to your friends"

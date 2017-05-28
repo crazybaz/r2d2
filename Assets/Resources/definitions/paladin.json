@@ -1,0 +1,3856 @@
+[
+    {
+        "id": "Ranger",
+        "health": 10000,
+        "speed": 45,
+        "armor": 100,
+        "resist": 0.05,
+        "collisionDamage": 350,
+        "suspensions": [
+            "Light"
+        ],
+        "abilitySlots": {
+            "active": 1,
+            "passive": 1
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 1,
+        "headUpgradeCost": {
+            "Soft": 100,
+            "Microchips": 2
+        },
+        "headMultiplier": {
+            "health": 1.1,
+            "resist": 1.3
+        },
+        "frameUpgradeCost": {
+            "Soft": 100,
+            "ArmorPlates": 2
+        },
+        "frameMultiplier": {
+            "health": 1.3,
+            "armor": 1.5,
+            "collisionDamage": 1.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 100,
+            "Springs": 2
+        },
+        "chassisMultiplier": {
+            "resist": 1.3,
+            "speed": 1.5,
+            "collisionDamage": 1.2
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 2,
+        "headUpgradeCost": {
+            "Soft": 125,
+            "Microchips": 4
+        },
+        "headMultiplier": {
+            "health": 1.2,
+            "resist": 1.6
+        },
+        "frameUpgradeCost": {
+            "Soft": 125,
+            "ArmorPlates": 4
+        },
+        "frameMultiplier": {
+            "health": 1.6,
+            "armor": 2,
+            "collisionDamage": 1.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 125,
+            "Springs": 4
+        },
+        "chassisMultiplier": {
+            "health": 1.6,
+            "speed": 2,
+            "collisionDamage": 1.4
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 3,
+        "headUpgradeCost": {
+            "Soft": 200,
+            "Microchips": 6
+        },
+        "headMultiplier": {
+            "health": 1.3,
+            "resist": 1.9
+        },
+        "frameUpgradeCost": {
+            "Soft": 200,
+            "ArmorPlates": 6
+        },
+        "frameMultiplier": {
+            "health": 1.9,
+            "armor": 2.5,
+            "collisionDamage": 1.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 200,
+            "Springs": 6
+        },
+        "chassisMultiplier": {
+            "health": 1.9,
+            "speed": 2.5,
+            "collisionDamage": 1.6
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 4,
+        "headUpgradeCost": {
+            "Soft": 300,
+            "Microchips": 8
+        },
+        "headMultiplier": {
+            "health": 1.4,
+            "resist": 2.2
+        },
+        "frameUpgradeCost": {
+            "Soft": 300,
+            "ArmorPlates": 8
+        },
+        "frameMultiplier": {
+            "health": 2.2,
+            "armor": 3,
+            "collisionDamage": 1.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 300,
+            "Springs": 8
+        },
+        "chassisMultiplier": {
+            "health": 2.2,
+            "speed": 3,
+            "collisionDamage": 1.8
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 5,
+        "headUpgradeCost": {
+            "Soft": 400,
+            "Microchips": 10
+        },
+        "headMultiplier": {
+            "health": 1.5,
+            "resist": 2.5
+        },
+        "frameUpgradeCost": {
+            "Soft": 400,
+            "ArmorPlates": 10
+        },
+        "frameMultiplier": {
+            "health": 2.5,
+            "armor": 3.5,
+            "collisionDamage": 2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 400,
+            "Springs": 10
+        },
+        "chassisMultiplier": {
+            "health": 2.5,
+            "speed": 3.5,
+            "collisionDamage": 2
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 6,
+        "headUpgradeCost": {
+            "Soft": 500,
+            "Microchips": 12
+        },
+        "headMultiplier": {
+            "health": 1.6,
+            "resist": 2.8
+        },
+        "frameUpgradeCost": {
+            "Soft": 500,
+            "ArmorPlates": 12
+        },
+        "frameMultiplier": {
+            "health": 2.8,
+            "armor": 4,
+            "collisionDamage": 2.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 500,
+            "Springs": 12
+        },
+        "chassisMultiplier": {
+            "health": 2.8,
+            "speed": 4,
+            "collisionDamage": 2.2
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 7,
+        "headUpgradeCost": {
+            "Soft": 600,
+            "Microchips": 14
+        },
+        "headMultiplier": {
+            "health": 1.7,
+            "resist": 3.1
+        },
+        "frameUpgradeCost": {
+            "Soft": 600,
+            "ArmorPlates": 14
+        },
+        "frameMultiplier": {
+            "health": 3.1,
+            "armor": 4.5,
+            "collisionDamage": 2.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 600,
+            "Springs": 14
+        },
+        "chassisMultiplier": {
+            "health": 3.1,
+            "speed": 4.5,
+            "collisionDamage": 2.4
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 8,
+        "headUpgradeCost": {
+            "Soft": 700,
+            "Microchips": 16
+        },
+        "headMultiplier": {
+            "health": 1.8,
+            "resist": 3.4
+        },
+        "frameUpgradeCost": {
+            "Soft": 700,
+            "ArmorPlates": 16
+        },
+        "frameMultiplier": {
+            "health": 3.4,
+            "armor": 5,
+            "collisionDamage": 2.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 700,
+            "Springs": 16
+        },
+        "chassisMultiplier": {
+            "health": 3.4,
+            "speed": 5,
+            "collisionDamage": 2.6
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 9,
+        "headUpgradeCost": {
+            "Soft": 800,
+            "Microchips": 18
+        },
+        "headMultiplier": {
+            "health": 1.9,
+            "resist": 3.7
+        },
+        "frameUpgradeCost": {
+            "Soft": 800,
+            "ArmorPlates": 18
+        },
+        "frameMultiplier": {
+            "health": 3.7,
+            "armor": 5.5,
+            "collisionDamage": 2.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 800,
+            "Springs": 18
+        },
+        "chassisMultiplier": {
+            "health": 3.7,
+            "speed": 5.5,
+            "collisionDamage": 2.8
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 10,
+        "headUpgradeCost": {
+            "Soft": 900,
+            "Microchips": 20
+        },
+        "headMultiplier": {
+            "health": 2,
+            "resist": 4
+        },
+        "frameUpgradeCost": {
+            "Soft": 900,
+            "ArmorPlates": 20
+        },
+        "frameMultiplier": {
+            "health": 4,
+            "armor": 6,
+            "collisionDamage": 3
+        },
+        "chassisUpgradeCost": {
+            "Soft": 900,
+            "Springs": 20
+        },
+        "chassisMultiplier": {
+            "health": 4,
+            "speed": 6,
+            "collisionDamage": 3
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 11,
+        "headUpgradeCost": {
+            "Soft": 1000,
+            "Microchips": 22
+        },
+        "headMultiplier": {
+            "health": 2.1,
+            "resist": 4.3
+        },
+        "frameUpgradeCost": {
+            "Soft": 1000,
+            "ArmorPlates": 22
+        },
+        "frameMultiplier": {
+            "health": 4.3,
+            "armor": 6.5,
+            "collisionDamage": 3.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1000,
+            "Springs": 22
+        },
+        "chassisMultiplier": {
+            "health": 4.3,
+            "speed": 6.5,
+            "collisionDamage": 3.2
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 12,
+        "headUpgradeCost": {
+            "Soft": 1100,
+            "Microchips": 24
+        },
+        "headMultiplier": {
+            "health": 2.2,
+            "resist": 4.6
+        },
+        "frameUpgradeCost": {
+            "Soft": 1100,
+            "ArmorPlates": 24
+        },
+        "frameMultiplier": {
+            "health": 4.6,
+            "armor": 7,
+            "collisionDamage": 3.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1100,
+            "Springs": 24
+        },
+        "chassisMultiplier": {
+            "health": 4.6,
+            "speed": 7,
+            "collisionDamage": 3.4
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 13,
+        "headUpgradeCost": {
+            "Soft": 1200,
+            "Microchips": 26
+        },
+        "headMultiplier": {
+            "health": 2.3,
+            "resist": 4.9
+        },
+        "frameUpgradeCost": {
+            "Soft": 1200,
+            "ArmorPlates": 26
+        },
+        "frameMultiplier": {
+            "health": 4.9,
+            "armor": 7.5,
+            "collisionDamage": 3.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1200,
+            "Springs": 26
+        },
+        "chassisMultiplier": {
+            "health": 4.9,
+            "speed": 7.5,
+            "collisionDamage": 3.6
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 14,
+        "headUpgradeCost": {
+            "Soft": 1300,
+            "Microchips": 28
+        },
+        "headMultiplier": {
+            "health": 2.4,
+            "resist": 5.2
+        },
+        "frameUpgradeCost": {
+            "Soft": 1300,
+            "ArmorPlates": 28
+        },
+        "frameMultiplier": {
+            "health": 5.2,
+            "armor": 8,
+            "collisionDamage": 3.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1300,
+            "Springs": 28
+        },
+        "chassisMultiplier": {
+            "health": 5.2,
+            "speed": 8,
+            "collisionDamage": 3.8
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 15,
+        "headUpgradeCost": {
+            "Soft": 1400,
+            "Microchips": 30
+        },
+        "headMultiplier": {
+            "health": 2.5,
+            "resist": 5.5
+        },
+        "frameUpgradeCost": {
+            "Soft": 1400,
+            "ArmorPlates": 30
+        },
+        "frameMultiplier": {
+            "health": 5.5,
+            "armor": 8.5,
+            "collisionDamage": 4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1400,
+            "Springs": 30
+        },
+        "chassisMultiplier": {
+            "health": 5.5,
+            "speed": 8.5,
+            "collisionDamage": 4
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 16,
+        "headUpgradeCost": {
+            "Soft": 1500,
+            "Microchips": 32
+        },
+        "headMultiplier": {
+            "health": 2.6,
+            "resist": 5.8
+        },
+        "frameUpgradeCost": {
+            "Soft": 1500,
+            "ArmorPlates": 32
+        },
+        "frameMultiplier": {
+            "health": 5.8,
+            "armor": 9,
+            "collisionDamage": 4.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1500,
+            "Springs": 32
+        },
+        "chassisMultiplier": {
+            "health": 5.8,
+            "speed": 9,
+            "collisionDamage": 4.2
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 17,
+        "headUpgradeCost": {
+            "Soft": 1600,
+            "Microchips": 34
+        },
+        "headMultiplier": {
+            "health": 2.7,
+            "resist": 6.1
+        },
+        "frameUpgradeCost": {
+            "Soft": 1600,
+            "ArmorPlates": 34
+        },
+        "frameMultiplier": {
+            "health": 6.1,
+            "armor": 9.5,
+            "collisionDamage": 4.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1600,
+            "Springs": 34
+        },
+        "chassisMultiplier": {
+            "health": 6.1,
+            "speed": 9.5,
+            "collisionDamage": 4.4
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 18,
+        "headUpgradeCost": {
+            "Soft": 1700,
+            "Microchips": 36
+        },
+        "headMultiplier": {
+            "health": 2.8,
+            "resist": 6.4
+        },
+        "frameUpgradeCost": {
+            "Soft": 1700,
+            "ArmorPlates": 36
+        },
+        "frameMultiplier": {
+            "health": 6.4,
+            "armor": 10,
+            "collisionDamage": 4.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1700,
+            "Springs": 36
+        },
+        "chassisMultiplier": {
+            "health": 6.4,
+            "speed": 10,
+            "collisionDamage": 4.6
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 19,
+        "headUpgradeCost": {
+            "Soft": 1800,
+            "Microchips": 38
+        },
+        "headMultiplier": {
+            "health": 2.9,
+            "resist": 6.7
+        },
+        "frameUpgradeCost": {
+            "Soft": 1800,
+            "ArmorPlates": 38
+        },
+        "frameMultiplier": {
+            "health": 6.7,
+            "armor": 10.5,
+            "collisionDamage": 4.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1800,
+            "Springs": 38
+        },
+        "chassisMultiplier": {
+            "health": 6.7,
+            "speed": 10.5,
+            "collisionDamage": 4.8
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 20,
+        "headUpgradeCost": {
+            "Soft": 1900,
+            "Microchips": 40
+        },
+        "headMultiplier": {
+            "health": 3,
+            "resist": 7
+        },
+        "frameUpgradeCost": {
+            "Soft": 1900,
+            "ArmorPlates": 40
+        },
+        "frameMultiplier": {
+            "health": 7,
+            "armor": 11,
+            "collisionDamage": 5
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1900,
+            "Springs": 40
+        },
+        "chassisMultiplier": {
+            "health": 7,
+            "speed": 11,
+            "collisionDamage": 5
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 21,
+        "headUpgradeCost": {
+            "Soft": 2000,
+            "Microchips": 42
+        },
+        "headMultiplier": {
+            "health": 3.1,
+            "resist": 7.3
+        },
+        "frameUpgradeCost": {
+            "Soft": 2000,
+            "ArmorPlates": 42
+        },
+        "frameMultiplier": {
+            "health": 7.3,
+            "armor": 11.5,
+            "collisionDamage": 5.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2000,
+            "Springs": 42
+        },
+        "chassisMultiplier": {
+            "health": 7.3,
+            "speed": 11.5,
+            "collisionDamage": 5.2
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 22,
+        "headUpgradeCost": {
+            "Soft": 2100,
+            "Microchips": 44
+        },
+        "headMultiplier": {
+            "health": 3.2,
+            "resist": 7.6
+        },
+        "frameUpgradeCost": {
+            "Soft": 2100,
+            "ArmorPlates": 44
+        },
+        "frameMultiplier": {
+            "health": 7.6,
+            "armor": 12,
+            "collisionDamage": 5.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2100,
+            "Springs": 44
+        },
+        "chassisMultiplier": {
+            "health": 7.6,
+            "speed": 12,
+            "collisionDamage": 5.4
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 23,
+        "headUpgradeCost": {
+            "Soft": 2200,
+            "Microchips": 46
+        },
+        "headMultiplier": {
+            "health": 3.3,
+            "resist": 7.9
+        },
+        "frameUpgradeCost": {
+            "Soft": 2200,
+            "ArmorPlates": 46
+        },
+        "frameMultiplier": {
+            "health": 7.9,
+            "armor": 12.5,
+            "collisionDamage": 5.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2200,
+            "Springs": 46
+        },
+        "chassisMultiplier": {
+            "health": 7.9,
+            "speed": 12.5,
+            "collisionDamage": 5.6
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 24,
+        "headUpgradeCost": {
+            "Soft": 2300,
+            "Microchips": 48
+        },
+        "headMultiplier": {
+            "health": 3.4,
+            "resist": 8.2
+        },
+        "frameUpgradeCost": {
+            "Soft": 2300,
+            "ArmorPlates": 48
+        },
+        "frameMultiplier": {
+            "health": 8.2,
+            "armor": 13,
+            "collisionDamage": 5.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2300,
+            "Springs": 48
+        },
+        "chassisMultiplier": {
+            "health": 8.2,
+            "speed": 13,
+            "collisionDamage": 5.8
+        }
+    },
+    {
+        "id": "Ranger",
+        "upgradeLevel": 25,
+        "headUpgradeCost": {
+            "Soft": 2500,
+            "Microchips": 50
+        },
+        "headMultiplier": {
+            "health": 3.5,
+            "resist": 8.5
+        },
+        "frameUpgradeCost": {
+            "Soft": 2500,
+            "ArmorPlates": 50
+        },
+        "frameMultiplier": {
+            "health": 8.5,
+            "armor": 13.5,
+            "collisionDamage": 6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2500,
+            "Springs": 50
+        },
+        "chassisMultiplier": {
+            "health": 8.5,
+            "speed": 13.5,
+            "collisionDamage": 6
+        }
+    },
+    {
+        "id": "Assault",
+        "health": 1200,
+        "speed": 30,
+        "armor": 150,
+        "resist": 0.06,
+        "collisionDamage": 400,
+        "suspensions": [
+            "Light",
+            "Normal"
+        ],
+        "abilitySlots": {
+            "active": 1,
+            "passive": 2
+        },
+        "unlockReqs": {
+            "playerLevel": 5,
+            "paladinType": "Ranger",
+            "paladinUpgrades": 12
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 1,
+        "headUpgradeCost": {
+            "Soft": 100,
+            "Microchips": 2
+        },
+        "headMultiplier": {
+            "health": 1.1,
+            "resist": 1.3
+        },
+        "frameUpgradeCost": {
+            "Soft": 100,
+            "ArmorPlates": 2
+        },
+        "frameMultiplier": {
+            "health": 1.3,
+            "armor": 1.5,
+            "collisionDamage": 1.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 100,
+            "Springs": 2
+        },
+        "chassisMultiplier": {
+            "resist": 1.3,
+            "speed": 1.5,
+            "collisionDamage": 1.2
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 2,
+        "headUpgradeCost": {
+            "Soft": 125,
+            "Microchips": 4
+        },
+        "headMultiplier": {
+            "health": 1.2,
+            "resist": 1.6
+        },
+        "frameUpgradeCost": {
+            "Soft": 125,
+            "ArmorPlates": 4
+        },
+        "frameMultiplier": {
+            "health": 1.6,
+            "armor": 2,
+            "collisionDamage": 1.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 125,
+            "Springs": 4
+        },
+        "chassisMultiplier": {
+            "health": 1.6,
+            "speed": 2,
+            "collisionDamage": 1.4
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 3,
+        "headUpgradeCost": {
+            "Soft": 200,
+            "Microchips": 6
+        },
+        "headMultiplier": {
+            "health": 1.3,
+            "resist": 1.9
+        },
+        "frameUpgradeCost": {
+            "Soft": 200,
+            "ArmorPlates": 6
+        },
+        "frameMultiplier": {
+            "health": 1.9,
+            "armor": 2.5,
+            "collisionDamage": 1.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 200,
+            "Springs": 6
+        },
+        "chassisMultiplier": {
+            "health": 1.9,
+            "speed": 2.5,
+            "collisionDamage": 1.6
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 4,
+        "headUpgradeCost": {
+            "Soft": 300,
+            "Microchips": 8
+        },
+        "headMultiplier": {
+            "health": 1.4,
+            "resist": 2.2
+        },
+        "frameUpgradeCost": {
+            "Soft": 300,
+            "ArmorPlates": 8
+        },
+        "frameMultiplier": {
+            "health": 2.2,
+            "armor": 3,
+            "collisionDamage": 1.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 300,
+            "Springs": 8
+        },
+        "chassisMultiplier": {
+            "health": 2.2,
+            "speed": 3,
+            "collisionDamage": 1.8
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 5,
+        "headUpgradeCost": {
+            "Soft": 400,
+            "Microchips": 10
+        },
+        "headMultiplier": {
+            "health": 1.5,
+            "resist": 2.5
+        },
+        "frameUpgradeCost": {
+            "Soft": 400,
+            "ArmorPlates": 10
+        },
+        "frameMultiplier": {
+            "health": 2.5,
+            "armor": 3.5,
+            "collisionDamage": 2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 400,
+            "Springs": 10
+        },
+        "chassisMultiplier": {
+            "health": 2.5,
+            "speed": 3.5,
+            "collisionDamage": 2
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 6,
+        "headUpgradeCost": {
+            "Soft": 500,
+            "Microchips": 12
+        },
+        "headMultiplier": {
+            "health": 1.6,
+            "resist": 2.8
+        },
+        "frameUpgradeCost": {
+            "Soft": 500,
+            "ArmorPlates": 12
+        },
+        "frameMultiplier": {
+            "health": 2.8,
+            "armor": 4,
+            "collisionDamage": 2.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 500,
+            "Springs": 12
+        },
+        "chassisMultiplier": {
+            "health": 2.8,
+            "speed": 4,
+            "collisionDamage": 2.2
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 7,
+        "headUpgradeCost": {
+            "Soft": 600,
+            "Microchips": 14
+        },
+        "headMultiplier": {
+            "health": 1.7,
+            "resist": 3.1
+        },
+        "frameUpgradeCost": {
+            "Soft": 600,
+            "ArmorPlates": 14
+        },
+        "frameMultiplier": {
+            "health": 3.1,
+            "armor": 4.5,
+            "collisionDamage": 2.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 600,
+            "Springs": 14
+        },
+        "chassisMultiplier": {
+            "health": 3.1,
+            "speed": 4.5,
+            "collisionDamage": 2.4
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 8,
+        "headUpgradeCost": {
+            "Soft": 700,
+            "Microchips": 16
+        },
+        "headMultiplier": {
+            "health": 1.8,
+            "resist": 3.4
+        },
+        "frameUpgradeCost": {
+            "Soft": 700,
+            "ArmorPlates": 16
+        },
+        "frameMultiplier": {
+            "health": 3.4,
+            "armor": 5,
+            "collisionDamage": 2.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 700,
+            "Springs": 16
+        },
+        "chassisMultiplier": {
+            "health": 3.4,
+            "speed": 5,
+            "collisionDamage": 2.6
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 9,
+        "headUpgradeCost": {
+            "Soft": 800,
+            "Microchips": 18
+        },
+        "headMultiplier": {
+            "health": 1.9,
+            "resist": 3.7
+        },
+        "frameUpgradeCost": {
+            "Soft": 800,
+            "ArmorPlates": 18
+        },
+        "frameMultiplier": {
+            "health": 3.7,
+            "armor": 5.5,
+            "collisionDamage": 2.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 800,
+            "Springs": 18
+        },
+        "chassisMultiplier": {
+            "health": 3.7,
+            "speed": 5.5,
+            "collisionDamage": 2.8
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 10,
+        "headUpgradeCost": {
+            "Soft": 900,
+            "Microchips": 20
+        },
+        "headMultiplier": {
+            "health": 2,
+            "resist": 4
+        },
+        "frameUpgradeCost": {
+            "Soft": 900,
+            "ArmorPlates": 20
+        },
+        "frameMultiplier": {
+            "health": 4,
+            "armor": 6,
+            "collisionDamage": 3
+        },
+        "chassisUpgradeCost": {
+            "Soft": 900,
+            "Springs": 20
+        },
+        "chassisMultiplier": {
+            "health": 4,
+            "speed": 6,
+            "collisionDamage": 3
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 11,
+        "headUpgradeCost": {
+            "Soft": 1000,
+            "Microchips": 22
+        },
+        "headMultiplier": {
+            "health": 2.1,
+            "resist": 4.3
+        },
+        "frameUpgradeCost": {
+            "Soft": 1000,
+            "ArmorPlates": 22
+        },
+        "frameMultiplier": {
+            "health": 4.3,
+            "armor": 6.5,
+            "collisionDamage": 3.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1000,
+            "Springs": 22
+        },
+        "chassisMultiplier": {
+            "health": 4.3,
+            "speed": 6.5,
+            "collisionDamage": 3.2
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 12,
+        "headUpgradeCost": {
+            "Soft": 1100,
+            "Microchips": 24
+        },
+        "headMultiplier": {
+            "health": 2.2,
+            "resist": 4.6
+        },
+        "frameUpgradeCost": {
+            "Soft": 1100,
+            "ArmorPlates": 24
+        },
+        "frameMultiplier": {
+            "health": 4.6,
+            "armor": 7,
+            "collisionDamage": 3.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1100,
+            "Springs": 24
+        },
+        "chassisMultiplier": {
+            "health": 4.6,
+            "speed": 7,
+            "collisionDamage": 3.4
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 13,
+        "headUpgradeCost": {
+            "Soft": 1200,
+            "Microchips": 26
+        },
+        "headMultiplier": {
+            "health": 2.3,
+            "resist": 4.9
+        },
+        "frameUpgradeCost": {
+            "Soft": 1200,
+            "ArmorPlates": 26
+        },
+        "frameMultiplier": {
+            "health": 4.9,
+            "armor": 7.5,
+            "collisionDamage": 3.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1200,
+            "Springs": 26
+        },
+        "chassisMultiplier": {
+            "health": 4.9,
+            "speed": 7.5,
+            "collisionDamage": 3.6
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 14,
+        "headUpgradeCost": {
+            "Soft": 1300,
+            "Microchips": 28
+        },
+        "headMultiplier": {
+            "health": 2.4,
+            "resist": 5.2
+        },
+        "frameUpgradeCost": {
+            "Soft": 1300,
+            "ArmorPlates": 28
+        },
+        "frameMultiplier": {
+            "health": 5.2,
+            "armor": 8,
+            "collisionDamage": 3.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1300,
+            "Springs": 28
+        },
+        "chassisMultiplier": {
+            "health": 5.2,
+            "speed": 8,
+            "collisionDamage": 3.8
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 15,
+        "headUpgradeCost": {
+            "Soft": 1400,
+            "Microchips": 30
+        },
+        "headMultiplier": {
+            "health": 2.5,
+            "resist": 5.5
+        },
+        "frameUpgradeCost": {
+            "Soft": 1400,
+            "ArmorPlates": 30
+        },
+        "frameMultiplier": {
+            "health": 5.5,
+            "armor": 8.5,
+            "collisionDamage": 4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1400,
+            "Springs": 30
+        },
+        "chassisMultiplier": {
+            "health": 5.5,
+            "speed": 8.5,
+            "collisionDamage": 4
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 16,
+        "headUpgradeCost": {
+            "Soft": 1500,
+            "Microchips": 32
+        },
+        "headMultiplier": {
+            "health": 2.6,
+            "resist": 5.8
+        },
+        "frameUpgradeCost": {
+            "Soft": 1500,
+            "ArmorPlates": 32
+        },
+        "frameMultiplier": {
+            "health": 5.8,
+            "armor": 9,
+            "collisionDamage": 4.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1500,
+            "Springs": 32
+        },
+        "chassisMultiplier": {
+            "health": 5.8,
+            "speed": 9,
+            "collisionDamage": 4.2
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 17,
+        "headUpgradeCost": {
+            "Soft": 1600,
+            "Microchips": 34
+        },
+        "headMultiplier": {
+            "health": 2.7,
+            "resist": 6.1
+        },
+        "frameUpgradeCost": {
+            "Soft": 1600,
+            "ArmorPlates": 34
+        },
+        "frameMultiplier": {
+            "health": 6.1,
+            "armor": 9.5,
+            "collisionDamage": 4.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1600,
+            "Springs": 34
+        },
+        "chassisMultiplier": {
+            "health": 6.1,
+            "speed": 9.5,
+            "collisionDamage": 4.4
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 18,
+        "headUpgradeCost": {
+            "Soft": 1700,
+            "Microchips": 36
+        },
+        "headMultiplier": {
+            "health": 2.8,
+            "resist": 6.4
+        },
+        "frameUpgradeCost": {
+            "Soft": 1700,
+            "ArmorPlates": 36
+        },
+        "frameMultiplier": {
+            "health": 6.4,
+            "armor": 10,
+            "collisionDamage": 4.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1700,
+            "Springs": 36
+        },
+        "chassisMultiplier": {
+            "health": 6.4,
+            "speed": 10,
+            "collisionDamage": 4.6
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 19,
+        "headUpgradeCost": {
+            "Soft": 1800,
+            "Microchips": 38
+        },
+        "headMultiplier": {
+            "health": 2.9,
+            "resist": 6.7
+        },
+        "frameUpgradeCost": {
+            "Soft": 1800,
+            "ArmorPlates": 38
+        },
+        "frameMultiplier": {
+            "health": 6.7,
+            "armor": 10.5,
+            "collisionDamage": 4.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1800,
+            "Springs": 38
+        },
+        "chassisMultiplier": {
+            "health": 6.7,
+            "speed": 10.5,
+            "collisionDamage": 4.8
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 20,
+        "headUpgradeCost": {
+            "Soft": 1900,
+            "Microchips": 40
+        },
+        "headMultiplier": {
+            "health": 3,
+            "resist": 7
+        },
+        "frameUpgradeCost": {
+            "Soft": 1900,
+            "ArmorPlates": 40
+        },
+        "frameMultiplier": {
+            "health": 7,
+            "armor": 11,
+            "collisionDamage": 5
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1900,
+            "Springs": 40
+        },
+        "chassisMultiplier": {
+            "health": 7,
+            "speed": 11,
+            "collisionDamage": 5
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 21,
+        "headUpgradeCost": {
+            "Soft": 2000,
+            "Microchips": 42
+        },
+        "headMultiplier": {
+            "health": 3.1,
+            "resist": 7.3
+        },
+        "frameUpgradeCost": {
+            "Soft": 2000,
+            "ArmorPlates": 42
+        },
+        "frameMultiplier": {
+            "health": 7.3,
+            "armor": 11.5,
+            "collisionDamage": 5.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2000,
+            "Springs": 42
+        },
+        "chassisMultiplier": {
+            "health": 7.3,
+            "speed": 11.5,
+            "collisionDamage": 5.2
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 22,
+        "headUpgradeCost": {
+            "Soft": 2100,
+            "Microchips": 44
+        },
+        "headMultiplier": {
+            "health": 3.2,
+            "resist": 7.6
+        },
+        "frameUpgradeCost": {
+            "Soft": 2100,
+            "ArmorPlates": 44
+        },
+        "frameMultiplier": {
+            "health": 7.6,
+            "armor": 12,
+            "collisionDamage": 5.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2100,
+            "Springs": 44
+        },
+        "chassisMultiplier": {
+            "health": 7.6,
+            "speed": 12,
+            "collisionDamage": 5.4
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 23,
+        "headUpgradeCost": {
+            "Soft": 2200,
+            "Microchips": 46
+        },
+        "headMultiplier": {
+            "health": 3.3,
+            "resist": 7.9
+        },
+        "frameUpgradeCost": {
+            "Soft": 2200,
+            "ArmorPlates": 46
+        },
+        "frameMultiplier": {
+            "health": 7.9,
+            "armor": 12.5,
+            "collisionDamage": 5.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2200,
+            "Springs": 46
+        },
+        "chassisMultiplier": {
+            "health": 7.9,
+            "speed": 12.5,
+            "collisionDamage": 5.6
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 24,
+        "headUpgradeCost": {
+            "Soft": 2300,
+            "Microchips": 48
+        },
+        "headMultiplier": {
+            "health": 3.4,
+            "resist": 8.2
+        },
+        "frameUpgradeCost": {
+            "Soft": 2300,
+            "ArmorPlates": 48
+        },
+        "frameMultiplier": {
+            "health": 8.2,
+            "armor": 13,
+            "collisionDamage": 5.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2300,
+            "Springs": 48
+        },
+        "chassisMultiplier": {
+            "health": 8.2,
+            "speed": 13,
+            "collisionDamage": 5.8
+        }
+    },
+    {
+        "id": "Assault",
+        "upgradeLevel": 25,
+        "headUpgradeCost": {
+            "Soft": 2500,
+            "Microchips": 50
+        },
+        "headMultiplier": {
+            "health": 3.5,
+            "resist": 8.5
+        },
+        "frameUpgradeCost": {
+            "Soft": 2500,
+            "ArmorPlates": 50
+        },
+        "frameMultiplier": {
+            "health": 8.5,
+            "armor": 13.5,
+            "collisionDamage": 6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2500,
+            "Springs": 50
+        },
+        "chassisMultiplier": {
+            "health": 8.5,
+            "speed": 13.5,
+            "collisionDamage": 6
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "health": 1400,
+        "speed": 25,
+        "armor": 200,
+        "resist": 0.07,
+        "collisionDamage": 500,
+        "suspensions": [
+            "Light",
+            "Normal",
+            "Passive"
+        ],
+        "abilitySlots": {
+            "active": 2,
+            "passive": 2
+        },
+        "unlockReqs": {
+            "playerLevel": 15,
+            "paladinType": "Assault",
+            "paladinUpgrades": 14
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 1,
+        "headUpgradeCost": {
+            "Soft": 100,
+            "Microchips": 2
+        },
+        "headMultiplier": {
+            "health": 1.1,
+            "resist": 1.3
+        },
+        "frameUpgradeCost": {
+            "Soft": 100,
+            "ArmorPlates": 2
+        },
+        "frameMultiplier": {
+            "health": 1.3,
+            "armor": 1.5,
+            "collisionDamage": 1.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 100,
+            "Springs": 2
+        },
+        "chassisMultiplier": {
+            "resist": 1.3,
+            "speed": 1.5,
+            "collisionDamage": 1.2
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 2,
+        "headUpgradeCost": {
+            "Soft": 125,
+            "Microchips": 4
+        },
+        "headMultiplier": {
+            "health": 1.2,
+            "resist": 1.6
+        },
+        "frameUpgradeCost": {
+            "Soft": 125,
+            "ArmorPlates": 4
+        },
+        "frameMultiplier": {
+            "health": 1.6,
+            "armor": 2,
+            "collisionDamage": 1.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 125,
+            "Springs": 4
+        },
+        "chassisMultiplier": {
+            "health": 1.6,
+            "speed": 2,
+            "collisionDamage": 1.4
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 3,
+        "headUpgradeCost": {
+            "Soft": 200,
+            "Microchips": 6
+        },
+        "headMultiplier": {
+            "health": 1.3,
+            "resist": 1.9
+        },
+        "frameUpgradeCost": {
+            "Soft": 200,
+            "ArmorPlates": 6
+        },
+        "frameMultiplier": {
+            "health": 1.9,
+            "armor": 2.5,
+            "collisionDamage": 1.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 200,
+            "Springs": 6
+        },
+        "chassisMultiplier": {
+            "health": 1.9,
+            "speed": 2.5,
+            "collisionDamage": 1.6
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 4,
+        "headUpgradeCost": {
+            "Soft": 300,
+            "Microchips": 8
+        },
+        "headMultiplier": {
+            "health": 1.4,
+            "resist": 2.2
+        },
+        "frameUpgradeCost": {
+            "Soft": 300,
+            "ArmorPlates": 8
+        },
+        "frameMultiplier": {
+            "health": 2.2,
+            "armor": 3,
+            "collisionDamage": 1.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 300,
+            "Springs": 8
+        },
+        "chassisMultiplier": {
+            "health": 2.2,
+            "speed": 3,
+            "collisionDamage": 1.8
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 5,
+        "headUpgradeCost": {
+            "Soft": 400,
+            "Microchips": 10
+        },
+        "headMultiplier": {
+            "health": 1.5,
+            "resist": 2.5
+        },
+        "frameUpgradeCost": {
+            "Soft": 400,
+            "ArmorPlates": 10
+        },
+        "frameMultiplier": {
+            "health": 2.5,
+            "armor": 3.5,
+            "collisionDamage": 2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 400,
+            "Springs": 10
+        },
+        "chassisMultiplier": {
+            "health": 2.5,
+            "speed": 3.5,
+            "collisionDamage": 2
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 6,
+        "headUpgradeCost": {
+            "Soft": 500,
+            "Microchips": 12
+        },
+        "headMultiplier": {
+            "health": 1.6,
+            "resist": 2.8
+        },
+        "frameUpgradeCost": {
+            "Soft": 500,
+            "ArmorPlates": 12
+        },
+        "frameMultiplier": {
+            "health": 2.8,
+            "armor": 4,
+            "collisionDamage": 2.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 500,
+            "Springs": 12
+        },
+        "chassisMultiplier": {
+            "health": 2.8,
+            "speed": 4,
+            "collisionDamage": 2.2
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 7,
+        "headUpgradeCost": {
+            "Soft": 600,
+            "Microchips": 14
+        },
+        "headMultiplier": {
+            "health": 1.7,
+            "resist": 3.1
+        },
+        "frameUpgradeCost": {
+            "Soft": 600,
+            "ArmorPlates": 14
+        },
+        "frameMultiplier": {
+            "health": 3.1,
+            "armor": 4.5,
+            "collisionDamage": 2.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 600,
+            "Springs": 14
+        },
+        "chassisMultiplier": {
+            "health": 3.1,
+            "speed": 4.5,
+            "collisionDamage": 2.4
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 8,
+        "headUpgradeCost": {
+            "Soft": 700,
+            "Microchips": 16
+        },
+        "headMultiplier": {
+            "health": 1.8,
+            "resist": 3.4
+        },
+        "frameUpgradeCost": {
+            "Soft": 700,
+            "ArmorPlates": 16
+        },
+        "frameMultiplier": {
+            "health": 3.4,
+            "armor": 5,
+            "collisionDamage": 2.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 700,
+            "Springs": 16
+        },
+        "chassisMultiplier": {
+            "health": 3.4,
+            "speed": 5,
+            "collisionDamage": 2.6
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 9,
+        "headUpgradeCost": {
+            "Soft": 800,
+            "Microchips": 18
+        },
+        "headMultiplier": {
+            "health": 1.9,
+            "resist": 3.7
+        },
+        "frameUpgradeCost": {
+            "Soft": 800,
+            "ArmorPlates": 18
+        },
+        "frameMultiplier": {
+            "health": 3.7,
+            "armor": 5.5,
+            "collisionDamage": 2.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 800,
+            "Springs": 18
+        },
+        "chassisMultiplier": {
+            "health": 3.7,
+            "speed": 5.5,
+            "collisionDamage": 2.8
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 10,
+        "headUpgradeCost": {
+            "Soft": 900,
+            "Microchips": 20
+        },
+        "headMultiplier": {
+            "health": 2,
+            "resist": 4
+        },
+        "frameUpgradeCost": {
+            "Soft": 900,
+            "ArmorPlates": 20
+        },
+        "frameMultiplier": {
+            "health": 4,
+            "armor": 6,
+            "collisionDamage": 3
+        },
+        "chassisUpgradeCost": {
+            "Soft": 900,
+            "Springs": 20
+        },
+        "chassisMultiplier": {
+            "health": 4,
+            "speed": 6,
+            "collisionDamage": 3
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 11,
+        "headUpgradeCost": {
+            "Soft": 1000,
+            "Microchips": 22
+        },
+        "headMultiplier": {
+            "health": 2.1,
+            "resist": 4.3
+        },
+        "frameUpgradeCost": {
+            "Soft": 1000,
+            "ArmorPlates": 22
+        },
+        "frameMultiplier": {
+            "health": 4.3,
+            "armor": 6.5,
+            "collisionDamage": 3.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1000,
+            "Springs": 22
+        },
+        "chassisMultiplier": {
+            "health": 4.3,
+            "speed": 6.5,
+            "collisionDamage": 3.2
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 12,
+        "headUpgradeCost": {
+            "Soft": 1100,
+            "Microchips": 24
+        },
+        "headMultiplier": {
+            "health": 2.2,
+            "resist": 4.6
+        },
+        "frameUpgradeCost": {
+            "Soft": 1100,
+            "ArmorPlates": 24
+        },
+        "frameMultiplier": {
+            "health": 4.6,
+            "armor": 7,
+            "collisionDamage": 3.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1100,
+            "Springs": 24
+        },
+        "chassisMultiplier": {
+            "health": 4.6,
+            "speed": 7,
+            "collisionDamage": 3.4
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 13,
+        "headUpgradeCost": {
+            "Soft": 1200,
+            "Microchips": 26
+        },
+        "headMultiplier": {
+            "health": 2.3,
+            "resist": 4.9
+        },
+        "frameUpgradeCost": {
+            "Soft": 1200,
+            "ArmorPlates": 26
+        },
+        "frameMultiplier": {
+            "health": 4.9,
+            "armor": 7.5,
+            "collisionDamage": 3.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1200,
+            "Springs": 26
+        },
+        "chassisMultiplier": {
+            "health": 4.9,
+            "speed": 7.5,
+            "collisionDamage": 3.6
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 14,
+        "headUpgradeCost": {
+            "Soft": 1300,
+            "Microchips": 28
+        },
+        "headMultiplier": {
+            "health": 2.4,
+            "resist": 5.2
+        },
+        "frameUpgradeCost": {
+            "Soft": 1300,
+            "ArmorPlates": 28
+        },
+        "frameMultiplier": {
+            "health": 5.2,
+            "armor": 8,
+            "collisionDamage": 3.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1300,
+            "Springs": 28
+        },
+        "chassisMultiplier": {
+            "health": 5.2,
+            "speed": 8,
+            "collisionDamage": 3.8
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 15,
+        "headUpgradeCost": {
+            "Soft": 1400,
+            "Microchips": 30
+        },
+        "headMultiplier": {
+            "health": 2.5,
+            "resist": 5.5
+        },
+        "frameUpgradeCost": {
+            "Soft": 1400,
+            "ArmorPlates": 30
+        },
+        "frameMultiplier": {
+            "health": 5.5,
+            "armor": 8.5,
+            "collisionDamage": 4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1400,
+            "Springs": 30
+        },
+        "chassisMultiplier": {
+            "health": 5.5,
+            "speed": 8.5,
+            "collisionDamage": 4
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 16,
+        "headUpgradeCost": {
+            "Soft": 1500,
+            "Microchips": 32
+        },
+        "headMultiplier": {
+            "health": 2.6,
+            "resist": 5.8
+        },
+        "frameUpgradeCost": {
+            "Soft": 1500,
+            "ArmorPlates": 32
+        },
+        "frameMultiplier": {
+            "health": 5.8,
+            "armor": 9,
+            "collisionDamage": 4.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1500,
+            "Springs": 32
+        },
+        "chassisMultiplier": {
+            "health": 5.8,
+            "speed": 9,
+            "collisionDamage": 4.2
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 17,
+        "headUpgradeCost": {
+            "Soft": 1600,
+            "Microchips": 34
+        },
+        "headMultiplier": {
+            "health": 2.7,
+            "resist": 6.1
+        },
+        "frameUpgradeCost": {
+            "Soft": 1600,
+            "ArmorPlates": 34
+        },
+        "frameMultiplier": {
+            "health": 6.1,
+            "armor": 9.5,
+            "collisionDamage": 4.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1600,
+            "Springs": 34
+        },
+        "chassisMultiplier": {
+            "health": 6.1,
+            "speed": 9.5,
+            "collisionDamage": 4.4
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 18,
+        "headUpgradeCost": {
+            "Soft": 1700,
+            "Microchips": 36
+        },
+        "headMultiplier": {
+            "health": 2.8,
+            "resist": 6.4
+        },
+        "frameUpgradeCost": {
+            "Soft": 1700,
+            "ArmorPlates": 36
+        },
+        "frameMultiplier": {
+            "health": 6.4,
+            "armor": 10,
+            "collisionDamage": 4.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1700,
+            "Springs": 36
+        },
+        "chassisMultiplier": {
+            "health": 6.4,
+            "speed": 10,
+            "collisionDamage": 4.6
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 19,
+        "headUpgradeCost": {
+            "Soft": 1800,
+            "Microchips": 38
+        },
+        "headMultiplier": {
+            "health": 2.9,
+            "resist": 6.7
+        },
+        "frameUpgradeCost": {
+            "Soft": 1800,
+            "ArmorPlates": 38
+        },
+        "frameMultiplier": {
+            "health": 6.7,
+            "armor": 10.5,
+            "collisionDamage": 4.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1800,
+            "Springs": 38
+        },
+        "chassisMultiplier": {
+            "health": 6.7,
+            "speed": 10.5,
+            "collisionDamage": 4.8
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 20,
+        "headUpgradeCost": {
+            "Soft": 1900,
+            "Microchips": 40
+        },
+        "headMultiplier": {
+            "health": 3,
+            "resist": 7
+        },
+        "frameUpgradeCost": {
+            "Soft": 1900,
+            "ArmorPlates": 40
+        },
+        "frameMultiplier": {
+            "health": 7,
+            "armor": 11,
+            "collisionDamage": 5
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1900,
+            "Springs": 40
+        },
+        "chassisMultiplier": {
+            "health": 7,
+            "speed": 11,
+            "collisionDamage": 5
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 21,
+        "headUpgradeCost": {
+            "Soft": 2000,
+            "Microchips": 42
+        },
+        "headMultiplier": {
+            "health": 3.1,
+            "resist": 7.3
+        },
+        "frameUpgradeCost": {
+            "Soft": 2000,
+            "ArmorPlates": 42
+        },
+        "frameMultiplier": {
+            "health": 7.3,
+            "armor": 11.5,
+            "collisionDamage": 5.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2000,
+            "Springs": 42
+        },
+        "chassisMultiplier": {
+            "health": 7.3,
+            "speed": 11.5,
+            "collisionDamage": 5.2
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 22,
+        "headUpgradeCost": {
+            "Soft": 2100,
+            "Microchips": 44
+        },
+        "headMultiplier": {
+            "health": 3.2,
+            "resist": 7.6
+        },
+        "frameUpgradeCost": {
+            "Soft": 2100,
+            "ArmorPlates": 44
+        },
+        "frameMultiplier": {
+            "health": 7.6,
+            "armor": 12,
+            "collisionDamage": 5.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2100,
+            "Springs": 44
+        },
+        "chassisMultiplier": {
+            "health": 7.6,
+            "speed": 12,
+            "collisionDamage": 5.4
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 23,
+        "headUpgradeCost": {
+            "Soft": 2200,
+            "Microchips": 46
+        },
+        "headMultiplier": {
+            "health": 3.3,
+            "resist": 7.9
+        },
+        "frameUpgradeCost": {
+            "Soft": 2200,
+            "ArmorPlates": 46
+        },
+        "frameMultiplier": {
+            "health": 7.9,
+            "armor": 12.5,
+            "collisionDamage": 5.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2200,
+            "Springs": 46
+        },
+        "chassisMultiplier": {
+            "health": 7.9,
+            "speed": 12.5,
+            "collisionDamage": 5.6
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 24,
+        "headUpgradeCost": {
+            "Soft": 2300,
+            "Microchips": 48
+        },
+        "headMultiplier": {
+            "health": 3.4,
+            "resist": 8.2
+        },
+        "frameUpgradeCost": {
+            "Soft": 2300,
+            "ArmorPlates": 48
+        },
+        "frameMultiplier": {
+            "health": 8.2,
+            "armor": 13,
+            "collisionDamage": 5.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2300,
+            "Springs": 48
+        },
+        "chassisMultiplier": {
+            "health": 8.2,
+            "speed": 13,
+            "collisionDamage": 5.8
+        }
+    },
+    {
+        "id": "Peacemaker",
+        "upgradeLevel": 25,
+        "headUpgradeCost": {
+            "Soft": 2500,
+            "Microchips": 50
+        },
+        "headMultiplier": {
+            "health": 3.5,
+            "resist": 8.5
+        },
+        "frameUpgradeCost": {
+            "Soft": 2500,
+            "ArmorPlates": 50
+        },
+        "frameMultiplier": {
+            "health": 8.5,
+            "armor": 13.5,
+            "collisionDamage": 6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2500,
+            "Springs": 50
+        },
+        "chassisMultiplier": {
+            "health": 8.5,
+            "speed": 13.5,
+            "collisionDamage": 6
+        }
+    },
+    {
+        "id": "Crusader",
+        "health": 1600,
+        "speed": 22,
+        "armor": 250,
+        "resist": 0.08,
+        "collisionDamage": 600,
+        "suspensions": [
+            "Light",
+            "Normal",
+            "Heavy",
+            "Passive"
+        ],
+        "abilitySlots": {
+            "active": 3,
+            "passive": 2
+        },
+        "unlockReqs": {
+            "playerLevel": 25,
+            "paladinType": "Peacemaker",
+            "paladinUpgrades": 15
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 1,
+        "headUpgradeCost": {
+            "Soft": 100,
+            "Microchips": 2
+        },
+        "headMultiplier": {
+            "health": 1.1,
+            "resist": 1.3
+        },
+        "frameUpgradeCost": {
+            "Soft": 100,
+            "ArmorPlates": 2
+        },
+        "frameMultiplier": {
+            "health": 1.3,
+            "armor": 1.5,
+            "collisionDamage": 1.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 100,
+            "Springs": 2
+        },
+        "chassisMultiplier": {
+            "resist": 1.3,
+            "speed": 1.5,
+            "collisionDamage": 1.2
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 2,
+        "headUpgradeCost": {
+            "Soft": 125,
+            "Microchips": 4
+        },
+        "headMultiplier": {
+            "health": 1.2,
+            "resist": 1.6
+        },
+        "frameUpgradeCost": {
+            "Soft": 125,
+            "ArmorPlates": 4
+        },
+        "frameMultiplier": {
+            "health": 1.6,
+            "armor": 2,
+            "collisionDamage": 1.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 125,
+            "Springs": 4
+        },
+        "chassisMultiplier": {
+            "health": 1.6,
+            "speed": 2,
+            "collisionDamage": 1.4
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 3,
+        "headUpgradeCost": {
+            "Soft": 200,
+            "Microchips": 6
+        },
+        "headMultiplier": {
+            "health": 1.3,
+            "resist": 1.9
+        },
+        "frameUpgradeCost": {
+            "Soft": 200,
+            "ArmorPlates": 6
+        },
+        "frameMultiplier": {
+            "health": 1.9,
+            "armor": 2.5,
+            "collisionDamage": 1.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 200,
+            "Springs": 6
+        },
+        "chassisMultiplier": {
+            "health": 1.9,
+            "speed": 2.5,
+            "collisionDamage": 1.6
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 4,
+        "headUpgradeCost": {
+            "Soft": 300,
+            "Microchips": 8
+        },
+        "headMultiplier": {
+            "health": 1.4,
+            "resist": 2.2
+        },
+        "frameUpgradeCost": {
+            "Soft": 300,
+            "ArmorPlates": 8
+        },
+        "frameMultiplier": {
+            "health": 2.2,
+            "armor": 3,
+            "collisionDamage": 1.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 300,
+            "Springs": 8
+        },
+        "chassisMultiplier": {
+            "health": 2.2,
+            "speed": 3,
+            "collisionDamage": 1.8
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 5,
+        "headUpgradeCost": {
+            "Soft": 400,
+            "Microchips": 10
+        },
+        "headMultiplier": {
+            "health": 1.5,
+            "resist": 2.5
+        },
+        "frameUpgradeCost": {
+            "Soft": 400,
+            "ArmorPlates": 10
+        },
+        "frameMultiplier": {
+            "health": 2.5,
+            "armor": 3.5,
+            "collisionDamage": 2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 400,
+            "Springs": 10
+        },
+        "chassisMultiplier": {
+            "health": 2.5,
+            "speed": 3.5,
+            "collisionDamage": 2
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 6,
+        "headUpgradeCost": {
+            "Soft": 500,
+            "Microchips": 12
+        },
+        "headMultiplier": {
+            "health": 1.6,
+            "resist": 2.8
+        },
+        "frameUpgradeCost": {
+            "Soft": 500,
+            "ArmorPlates": 12
+        },
+        "frameMultiplier": {
+            "health": 2.8,
+            "armor": 4,
+            "collisionDamage": 2.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 500,
+            "Springs": 12
+        },
+        "chassisMultiplier": {
+            "health": 2.8,
+            "speed": 4,
+            "collisionDamage": 2.2
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 7,
+        "headUpgradeCost": {
+            "Soft": 600,
+            "Microchips": 14
+        },
+        "headMultiplier": {
+            "health": 1.7,
+            "resist": 3.1
+        },
+        "frameUpgradeCost": {
+            "Soft": 600,
+            "ArmorPlates": 14
+        },
+        "frameMultiplier": {
+            "health": 3.1,
+            "armor": 4.5,
+            "collisionDamage": 2.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 600,
+            "Springs": 14
+        },
+        "chassisMultiplier": {
+            "health": 3.1,
+            "speed": 4.5,
+            "collisionDamage": 2.4
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 8,
+        "headUpgradeCost": {
+            "Soft": 700,
+            "Microchips": 16
+        },
+        "headMultiplier": {
+            "health": 1.8,
+            "resist": 3.4
+        },
+        "frameUpgradeCost": {
+            "Soft": 700,
+            "ArmorPlates": 16
+        },
+        "frameMultiplier": {
+            "health": 3.4,
+            "armor": 5,
+            "collisionDamage": 2.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 700,
+            "Springs": 16
+        },
+        "chassisMultiplier": {
+            "health": 3.4,
+            "speed": 5,
+            "collisionDamage": 2.6
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 9,
+        "headUpgradeCost": {
+            "Soft": 800,
+            "Microchips": 18
+        },
+        "headMultiplier": {
+            "health": 1.9,
+            "resist": 3.7
+        },
+        "frameUpgradeCost": {
+            "Soft": 800,
+            "ArmorPlates": 18
+        },
+        "frameMultiplier": {
+            "health": 3.7,
+            "armor": 5.5,
+            "collisionDamage": 2.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 800,
+            "Springs": 18
+        },
+        "chassisMultiplier": {
+            "health": 3.7,
+            "speed": 5.5,
+            "collisionDamage": 2.8
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 10,
+        "headUpgradeCost": {
+            "Soft": 900,
+            "Microchips": 20
+        },
+        "headMultiplier": {
+            "health": 2,
+            "resist": 4
+        },
+        "frameUpgradeCost": {
+            "Soft": 900,
+            "ArmorPlates": 20
+        },
+        "frameMultiplier": {
+            "health": 4,
+            "armor": 6,
+            "collisionDamage": 3
+        },
+        "chassisUpgradeCost": {
+            "Soft": 900,
+            "Springs": 20
+        },
+        "chassisMultiplier": {
+            "health": 4,
+            "speed": 6,
+            "collisionDamage": 3
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 11,
+        "headUpgradeCost": {
+            "Soft": 1000,
+            "Microchips": 22
+        },
+        "headMultiplier": {
+            "health": 2.1,
+            "resist": 4.3
+        },
+        "frameUpgradeCost": {
+            "Soft": 1000,
+            "ArmorPlates": 22
+        },
+        "frameMultiplier": {
+            "health": 4.3,
+            "armor": 6.5,
+            "collisionDamage": 3.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1000,
+            "Springs": 22
+        },
+        "chassisMultiplier": {
+            "health": 4.3,
+            "speed": 6.5,
+            "collisionDamage": 3.2
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 12,
+        "headUpgradeCost": {
+            "Soft": 1100,
+            "Microchips": 24
+        },
+        "headMultiplier": {
+            "health": 2.2,
+            "resist": 4.6
+        },
+        "frameUpgradeCost": {
+            "Soft": 1100,
+            "ArmorPlates": 24
+        },
+        "frameMultiplier": {
+            "health": 4.6,
+            "armor": 7,
+            "collisionDamage": 3.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1100,
+            "Springs": 24
+        },
+        "chassisMultiplier": {
+            "health": 4.6,
+            "speed": 7,
+            "collisionDamage": 3.4
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 13,
+        "headUpgradeCost": {
+            "Soft": 1200,
+            "Microchips": 26
+        },
+        "headMultiplier": {
+            "health": 2.3,
+            "resist": 4.9
+        },
+        "frameUpgradeCost": {
+            "Soft": 1200,
+            "ArmorPlates": 26
+        },
+        "frameMultiplier": {
+            "health": 4.9,
+            "armor": 7.5,
+            "collisionDamage": 3.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1200,
+            "Springs": 26
+        },
+        "chassisMultiplier": {
+            "health": 4.9,
+            "speed": 7.5,
+            "collisionDamage": 3.6
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 14,
+        "headUpgradeCost": {
+            "Soft": 1300,
+            "Microchips": 28
+        },
+        "headMultiplier": {
+            "health": 2.4,
+            "resist": 5.2
+        },
+        "frameUpgradeCost": {
+            "Soft": 1300,
+            "ArmorPlates": 28
+        },
+        "frameMultiplier": {
+            "health": 5.2,
+            "armor": 8,
+            "collisionDamage": 3.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1300,
+            "Springs": 28
+        },
+        "chassisMultiplier": {
+            "health": 5.2,
+            "speed": 8,
+            "collisionDamage": 3.8
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 15,
+        "headUpgradeCost": {
+            "Soft": 1400,
+            "Microchips": 30
+        },
+        "headMultiplier": {
+            "health": 2.5,
+            "resist": 5.5
+        },
+        "frameUpgradeCost": {
+            "Soft": 1400,
+            "ArmorPlates": 30
+        },
+        "frameMultiplier": {
+            "health": 5.5,
+            "armor": 8.5,
+            "collisionDamage": 4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1400,
+            "Springs": 30
+        },
+        "chassisMultiplier": {
+            "health": 5.5,
+            "speed": 8.5,
+            "collisionDamage": 4
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 16,
+        "headUpgradeCost": {
+            "Soft": 1500,
+            "Microchips": 32
+        },
+        "headMultiplier": {
+            "health": 2.6,
+            "resist": 5.8
+        },
+        "frameUpgradeCost": {
+            "Soft": 1500,
+            "ArmorPlates": 32
+        },
+        "frameMultiplier": {
+            "health": 5.8,
+            "armor": 9,
+            "collisionDamage": 4.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1500,
+            "Springs": 32
+        },
+        "chassisMultiplier": {
+            "health": 5.8,
+            "speed": 9,
+            "collisionDamage": 4.2
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 17,
+        "headUpgradeCost": {
+            "Soft": 1600,
+            "Microchips": 34
+        },
+        "headMultiplier": {
+            "health": 2.7,
+            "resist": 6.1
+        },
+        "frameUpgradeCost": {
+            "Soft": 1600,
+            "ArmorPlates": 34
+        },
+        "frameMultiplier": {
+            "health": 6.1,
+            "armor": 9.5,
+            "collisionDamage": 4.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1600,
+            "Springs": 34
+        },
+        "chassisMultiplier": {
+            "health": 6.1,
+            "speed": 9.5,
+            "collisionDamage": 4.4
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 18,
+        "headUpgradeCost": {
+            "Soft": 1700,
+            "Microchips": 36
+        },
+        "headMultiplier": {
+            "health": 2.8,
+            "resist": 6.4
+        },
+        "frameUpgradeCost": {
+            "Soft": 1700,
+            "ArmorPlates": 36
+        },
+        "frameMultiplier": {
+            "health": 6.4,
+            "armor": 10,
+            "collisionDamage": 4.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1700,
+            "Springs": 36
+        },
+        "chassisMultiplier": {
+            "health": 6.4,
+            "speed": 10,
+            "collisionDamage": 4.6
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 19,
+        "headUpgradeCost": {
+            "Soft": 1800,
+            "Microchips": 38
+        },
+        "headMultiplier": {
+            "health": 2.9,
+            "resist": 6.7
+        },
+        "frameUpgradeCost": {
+            "Soft": 1800,
+            "ArmorPlates": 38
+        },
+        "frameMultiplier": {
+            "health": 6.7,
+            "armor": 10.5,
+            "collisionDamage": 4.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1800,
+            "Springs": 38
+        },
+        "chassisMultiplier": {
+            "health": 6.7,
+            "speed": 10.5,
+            "collisionDamage": 4.8
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 20,
+        "headUpgradeCost": {
+            "Soft": 1900,
+            "Microchips": 40
+        },
+        "headMultiplier": {
+            "health": 3,
+            "resist": 7
+        },
+        "frameUpgradeCost": {
+            "Soft": 1900,
+            "ArmorPlates": 40
+        },
+        "frameMultiplier": {
+            "health": 7,
+            "armor": 11,
+            "collisionDamage": 5
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1900,
+            "Springs": 40
+        },
+        "chassisMultiplier": {
+            "health": 7,
+            "speed": 11,
+            "collisionDamage": 5
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 21,
+        "headUpgradeCost": {
+            "Soft": 2000,
+            "Microchips": 42
+        },
+        "headMultiplier": {
+            "health": 3.1,
+            "resist": 7.3
+        },
+        "frameUpgradeCost": {
+            "Soft": 2000,
+            "ArmorPlates": 42
+        },
+        "frameMultiplier": {
+            "health": 7.3,
+            "armor": 11.5,
+            "collisionDamage": 5.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2000,
+            "Springs": 42
+        },
+        "chassisMultiplier": {
+            "health": 7.3,
+            "speed": 11.5,
+            "collisionDamage": 5.2
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 22,
+        "headUpgradeCost": {
+            "Soft": 2100,
+            "Microchips": 44
+        },
+        "headMultiplier": {
+            "health": 3.2,
+            "resist": 7.6
+        },
+        "frameUpgradeCost": {
+            "Soft": 2100,
+            "ArmorPlates": 44
+        },
+        "frameMultiplier": {
+            "health": 7.6,
+            "armor": 12,
+            "collisionDamage": 5.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2100,
+            "Springs": 44
+        },
+        "chassisMultiplier": {
+            "health": 7.6,
+            "speed": 12,
+            "collisionDamage": 5.4
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 23,
+        "headUpgradeCost": {
+            "Soft": 2200,
+            "Microchips": 46
+        },
+        "headMultiplier": {
+            "health": 3.3,
+            "resist": 7.9
+        },
+        "frameUpgradeCost": {
+            "Soft": 2200,
+            "ArmorPlates": 46
+        },
+        "frameMultiplier": {
+            "health": 7.9,
+            "armor": 12.5,
+            "collisionDamage": 5.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2200,
+            "Springs": 46
+        },
+        "chassisMultiplier": {
+            "health": 7.9,
+            "speed": 12.5,
+            "collisionDamage": 5.6
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 24,
+        "headUpgradeCost": {
+            "Soft": 2300,
+            "Microchips": 48
+        },
+        "headMultiplier": {
+            "health": 3.4,
+            "resist": 8.2
+        },
+        "frameUpgradeCost": {
+            "Soft": 2300,
+            "ArmorPlates": 48
+        },
+        "frameMultiplier": {
+            "health": 8.2,
+            "armor": 13,
+            "collisionDamage": 5.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2300,
+            "Springs": 48
+        },
+        "chassisMultiplier": {
+            "health": 8.2,
+            "speed": 13,
+            "collisionDamage": 5.8
+        }
+    },
+    {
+        "id": "Crusader",
+        "upgradeLevel": 25,
+        "headUpgradeCost": {
+            "Soft": 2500,
+            "Microchips": 50
+        },
+        "headMultiplier": {
+            "health": 3.5,
+            "resist": 8.5
+        },
+        "frameUpgradeCost": {
+            "Soft": 2500,
+            "ArmorPlates": 50
+        },
+        "frameMultiplier": {
+            "health": 8.5,
+            "armor": 13.5,
+            "collisionDamage": 6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2500,
+            "Springs": 50
+        },
+        "chassisMultiplier": {
+            "health": 8.5,
+            "speed": 13.5,
+            "collisionDamage": 6
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "health": 1800,
+        "speed": 22,
+        "armor": 300,
+        "resist": 0.09,
+        "collisionDamage": 700,
+        "suspensions": [
+            "Light",
+            "Normal",
+            "Heavy",
+            "Passive"
+        ],
+        "abilitySlots": {
+            "active": 3,
+            "passive": 3
+        },
+        "unlockReqs": {
+            "playerLevel": 65,
+            "paladinType": "Crusader",
+            "paladinUpgrades": 17
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 1,
+        "headUpgradeCost": {
+            "Soft": 100,
+            "Microchips": 2
+        },
+        "headMultiplier": {
+            "health": 1.1,
+            "resist": 1.3
+        },
+        "frameUpgradeCost": {
+            "Soft": 100,
+            "ArmorPlates": 2
+        },
+        "frameMultiplier": {
+            "health": 1.3,
+            "armor": 1.5,
+            "collisionDamage": 1.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 100,
+            "Springs": 2
+        },
+        "chassisMultiplier": {
+            "resist": 1.3,
+            "speed": 1.5,
+            "collisionDamage": 1.2
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 2,
+        "headUpgradeCost": {
+            "Soft": 125,
+            "Microchips": 4
+        },
+        "headMultiplier": {
+            "health": 1.2,
+            "resist": 1.6
+        },
+        "frameUpgradeCost": {
+            "Soft": 125,
+            "ArmorPlates": 4
+        },
+        "frameMultiplier": {
+            "health": 1.6,
+            "armor": 2,
+            "collisionDamage": 1.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 125,
+            "Springs": 4
+        },
+        "chassisMultiplier": {
+            "health": 1.6,
+            "speed": 2,
+            "collisionDamage": 1.4
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 3,
+        "headUpgradeCost": {
+            "Soft": 200,
+            "Microchips": 6
+        },
+        "headMultiplier": {
+            "health": 1.3,
+            "resist": 1.9
+        },
+        "frameUpgradeCost": {
+            "Soft": 200,
+            "ArmorPlates": 6
+        },
+        "frameMultiplier": {
+            "health": 1.9,
+            "armor": 2.5,
+            "collisionDamage": 1.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 200,
+            "Springs": 6
+        },
+        "chassisMultiplier": {
+            "health": 1.9,
+            "speed": 2.5,
+            "collisionDamage": 1.6
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 4,
+        "headUpgradeCost": {
+            "Soft": 300,
+            "Microchips": 8
+        },
+        "headMultiplier": {
+            "health": 1.4,
+            "resist": 2.2
+        },
+        "frameUpgradeCost": {
+            "Soft": 300,
+            "ArmorPlates": 8
+        },
+        "frameMultiplier": {
+            "health": 2.2,
+            "armor": 3,
+            "collisionDamage": 1.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 300,
+            "Springs": 8
+        },
+        "chassisMultiplier": {
+            "health": 2.2,
+            "speed": 3,
+            "collisionDamage": 1.8
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 5,
+        "headUpgradeCost": {
+            "Soft": 400,
+            "Microchips": 10
+        },
+        "headMultiplier": {
+            "health": 1.5,
+            "resist": 2.5
+        },
+        "frameUpgradeCost": {
+            "Soft": 400,
+            "ArmorPlates": 10
+        },
+        "frameMultiplier": {
+            "health": 2.5,
+            "armor": 3.5,
+            "collisionDamage": 2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 400,
+            "Springs": 10
+        },
+        "chassisMultiplier": {
+            "health": 2.5,
+            "speed": 3.5,
+            "collisionDamage": 2
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 6,
+        "headUpgradeCost": {
+            "Soft": 500,
+            "Microchips": 12
+        },
+        "headMultiplier": {
+            "health": 1.6,
+            "resist": 2.8
+        },
+        "frameUpgradeCost": {
+            "Soft": 500,
+            "ArmorPlates": 12
+        },
+        "frameMultiplier": {
+            "health": 2.8,
+            "armor": 4,
+            "collisionDamage": 2.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 500,
+            "Springs": 12
+        },
+        "chassisMultiplier": {
+            "health": 2.8,
+            "speed": 4,
+            "collisionDamage": 2.2
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 7,
+        "headUpgradeCost": {
+            "Soft": 600,
+            "Microchips": 14
+        },
+        "headMultiplier": {
+            "health": 1.7,
+            "resist": 3.1
+        },
+        "frameUpgradeCost": {
+            "Soft": 600,
+            "ArmorPlates": 14
+        },
+        "frameMultiplier": {
+            "health": 3.1,
+            "armor": 4.5,
+            "collisionDamage": 2.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 600,
+            "Springs": 14
+        },
+        "chassisMultiplier": {
+            "health": 3.1,
+            "speed": 4.5,
+            "collisionDamage": 2.4
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 8,
+        "headUpgradeCost": {
+            "Soft": 700,
+            "Microchips": 16
+        },
+        "headMultiplier": {
+            "health": 1.8,
+            "resist": 3.4
+        },
+        "frameUpgradeCost": {
+            "Soft": 700,
+            "ArmorPlates": 16
+        },
+        "frameMultiplier": {
+            "health": 3.4,
+            "armor": 5,
+            "collisionDamage": 2.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 700,
+            "Springs": 16
+        },
+        "chassisMultiplier": {
+            "health": 3.4,
+            "speed": 5,
+            "collisionDamage": 2.6
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 9,
+        "headUpgradeCost": {
+            "Soft": 800,
+            "Microchips": 18
+        },
+        "headMultiplier": {
+            "health": 1.9,
+            "resist": 3.7
+        },
+        "frameUpgradeCost": {
+            "Soft": 800,
+            "ArmorPlates": 18
+        },
+        "frameMultiplier": {
+            "health": 3.7,
+            "armor": 5.5,
+            "collisionDamage": 2.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 800,
+            "Springs": 18
+        },
+        "chassisMultiplier": {
+            "health": 3.7,
+            "speed": 5.5,
+            "collisionDamage": 2.8
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 10,
+        "headUpgradeCost": {
+            "Soft": 900,
+            "Microchips": 20
+        },
+        "headMultiplier": {
+            "health": 2,
+            "resist": 4
+        },
+        "frameUpgradeCost": {
+            "Soft": 900,
+            "ArmorPlates": 20
+        },
+        "frameMultiplier": {
+            "health": 4,
+            "armor": 6,
+            "collisionDamage": 3
+        },
+        "chassisUpgradeCost": {
+            "Soft": 900,
+            "Springs": 20
+        },
+        "chassisMultiplier": {
+            "health": 4,
+            "speed": 6,
+            "collisionDamage": 3
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 11,
+        "headUpgradeCost": {
+            "Soft": 1000,
+            "Microchips": 22
+        },
+        "headMultiplier": {
+            "health": 2.1,
+            "resist": 4.3
+        },
+        "frameUpgradeCost": {
+            "Soft": 1000,
+            "ArmorPlates": 22
+        },
+        "frameMultiplier": {
+            "health": 4.3,
+            "armor": 6.5,
+            "collisionDamage": 3.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1000,
+            "Springs": 22
+        },
+        "chassisMultiplier": {
+            "health": 4.3,
+            "speed": 6.5,
+            "collisionDamage": 3.2
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 12,
+        "headUpgradeCost": {
+            "Soft": 1100,
+            "Microchips": 24
+        },
+        "headMultiplier": {
+            "health": 2.2,
+            "resist": 4.6
+        },
+        "frameUpgradeCost": {
+            "Soft": 1100,
+            "ArmorPlates": 24
+        },
+        "frameMultiplier": {
+            "health": 4.6,
+            "armor": 7,
+            "collisionDamage": 3.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1100,
+            "Springs": 24
+        },
+        "chassisMultiplier": {
+            "health": 4.6,
+            "speed": 7,
+            "collisionDamage": 3.4
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 13,
+        "headUpgradeCost": {
+            "Soft": 1200,
+            "Microchips": 26
+        },
+        "headMultiplier": {
+            "health": 2.3,
+            "resist": 4.9
+        },
+        "frameUpgradeCost": {
+            "Soft": 1200,
+            "ArmorPlates": 26
+        },
+        "frameMultiplier": {
+            "health": 4.9,
+            "armor": 7.5,
+            "collisionDamage": 3.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1200,
+            "Springs": 26
+        },
+        "chassisMultiplier": {
+            "health": 4.9,
+            "speed": 7.5,
+            "collisionDamage": 3.6
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 14,
+        "headUpgradeCost": {
+            "Soft": 1300,
+            "Microchips": 28
+        },
+        "headMultiplier": {
+            "health": 2.4,
+            "resist": 5.2
+        },
+        "frameUpgradeCost": {
+            "Soft": 1300,
+            "ArmorPlates": 28
+        },
+        "frameMultiplier": {
+            "health": 5.2,
+            "armor": 8,
+            "collisionDamage": 3.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1300,
+            "Springs": 28
+        },
+        "chassisMultiplier": {
+            "health": 5.2,
+            "speed": 8,
+            "collisionDamage": 3.8
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 15,
+        "headUpgradeCost": {
+            "Soft": 1400,
+            "Microchips": 30
+        },
+        "headMultiplier": {
+            "health": 2.5,
+            "resist": 5.5
+        },
+        "frameUpgradeCost": {
+            "Soft": 1400,
+            "ArmorPlates": 30
+        },
+        "frameMultiplier": {
+            "health": 5.5,
+            "armor": 8.5,
+            "collisionDamage": 4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1400,
+            "Springs": 30
+        },
+        "chassisMultiplier": {
+            "health": 5.5,
+            "speed": 8.5,
+            "collisionDamage": 4
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 16,
+        "headUpgradeCost": {
+            "Soft": 1500,
+            "Microchips": 32
+        },
+        "headMultiplier": {
+            "health": 2.6,
+            "resist": 5.8
+        },
+        "frameUpgradeCost": {
+            "Soft": 1500,
+            "ArmorPlates": 32
+        },
+        "frameMultiplier": {
+            "health": 5.8,
+            "armor": 9,
+            "collisionDamage": 4.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1500,
+            "Springs": 32
+        },
+        "chassisMultiplier": {
+            "health": 5.8,
+            "speed": 9,
+            "collisionDamage": 4.2
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 17,
+        "headUpgradeCost": {
+            "Soft": 1600,
+            "Microchips": 34
+        },
+        "headMultiplier": {
+            "health": 2.7,
+            "resist": 6.1
+        },
+        "frameUpgradeCost": {
+            "Soft": 1600,
+            "ArmorPlates": 34
+        },
+        "frameMultiplier": {
+            "health": 6.1,
+            "armor": 9.5,
+            "collisionDamage": 4.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1600,
+            "Springs": 34
+        },
+        "chassisMultiplier": {
+            "health": 6.1,
+            "speed": 9.5,
+            "collisionDamage": 4.4
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 18,
+        "headUpgradeCost": {
+            "Soft": 1700,
+            "Microchips": 36
+        },
+        "headMultiplier": {
+            "health": 2.8,
+            "resist": 6.4
+        },
+        "frameUpgradeCost": {
+            "Soft": 1700,
+            "ArmorPlates": 36
+        },
+        "frameMultiplier": {
+            "health": 6.4,
+            "armor": 10,
+            "collisionDamage": 4.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1700,
+            "Springs": 36
+        },
+        "chassisMultiplier": {
+            "health": 6.4,
+            "speed": 10,
+            "collisionDamage": 4.6
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 19,
+        "headUpgradeCost": {
+            "Soft": 1800,
+            "Microchips": 38
+        },
+        "headMultiplier": {
+            "health": 2.9,
+            "resist": 6.7
+        },
+        "frameUpgradeCost": {
+            "Soft": 1800,
+            "ArmorPlates": 38
+        },
+        "frameMultiplier": {
+            "health": 6.7,
+            "armor": 10.5,
+            "collisionDamage": 4.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1800,
+            "Springs": 38
+        },
+        "chassisMultiplier": {
+            "health": 6.7,
+            "speed": 10.5,
+            "collisionDamage": 4.8
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 20,
+        "headUpgradeCost": {
+            "Soft": 1900,
+            "Microchips": 40
+        },
+        "headMultiplier": {
+            "health": 3,
+            "resist": 7
+        },
+        "frameUpgradeCost": {
+            "Soft": 1900,
+            "ArmorPlates": 40
+        },
+        "frameMultiplier": {
+            "health": 7,
+            "armor": 11,
+            "collisionDamage": 5
+        },
+        "chassisUpgradeCost": {
+            "Soft": 1900,
+            "Springs": 40
+        },
+        "chassisMultiplier": {
+            "health": 7,
+            "speed": 11,
+            "collisionDamage": 5
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 21,
+        "headUpgradeCost": {
+            "Soft": 2000,
+            "Microchips": 42
+        },
+        "headMultiplier": {
+            "health": 3.1,
+            "resist": 7.3
+        },
+        "frameUpgradeCost": {
+            "Soft": 2000,
+            "ArmorPlates": 42
+        },
+        "frameMultiplier": {
+            "health": 7.3,
+            "armor": 11.5,
+            "collisionDamage": 5.2
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2000,
+            "Springs": 42
+        },
+        "chassisMultiplier": {
+            "health": 7.3,
+            "speed": 11.5,
+            "collisionDamage": 5.2
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 22,
+        "headUpgradeCost": {
+            "Soft": 2100,
+            "Microchips": 44
+        },
+        "headMultiplier": {
+            "health": 3.2,
+            "resist": 7.6
+        },
+        "frameUpgradeCost": {
+            "Soft": 2100,
+            "ArmorPlates": 44
+        },
+        "frameMultiplier": {
+            "health": 7.6,
+            "armor": 12,
+            "collisionDamage": 5.4
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2100,
+            "Springs": 44
+        },
+        "chassisMultiplier": {
+            "health": 7.6,
+            "speed": 12,
+            "collisionDamage": 5.4
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 23,
+        "headUpgradeCost": {
+            "Soft": 2200,
+            "Microchips": 46
+        },
+        "headMultiplier": {
+            "health": 3.3,
+            "resist": 7.9
+        },
+        "frameUpgradeCost": {
+            "Soft": 2200,
+            "ArmorPlates": 46
+        },
+        "frameMultiplier": {
+            "health": 7.9,
+            "armor": 12.5,
+            "collisionDamage": 5.6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2200,
+            "Springs": 46
+        },
+        "chassisMultiplier": {
+            "health": 7.9,
+            "speed": 12.5,
+            "collisionDamage": 5.6
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 24,
+        "headUpgradeCost": {
+            "Soft": 2300,
+            "Microchips": 48
+        },
+        "headMultiplier": {
+            "health": 3.4,
+            "resist": 8.2
+        },
+        "frameUpgradeCost": {
+            "Soft": 2300,
+            "ArmorPlates": 48
+        },
+        "frameMultiplier": {
+            "health": 8.2,
+            "armor": 13,
+            "collisionDamage": 5.8
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2300,
+            "Springs": 48
+        },
+        "chassisMultiplier": {
+            "health": 8.2,
+            "speed": 13,
+            "collisionDamage": 5.8
+        }
+    },
+    {
+        "id": "Juggernaut",
+        "upgradeLevel": 25,
+        "headUpgradeCost": {
+            "Soft": 2500,
+            "Microchips": 50
+        },
+        "headMultiplier": {
+            "health": 3.5,
+            "resist": 8.5
+        },
+        "frameUpgradeCost": {
+            "Soft": 2500,
+            "ArmorPlates": 50
+        },
+        "frameMultiplier": {
+            "health": 8.5,
+            "armor": 13.5,
+            "collisionDamage": 6
+        },
+        "chassisUpgradeCost": {
+            "Soft": 2500,
+            "Springs": 50
+        },
+        "chassisMultiplier": {
+            "health": 8.5,
+            "speed": 13.5,
+            "collisionDamage": 6
+        }
+    }
+]

@@ -1,0 +1,71 @@
+{
+  "type": "object",
+  "properties": {
+    "LOOT_DROP_PROBABILITY": {
+      "type": "integer"
+    },
+    "DROP_ITEMS_DELAY": {
+      "type": "number"
+    },
+    "COLLISION_COOLDOWN": {
+      "type": "number"
+    },
+    "FIRERATE_STACK_COUNT": {
+      "type": "integer"
+    },
+    "NANOBOTS_DURATION": {
+      "type": "integer"
+    },
+    "PATTERN_START_DELAY": {
+      "type": "integer"
+    },
+    "PATTERN_APPEAR_Z": {
+      "type": "integer"
+    },
+    "PATTERN_DESTROY_Z": {
+      "type": "integer"
+    },
+    "energy_restore_interval": {
+      "type": "integer"
+    },
+    "energy_max_count": {
+      "type": "integer"
+    },
+    "energy_max_received": {
+      "type": "integer"
+    },
+    "full_energy_cost": {
+      "type": "integer"
+    },
+    "unlim_energy_cost": {
+      "type": "integer"
+    },
+    "unlim_energy_duration": {
+      "type": "integer"
+    },
+    "SOFT_TO_TIME_COEFFICIENT": {
+      "type": "integer"
+    },
+    "COIN_PRICE": {
+      "type": "array",
+      "format": "table",
+      "options": {
+        "disable_array_reorder": true,
+        "disable_array_add": true,
+        "disable_array_delete": true
+      },
+      "items": {
+        "type": "array",
+        "format": "table",
+        "options": {
+          "disable_array_reorder": true,
+          "disable_array_add": true,
+          "disable_array_delete": true
+        },
+        "items": {
+          "type": "integer"
+        }
+      }
+    }
+  }
+}

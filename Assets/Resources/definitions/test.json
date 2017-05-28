@@ -1,0 +1,57 @@
+{
+    "status": "ok",
+    "meta": { "serverDefVersion": "20170405044106-FB802A19810155A1724517E1407A4F91" },
+    "result": {
+        "state": {
+            "name": {},
+            "avatar": "",
+            "id": "6263310151365457920",
+            "group": "default",
+            "country": "EN",
+            "locale": "en_EN",
+            "timezone": "25200",
+            "scores": { "bestOfWeek": 0 },
+            "loot":
+                { "Soft": 0, "Hard": 0, "EnergyPack": 0, "Microchips": 0, "ArmorPlates": 0, "Springs": 0, "Shell": 0 },
+            "weapons": { "Machinegun": { "level": 1 }, "Laser": { "level": 1 } },
+            "abilities":
+            {
+                "Nanobots": { "level": 1 },
+                "ShockWaves": { "level": 1 },
+                "Artillery": { "level": 1 },
+                "HiScores": { "level": 1 },
+                "DamageBonus": { "level": 1 },
+                "DropRate": { "level": 1 },
+                "DroneX": { "level": 1 },
+                "DroneY": { "level": 1 }
+            },
+            "paladin":
+            {
+                "Ranger": {
+                    "suspensions": ["Machinegun"],
+                    "abilitySlots": [],
+                    "nodes": { "head": { "level": 1 }, "frame": { "level": 1 }, "chassis": { "level": 1 } },
+                    "isActive": true
+                }
+            },
+            "eventTimer": [],
+            "level": 1,
+            "experience": 0,
+            "energy": { "count": 10, "time": 0 },
+            "quests": {
+                "active": [{ "nextFree": 0 }, { "nextFree": 0 }, { "nextFree": 0 }],
+                "sequence": { "next": 0, "length": 0 }
+            },
+            "inbox": {},
+            "friends": {},
+            "rewards": { "daily": { "last": -1, "time": 1493288230791 } },
+            "stats": { "paying": false },
+            "device": { "type": "osxeditor", "subtype": "iMac17,1", "pushToken": "vjuh-vjuh" },
+            "endEvents": { "bestOfWeek": 296492611 }
+        },
+        "sessionId": "48434d43-791f-48d5-8219-049c8bc2b632",
+        "sessionExpires": 2592000,
+        "userId": "6263310151365457920",
+        "serverTime": 1493289507364
+    }
+}

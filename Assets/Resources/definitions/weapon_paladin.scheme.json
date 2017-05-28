@@ -1,0 +1,86 @@
+{
+  "type": "array",
+  "format": "table",
+  "options": {
+    "disable_array_reorder": true
+  },
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "string"
+      },
+      "level": {
+        "type": "integer"
+      },
+      "upgradeCost": {
+        "type": "object",
+        "options": {
+          "table_row": true
+        },
+        "properties": {
+          "Soft": {
+            "description": "Soft",
+            "type": "integer"
+          },
+          "Microchips": {
+            "description": "Microchips",
+            "type": "integer"
+          }
+        }
+      },
+      "upgradeReqs": {
+        "type": "object",
+        "options": {
+          "table_row": true
+        },
+        "properties": {
+          "level": {
+            "description": "level",
+            "type": "integer"
+          },
+          "paladinType": {
+            "description": "paladinType",
+            "type": "string"
+          }
+        }
+      },
+      "multiplier": {
+        "type": "number"
+      },
+      "shotConfig": {
+        "type": "array",
+          "format": "table",
+          "options": {
+            "disable_array_reorder": true
+          },
+        "items": {
+          "type": "object",
+          "properties": {
+            "bullet": {
+              "type": "string"
+            },
+            "orientation": {
+              "type": "integer"
+            },
+            "movingType": {
+              "type": "string"
+            },
+            "angleSpeed": {
+              "type": "integer"
+            },
+            "aimingAngle": {
+              "type": "integer"
+            },
+            "detectingRadius": {
+              "type": "integer"
+            }
+          }
+        }
+      },
+      "reloadTime": {
+        "type": "number"
+      }
+    }
+  }
+}

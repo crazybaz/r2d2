@@ -1,0 +1,38 @@
+{
+    "LOOT_DROP_PROBABILITY": 5,
+    "COIN_PRICE": [
+        [
+            3,
+            7
+        ],
+        [
+            5,
+            9
+        ],
+        [
+            7,
+            11
+        ]
+    ],
+    "DROP_ITEMS_DELAY": 0.1,
+    "COLLISION_COOLDOWN": 0.1,
+    "FIRERATE_STACK_COUNT": 10,
+    "NANOBOTS_DURATION": 5,
+    "PATTERN_START_DELAY": 1,
+    "PATTERN_APPEAR_Z": 300,
+    "PATTERN_DESTROY_Z": -200,
+    "ENERGY_RESTORE_INTERVAL": 300,
+    "SOFT_TIME_RATE": 5,
+    "TIME_HARD_RATE": 5,
+    "DISCOUNT_HOUR": 10,
+    "FIELD_MOVE_SPEED": 30,
+    "START_LOGO_TIMEOUT": 1,
+
+    "energy_restore_interval": 300000,
+    "energy_max_count":	10,
+    "energy_max_received": 10,
+    "full_energy_cost": 30,
+    "unlim_energy_cost": 100,
+    "unlim_energy_duration": 7200000,
+    "quest_chest_max_progress": 10
+}

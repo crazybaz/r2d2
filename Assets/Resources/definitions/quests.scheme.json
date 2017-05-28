@@ -1,0 +1,61 @@
+{
+  "type": "array",
+  "format": "table",
+  "options": {
+    "disable_array_reorder": true
+  },
+  "items": {
+    "type": "object",
+    "properties": {
+      "type": {
+        "type": "string"
+      },
+      "goal": {
+        "type": "array",
+        "format": "table",
+        "options": {
+          "disable_array_reorder": true
+        },
+        "items": {
+          "type": "object",
+          "properties": {
+            "level": {
+              "type": "integer"
+            },
+            "amount": {
+              "type": "integer"
+            }
+          }
+        }
+      },
+      "complexity": {
+        "type": "integer"
+      },
+      "reward": {
+        "type": "object",
+        "options": {
+          "table_row": true
+        },
+        "properties": {
+          "hard": {
+            "type": "integer"
+          },
+          "soft": {
+            "type": "integer"
+          }
+        }
+      },
+      "requirements": {
+        "type": "object",
+        "options": {
+          "table_row": true
+        },
+        "properties": {
+          "paladinType": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+    "type": "array",
+    "title": "bullet",
+    "format": "table",
+    "options": {
+        "disable_array_reorder": true
+    },
+    "items": {
+        "type": "object",
+        "properties": {
+            "id": {
+                "type": "string"
+            },
+            "damage": {
+                "type": "integer"
+            },
+            "speed": {
+                "type": "integer"
+            },
+            "obstacleCollisionType": {
+                "type": "string",
+                "required": true,
+                "enum": ["Collision", "Ignore", "ReduceDamage"]
+            },
+            "destroyable": {
+                "type": "boolean",
+                "required": true
+            }
+        }
+    }
+}

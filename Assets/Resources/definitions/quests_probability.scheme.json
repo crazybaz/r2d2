@@ -1,0 +1,27 @@
+{
+  "type": "array",
+  "format": "table",
+  "options": {
+    "disable_array_reorder": true
+  },
+  "items": {
+    "type": "object",
+    "properties": {
+      "level": {
+        "type": "integer"
+      },
+      "complexity": {
+        "type": "array",
+        "format": "table",
+        "options": {
+          "disable_array_reorder": true,
+          "disable_array_delete": true,
+          "disable_array_add": true
+        },
+        "items": {
+          "type": "number"
+        }
+      }
+    }
+  }
+}

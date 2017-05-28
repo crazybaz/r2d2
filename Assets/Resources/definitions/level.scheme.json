@@ -1,0 +1,61 @@
+{
+  "type": "array",
+  "format": "table",
+  "options": {
+    "disable_array_reorder": true
+  },
+  "items": {
+    "type": "object",
+    "properties": {
+      "playerLevel": {
+        "type": "integer"
+      },
+      "back": {
+        "type": "string"
+      },
+      "bossLevel": {
+        "type": "integer"
+      },
+      "patterns": {
+        "type": ["object", "null"],
+        "options": {
+          "collapsed": true,
+          "disable_edit_json": true,
+          "disable_properties": false
+        },
+        "properties": {
+          "1": {
+            "type": "integer"
+          },
+          "2": {
+            "type": "integer"
+          },
+          "3": {
+            "type": "integer"
+          },
+          "4": {
+            "type": "integer"
+          },
+          "5": {
+            "type": "integer"
+          },
+          "6": {
+            "type": "integer"
+          },
+          "7": {
+            "type": "integer"
+          },
+          "8": {
+            "type": "integer"
+          },
+          "9": {
+            "type": "integer"
+          },
+          "10": {
+            "type": "integer"
+          }
+        }
+      }
+    }
+  }
+}

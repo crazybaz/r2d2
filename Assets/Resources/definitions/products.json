@@ -1,0 +1,280 @@
+[
+    {
+        "id": "SoftTier1",
+        "group": "Soft",
+        "kind": "Regular",
+        "tier": "com.ad.paladin.SoftTier1",
+        "active": true,
+        "reward": {
+            "Soft": 4200
+        },
+        "dummyPrice": "$0.99"
+    },
+    {
+        "id": "SoftTier2",
+        "group": "Soft",
+        "kind": "Popular",
+        "tier": "com.ad.paladin.SoftTier2",
+        "active": true,
+        "reward": {
+            "Soft": 13500
+        },
+        "dummyPrice": "$2.99"
+    },
+    {
+        "id": "SoftTier3",
+        "group": "Soft",
+        "kind": "Regular",
+        "tier": "com.ad.paladin.SoftTier3",
+        "active": true,
+        "reward": {
+            "Soft": 23500
+        },
+        "dummyPrice": "$4.99"
+    },
+    {
+        "id": "SoftTier4",
+        "group": "Soft",
+        "kind": "Sales",
+        "percent": "100%",
+        "tier": "com.ad.paladin.SoftTier4",
+        "active": true,
+        "reward": {
+            "Soft": 33500
+        },
+        "dummyPrice": "$6.99"
+    },
+    {
+        "id": "SoftTier5",
+        "group": "Soft",
+        "kind": "Regular",
+        "tier": "com.ad.paladin.SoftTier5",
+        "active": true,
+        "reward": {
+            "Soft": 60000
+        },
+        "dummyPrice": "$11.99"
+    },
+    {
+        "id": "SoftTier6",
+        "group": "Soft",
+        "kind": "Regular",
+        "tier": "com.ad.paladin.SoftTier6",
+        "active": true,
+        "reward": {
+            "Soft": 77000
+        },
+        "dummyPrice": "$14.99"
+    },
+    {
+        "id": "SoftTier7",
+        "group": "Soft",
+        "kind": "Regular",
+        "tier": "com.ad.paladin.SoftTier7",
+        "active": true,
+        "reward": {
+            "Soft": 134000
+        },
+        "dummyPrice": "$24.99"
+    },
+    {
+        "id": "SoftTier8",
+        "group": "Soft",
+        "kind": "Offer",
+        "percent": "144%",
+        "tier": "com.ad.paladin.SoftTier8",
+        "active": true,
+        "reward": {
+            "Hard": 440,
+            "Soft": 800
+        },
+        "dummyPrice": "$3.99",
+        "originalPrice": "$5.99"
+    },
+    {
+        "id": "HardTier1",
+        "group": "Hard",
+        "kind": "Regular",
+        "tier": "com.ad.paladin.HardTier1",
+        "active": true,
+        "reward": {
+            "Hard": 100
+        },
+        "dummyPrice": "$0.99"
+    },
+    {
+        "id": "HardTier2",
+        "group": "Hard",
+        "kind": "Popular",
+        "tier": "com.ad.paladin.HardTier2",
+        "active": true,
+        "reward": {
+            "Hard": 320
+        },
+        "dummyPrice": "$2.99"
+    },
+    {
+        "id": "HardTier3",
+        "group": "Hard",
+        "kind": "Regular",
+        "tier": "com.ad.paladin.HardTier3",
+        "active": true,
+        "reward": {
+            "Hard": 560
+        },
+        "dummyPrice": "$4.99"
+    },
+    {
+        "id": "HardTier4",
+        "group": "Hard",
+        "kind": "Sales",
+        "percent": "101%",
+        "tier": "com.ad.paladin.HardTier4",
+        "active": true,
+        "reward": {
+            "Hard": 800
+        },
+        "dummyPrice": "$6.99"
+    },
+    {
+        "id": "HardTier5",
+        "group": "Hard",
+        "kind": "Regular",
+        "tier": "com.ad.paladin.HardTier5",
+        "active": true,
+        "reward": {
+            "Hard": 1500
+        },
+        "dummyPrice": "$11.99"
+    },
+    {
+        "id": "HardTier6",
+        "group": "Hard",
+        "kind": "Regular",
+        "tier": "com.ad.paladin.HardTier6",
+        "active": true,
+        "reward": {
+            "Hard": 1900
+        },
+        "dummyPrice": "$14.99"
+    },
+    {
+        "id": "HardTier7",
+        "group": "Hard",
+        "kind": "Regular",
+        "tier": "com.ad.paladin.HardTier7",
+        "active": true,
+        "reward": {
+            "Hard": 3200
+        },
+        "dummyPrice": "$24.99"
+    },
+    {
+        "id": "HardTier8",
+        "group": "Hard",
+        "kind": "Offer",
+        "percent": "145%",
+        "tier": "com.ad.paladin.HardTier8",
+        "active": true,
+        "reward": {
+            "Hard": 440,
+            "Soft": 800
+        },
+        "dummyPrice": "$3.99",
+        "originalPrice": "$5.99"
+    },
+    {
+        "id": "ChestTier1",
+        "group": "Chest",
+        "kind": "Regular",
+        "tier": "com.ad.paladin.ChestTier1",
+        "active": true,
+        "reward": {
+            "Chest": 1
+        },
+        "hardPrice": {
+            "Hard": 100
+        }
+    },
+    {
+        "id": "ChestTier2",
+        "group": "Chest",
+        "kind": "Popular",
+        "tier": "com.ad.paladin.ChestTier2",
+        "active": true,
+        "reward": {
+            "Chest": 2
+        },
+        "dummyPrice": "$4.99"
+    },
+    {
+        "id": "ChestTier3",
+        "group": "Chest",
+        "kind": "Regular",
+        "tier": "com.ad.paladin.ChestTier3",
+        "active": true,
+        "reward": {
+            "Chest": 3
+        },
+        "dummyPrice": "$6.99"
+    },
+    {
+        "id": "ChestTier4",
+        "group": "Chest",
+        "kind": "Sales",
+        "percent": "102%",
+        "tier": "com.ad.paladin.ChestTier4",
+        "active": true,
+        "reward": {
+            "Chest": 4
+        },
+        "dummyPrice": "$9.99"
+    },
+    {
+        "id": "ChestTier5",
+        "group": "Chest",
+        "kind": "Regular",
+        "tier": "com.ad.paladin.ChestTier5",
+        "active": true,
+        "reward": {
+            "Chest": 5
+        },
+        "dummyPrice": "$11.99"
+    },
+    {
+        "id": "ChestTier6",
+        "group": "Chest",
+        "kind": "Regular",
+        "tier": "com.ad.paladin.ChestTier6",
+        "active": true,
+        "reward": {
+            "Chest": 6
+        },
+        "dummyPrice": "$14.99"
+    },
+    {
+        "id": "ChestTier7",
+        "group": "Chest",
+        "kind": "Regular",
+        "tier": "com.ad.paladin.ChestTier7",
+        "active": true,
+        "reward": {
+            "Chest": 7
+        },
+        "dummyPrice": "$24.99"
+    },
+    {
+        "id": "ChestTier8",
+        "group": "Chest",
+        "kind": "Offer",
+        "percent": "146%",
+        "tier": "com.ad.paladin.ChestTier8",
+        "active": true,
+        "reward": {
+            "Hard": 440,
+            "Soft": 800
+        },
+        "dummyPrice": "$3.99",
+        "originalPrice": "$5.99"
+    }
+]

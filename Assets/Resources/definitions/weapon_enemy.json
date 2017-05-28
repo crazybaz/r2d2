@@ -1,0 +1,2372 @@
+[
+    {
+        "id": "Machinegun",
+        "level": 1,
+        "multiplier": 1.1,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 2,
+        "shotCount": 2,
+        "reloadTime": 4
+    },
+    {
+        "id": "Machinegun",
+        "level": 2,
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.8,
+        "shotCount": 2,
+        "reloadTime": 3
+    },
+    {
+        "id": "Machinegun",
+        "level": 3,
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.5,
+        "shotCount": 3,
+        "reloadTime": 3
+    },
+    {
+        "id": "Machinegun",
+        "level": 4,
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.4,
+        "shotCount": 4,
+        "reloadTime": 2
+    },
+    {
+        "id": "Machinegun",
+        "level": 5,
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.2,
+        "shotCount": 5,
+        "reloadTime": 2
+    },
+    {
+        "id": "Laser",
+        "level": 1,
+        "multiplier": 1.1,
+        "shotConfig": [
+            {
+                "bullet": "Laser1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 2,
+        "shotCount": 2,
+        "reloadTime": 4
+    },
+    {
+        "id": "Laser",
+        "level": 2,
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "Laser1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 2,
+        "shotCount": 2,
+        "reloadTime": 3
+    },
+    {
+        "id": "Laser",
+        "level": 3,
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "Laser1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.5,
+        "shotCount": 3,
+        "reloadTime": 3
+    },
+    {
+        "id": "Laser",
+        "level": 4,
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "Laser2",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.4,
+        "shotCount": 4,
+        "reloadTime": 2
+    },
+    {
+        "id": "Laser",
+        "level": 5,
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "Laser2",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.2,
+        "shotCount": 5,
+        "reloadTime": 2
+    },
+    {
+        "id": "Cannon",
+        "level": 1,
+        "multiplier": 1.1,
+        "shotConfig": [
+            {
+                "bullet": "Shell1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 2,
+        "shotCount": 2,
+        "reloadTime": 4
+    },
+    {
+        "id": "Cannon",
+        "level": 2,
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "Shell1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 2,
+        "shotCount": 2,
+        "reloadTime": 3
+    },
+    {
+        "id": "Cannon",
+        "level": 3,
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "Shell2",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.5,
+        "shotCount": 3,
+        "reloadTime": 3
+    },
+    {
+        "id": "Cannon",
+        "level": 4,
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "Shell2",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.4,
+        "shotCount": 4,
+        "reloadTime": 2
+    },
+    {
+        "id": "Cannon",
+        "level": 5,
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "Shell3",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.2,
+        "shotCount": 5,
+        "reloadTime": 2
+    },
+    {
+        "id": "PulseCannon",
+        "level": 1,
+        "multiplier": 1.1,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 2.5,
+        "shotCount": 2,
+        "reloadTime": 5
+    },
+    {
+        "id": "PulseCannon",
+        "level": 2,
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 2,
+        "shotCount": 2,
+        "reloadTime": 2
+    },
+    {
+        "id": "PulseCannon",
+        "level": 3,
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.5,
+        "shotCount": 3,
+        "reloadTime": 3
+    },
+    {
+        "id": "PulseCannon",
+        "level": 4,
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.4,
+        "shotCount": 4,
+        "reloadTime": 2
+    },
+    {
+        "id": "PulseCannon",
+        "level": 5,
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.2,
+        "shotCount": 5,
+        "reloadTime": 2
+    },
+    {
+        "id": "ShockCannon",
+        "level": 1,
+        "multiplier": 1.1,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 2,
+        "shotCount": 2,
+        "reloadTime": 5
+    },
+    {
+        "id": "ShockCannon",
+        "level": 2,
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.75,
+        "shotCount": 2,
+        "reloadTime": 2
+    },
+    {
+        "id": "ShockCannon",
+        "level": 3,
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.5,
+        "shotCount": 3,
+        "reloadTime": 3
+    },
+    {
+        "id": "ShockCannon",
+        "level": 4,
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.45,
+        "shotCount": 4,
+        "reloadTime": 2
+    },
+    {
+        "id": "ShockCannon",
+        "level": 5,
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.35,
+        "shotCount": 5,
+        "reloadTime": 2
+    },
+    {
+        "id": "WaveCannon",
+        "level": 1,
+        "multiplier": 1.1,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 2,
+        "shotCount": 2,
+        "reloadTime": 5
+    },
+    {
+        "id": "WaveCannon",
+        "level": 2,
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 1.75,
+        "shotCount": 2,
+        "reloadTime": 2
+    },
+    {
+        "id": "WaveCannon",
+        "level": 3,
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 1.5,
+        "shotCount": 3,
+        "reloadTime": 3
+    },
+    {
+        "id": "WaveCannon",
+        "level": 4,
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 1.45,
+        "shotCount": 4,
+        "reloadTime": 2
+    },
+    {
+        "id": "WaveCannon",
+        "level": 5,
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 1.35,
+        "shotCount": 5,
+        "reloadTime": 2
+    },
+    {
+        "id": "PlasmaCannon",
+        "level": 1,
+        "multiplier": 1.1,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 2,
+        "shotCount": 2,
+        "reloadTime": 5
+    },
+    {
+        "id": "PlasmaCannon",
+        "level": 2,
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 1.75,
+        "shotCount": 2,
+        "reloadTime": 2
+    },
+    {
+        "id": "PlasmaCannon",
+        "level": 3,
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 1.5,
+        "shotCount": 3,
+        "reloadTime": 3
+    },
+    {
+        "id": "PlasmaCannon",
+        "level": 4,
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 1.45,
+        "shotCount": 4,
+        "reloadTime": 2
+    },
+    {
+        "id": "PlasmaCannon",
+        "level": 5,
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 1.35,
+        "shotCount": 5,
+        "reloadTime": 2
+    },
+    {
+        "id": "BoloCannon",
+        "level": 1,
+        "multiplier": 1.1,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 2,
+        "shotCount": 2,
+        "reloadTime": 5
+    },
+    {
+        "id": "BoloCannon",
+        "level": 2,
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 1.75,
+        "shotCount": 2,
+        "reloadTime": 2
+    },
+    {
+        "id": "BoloCannon",
+        "level": 3,
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 1.5,
+        "shotCount": 3,
+        "reloadTime": 3
+    },
+    {
+        "id": "BoloCannon",
+        "level": 4,
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 1.45,
+        "shotCount": 4,
+        "reloadTime": 2
+    },
+    {
+        "id": "BoloCannon",
+        "level": 5,
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 1.35,
+        "shotCount": 5,
+        "reloadTime": 2
+    },
+    {
+        "id": "HeavyPlasma",
+        "level": 1,
+        "multiplier": 1,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Prediction"
+            }
+        ],
+        "fireCooldown": 2,
+        "shotCount": 2,
+        "reloadTime": 5
+    },
+    {
+        "id": "HeavyPlasma",
+        "level": 2,
+        "multiplier": 1.25,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Prediction"
+            }
+        ],
+        "fireCooldown": 1.75,
+        "shotCount": 2,
+        "reloadTime": 2
+    },
+    {
+        "id": "HeavyPlasma",
+        "level": 3,
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Prediction"
+            }
+        ],
+        "fireCooldown": 1.5,
+        "shotCount": 3,
+        "reloadTime": 3
+    },
+    {
+        "id": "HeavyPlasma",
+        "level": 4,
+        "multiplier": 1.75,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Prediction"
+            }
+        ],
+        "fireCooldown": 1.45,
+        "shotCount": 4,
+        "reloadTime": 2
+    },
+    {
+        "id": "HeavyPlasma",
+        "level": 5,
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Prediction"
+            }
+        ],
+        "fireCooldown": 1.35,
+        "shotCount": 5,
+        "reloadTime": 2
+    },
+    {
+        "id": "Electra",
+        "level": 1,
+        "multiplier": 1,
+        "shotConfig": [
+            {
+                "bullet": "Electra1",
+                "orientation": 0,
+                "movingType": "Prediction"
+            }
+        ],
+        "fireCooldown": 2,
+        "shotCount": 2,
+        "reloadTime": 5
+    },
+    {
+        "id": "Electra",
+        "level": 2,
+        "multiplier": 1.25,
+        "shotConfig": [
+            {
+                "bullet": "Electra1",
+                "orientation": 0,
+                "movingType": "Prediction"
+            }
+        ],
+        "fireCooldown": 1.75,
+        "shotCount": 2,
+        "reloadTime": 2
+    },
+    {
+        "id": "Electra",
+        "level": 3,
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "Electra1",
+                "orientation": 0,
+                "movingType": "Prediction"
+            }
+        ],
+        "fireCooldown": 1.5,
+        "shotCount": 3,
+        "reloadTime": 3
+    },
+    {
+        "id": "Electra",
+        "level": 4,
+        "multiplier": 1.75,
+        "shotConfig": [
+            {
+                "bullet": "Electra1",
+                "orientation": 0,
+                "movingType": "Prediction"
+            }
+        ],
+        "fireCooldown": 1.45,
+        "shotCount": 4,
+        "reloadTime": 2
+    },
+    {
+        "id": "Electra",
+        "level": 5,
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "Electra1",
+                "orientation": 0,
+                "movingType": "Prediction"
+            }
+        ],
+        "fireCooldown": 1.35,
+        "shotCount": 5,
+        "reloadTime": 2
+    },
+    {
+        "id": "HeavyPlasma",
+        "level": 1,
+        "multiplier": 1,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 2,
+        "shotCount": 2,
+        "reloadTime": 5
+    },
+    {
+        "id": "HeavyPlasma",
+        "level": 2,
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.8,
+        "shotCount": 2,
+        "reloadTime": 5
+    },
+    {
+        "id": "HeavyPlasma",
+        "level": 3,
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.6,
+        "shotCount": 3,
+        "reloadTime": 4
+    },
+    {
+        "id": "HeavyPlasma",
+        "level": 4,
+        "multiplier": 1.6,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBalo1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.4,
+        "shotCount": 3,
+        "reloadTime": 4
+    },
+    {
+        "id": "HeavyPlasma",
+        "level": 5,
+        "multiplier": 1.8,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBalo1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.2,
+        "shotCount": 4,
+        "reloadTime": 3
+    },
+    {
+        "id": "Electra",
+        "level": 1,
+        "multiplier": 1,
+        "shotConfig": [
+            {
+                "bullet": "Electra1",
+                "orientation": 0,
+                "movingType": "Prediction"
+            }
+        ],
+        "fireCooldown": 1,
+        "shotCount": 0,
+        "reloadTime": 0
+    },
+    {
+        "id": "Electra",
+        "level": 2,
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "Electra1",
+                "orientation": 0,
+                "movingType": "Prediction"
+            }
+        ],
+        "fireCooldown": 1,
+        "shotCount": 0,
+        "reloadTime": 0
+    },
+    {
+        "id": "Electra",
+        "level": 3,
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "Electra1",
+                "orientation": 0,
+                "movingType": "Prediction"
+            }
+        ],
+        "fireCooldown": 1,
+        "shotCount": 0,
+        "reloadTime": 0
+    },
+    {
+        "id": "Electra",
+        "level": 4,
+        "multiplier": 1.6,
+        "shotConfig": [
+            {
+                "bullet": "Electra1",
+                "orientation": 0,
+                "movingType": "Prediction"
+            }
+        ],
+        "fireCooldown": 1,
+        "shotCount": 0,
+        "reloadTime": 0
+    },
+    {
+        "id": "Electra",
+        "level": 5,
+        "multiplier": 1.8,
+        "shotConfig": [
+            {
+                "bullet": "Electra1",
+                "orientation": 0,
+                "movingType": "Prediction"
+            }
+        ],
+        "fireCooldown": 1,
+        "shotCount": 0,
+        "reloadTime": 0
+    },
+    {
+        "id": "Missile",
+        "level": 1,
+        "multiplier": 1.1,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 3,
+        "shotCount": 5,
+        "reloadTime": 5
+    },
+    {
+        "id": "Missile",
+        "level": 2,
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 2.9,
+        "shotCount": 5,
+        "reloadTime": 5
+    },
+    {
+        "id": "Missile",
+        "level": 3,
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 2.8,
+        "shotCount": 5,
+        "reloadTime": 5
+    },
+    {
+        "id": "Missile",
+        "level": 4,
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 2.7,
+        "shotCount": 5,
+        "reloadTime": 5
+    },
+    {
+        "id": "Missile",
+        "level": 5,
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 2.6,
+        "shotCount": 5,
+        "reloadTime": 5
+    },
+    {
+        "id": "Missile",
+        "level": 6,
+        "multiplier": 1.6,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 2.5,
+        "shotCount": 6,
+        "reloadTime": 5
+    },
+    {
+        "id": "Missile",
+        "level": 7,
+        "multiplier": 1.7,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 2.39999999999999,
+        "shotCount": 6,
+        "reloadTime": 5
+    },
+    {
+        "id": "Missile",
+        "level": 8,
+        "multiplier": 1.8,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 2.29999999999999,
+        "shotCount": 6,
+        "reloadTime": 5
+    },
+    {
+        "id": "Missile",
+        "level": 9,
+        "multiplier": 1.9,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 2.19999999999999,
+        "shotCount": 6,
+        "reloadTime": 5
+    },
+    {
+        "id": "Missile",
+        "level": 10,
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 2.09999999999999,
+        "shotCount": 6,
+        "reloadTime": 5
+    },
+    {
+        "id": "Missile",
+        "level": 11,
+        "multiplier": 2.1,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.99999999999999,
+        "shotCount": 7,
+        "reloadTime": 5
+    },
+    {
+        "id": "Missile",
+        "level": 12,
+        "multiplier": 2.2,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.89999999999999,
+        "shotCount": 7,
+        "reloadTime": 5
+    },
+    {
+        "id": "Missile",
+        "level": 13,
+        "multiplier": 2.3,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.79999999999999,
+        "shotCount": 7,
+        "reloadTime": 5
+    },
+    {
+        "id": "Missile",
+        "level": 14,
+        "multiplier": 2.4,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.69999999999999,
+        "shotCount": 7,
+        "reloadTime": 5
+    },
+    {
+        "id": "Missile",
+        "level": 15,
+        "multiplier": 2.5,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.59999999999999,
+        "shotCount": 7,
+        "reloadTime": 5
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 1,
+        "multiplier": 1.1,
+        "shotConfig": [
+            {
+                "bullet": "Grenade1",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "fireCooldown": 3,
+        "shotCount": 5,
+        "reloadTime": 5
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 2,
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "Grenade1",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "fireCooldown": 2.9,
+        "shotCount": 5,
+        "reloadTime": 5
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 3,
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "Grenade1",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "fireCooldown": 2.8,
+        "shotCount": 5,
+        "reloadTime": 5
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 4,
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "Grenade1",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "fireCooldown": 2.7,
+        "shotCount": 5,
+        "reloadTime": 5
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 5,
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "Grenade1",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "fireCooldown": 2.6,
+        "shotCount": 5,
+        "reloadTime": 5
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 6,
+        "multiplier": 1.6,
+        "shotConfig": [
+            {
+                "bullet": "Grenade1",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "fireCooldown": 2.5,
+        "shotCount": 6,
+        "reloadTime": 5
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 7,
+        "multiplier": 1.7,
+        "shotConfig": [
+            {
+                "bullet": "Grenade1",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "fireCooldown": 2.39999999999999,
+        "shotCount": 6,
+        "reloadTime": 5
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 8,
+        "multiplier": 1.8,
+        "shotConfig": [
+            {
+                "bullet": "Grenade1",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "fireCooldown": 2.29999999999999,
+        "shotCount": 6,
+        "reloadTime": 5
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 9,
+        "multiplier": 1.9,
+        "shotConfig": [
+            {
+                "bullet": "Grenade1",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "fireCooldown": 2.19999999999999,
+        "shotCount": 6,
+        "reloadTime": 5
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 10,
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "Grenade2",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "fireCooldown": 2.09999999999999,
+        "shotCount": 6,
+        "reloadTime": 5
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 11,
+        "multiplier": 2.1,
+        "shotConfig": [
+            {
+                "bullet": "Grenade2",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "fireCooldown": 1.99999999999999,
+        "shotCount": 7,
+        "reloadTime": 5
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 12,
+        "multiplier": 2.2,
+        "shotConfig": [
+            {
+                "bullet": "Grenade2",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "fireCooldown": 1.89999999999999,
+        "shotCount": 7,
+        "reloadTime": 5
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 13,
+        "multiplier": 2.3,
+        "shotConfig": [
+            {
+                "bullet": "Grenade2",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "fireCooldown": 1.79999999999999,
+        "shotCount": 7,
+        "reloadTime": 5
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 14,
+        "multiplier": 2.4,
+        "shotConfig": [
+            {
+                "bullet": "Grenade2",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "fireCooldown": 1.69999999999999,
+        "shotCount": 7,
+        "reloadTime": 5
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 15,
+        "multiplier": 2.5,
+        "shotConfig": [
+            {
+                "bullet": "Grenade2",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "fireCooldown": 1.59999999999999,
+        "shotCount": 7,
+        "reloadTime": 5
+    },
+    {
+        "id": "RocketLauncher",
+        "level": 1,
+        "multiplier": 1,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 20,
+                "aimingAngle": 45,
+                "detectingRadius": 50
+            }
+        ],
+        "fireCooldown": 2,
+        "shotCount": 2,
+        "reloadTime": 3
+    },
+    {
+        "id": "RocketLauncher",
+        "level": 2,
+        "multiplier": 1.25,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 25,
+                "aimingAngle": 55,
+                "detectingRadius": 60
+            }
+        ],
+        "fireCooldown": 1.75,
+        "shotCount": 2,
+        "reloadTime": 3
+    },
+    {
+        "id": "RocketLauncher",
+        "level": 3,
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 30,
+                "aimingAngle": 65,
+                "detectingRadius": 70
+            }
+        ],
+        "fireCooldown": 1.5,
+        "shotCount": 3,
+        "reloadTime": 3
+    },
+    {
+        "id": "RocketLauncher",
+        "level": 4,
+        "multiplier": 1.75,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 35,
+                "aimingAngle": 75,
+                "detectingRadius": 80
+            }
+        ],
+        "fireCooldown": 1.25,
+        "shotCount": 4,
+        "reloadTime": 3
+    },
+    {
+        "id": "RocketLauncher",
+        "level": 5,
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 45,
+                "aimingAngle": 85,
+                "detectingRadius": 90
+            }
+        ],
+        "fireCooldown": 1,
+        "shotCount": 5,
+        "reloadTime": 3
+    },
+    {
+        "id": "Miner",
+        "level": 1,
+        "multiplier": 1,
+        "shotConfig": [
+            {
+                "bullet": "Mine1",
+                "orientation": 0,
+                "movingType": "None"
+            }
+        ],
+        "fireCooldown": 2,
+        "shotCount": 3,
+        "reloadTime": 2
+    },
+    {
+        "id": "Miner",
+        "level": 2,
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "Mine1",
+                "orientation": 0,
+                "movingType": "None"
+            }
+        ],
+        "fireCooldown": 1.9,
+        "shotCount": 3,
+        "reloadTime": 2
+    },
+    {
+        "id": "Miner",
+        "level": 3,
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "Mine1",
+                "orientation": 0,
+                "movingType": "None"
+            }
+        ],
+        "fireCooldown": 1.8,
+        "shotCount": 3,
+        "reloadTime": 2
+    },
+    {
+        "id": "Miner",
+        "level": 4,
+        "multiplier": 2.5,
+        "shotConfig": [
+            {
+                "bullet": "Mine1",
+                "orientation": 0,
+                "movingType": "None"
+            }
+        ],
+        "fireCooldown": 1.7,
+        "shotCount": 4,
+        "reloadTime": 2
+    },
+    {
+        "id": "Miner",
+        "level": 5,
+        "multiplier": 3,
+        "shotConfig": [
+            {
+                "bullet": "Mine2",
+                "orientation": 0,
+                "movingType": "None"
+            }
+        ],
+        "fireCooldown": 1.6,
+        "shotCount": 4,
+        "reloadTime": 2
+    },
+    {
+        "id": "Miner",
+        "level": 6,
+        "multiplier": 3.5,
+        "shotConfig": [
+            {
+                "bullet": "Mine2",
+                "orientation": 0,
+                "movingType": "None"
+            }
+        ],
+        "fireCooldown": 1.5,
+        "shotCount": 4,
+        "reloadTime": 2
+    },
+    {
+        "id": "Miner",
+        "level": 7,
+        "multiplier": 4,
+        "shotConfig": [
+            {
+                "bullet": "Mine2",
+                "orientation": 0,
+                "movingType": "None"
+            }
+        ],
+        "fireCooldown": 1.4,
+        "shotCount": 5,
+        "reloadTime": 2
+    },
+    {
+        "id": "Miner",
+        "level": 8,
+        "multiplier": 4.5,
+        "shotConfig": [
+            {
+                "bullet": "Mine2",
+                "orientation": 0,
+                "movingType": "None"
+            }
+        ],
+        "fireCooldown": 1.3,
+        "shotCount": 5,
+        "reloadTime": 2
+    },
+    {
+        "id": "Miner",
+        "level": 9,
+        "multiplier": 5,
+        "shotConfig": [
+            {
+                "bullet": "Mine3",
+                "orientation": 0,
+                "movingType": "None"
+            }
+        ],
+        "fireCooldown": 1.2,
+        "shotCount": 5,
+        "reloadTime": 2
+    },
+    {
+        "id": "Miner",
+        "level": 10,
+        "multiplier": 5.5,
+        "shotConfig": [
+            {
+                "bullet": "Mine3",
+                "orientation": 0,
+                "movingType": "None"
+            }
+        ],
+        "fireCooldown": 1,
+        "shotCount": 5,
+        "reloadTime": 2
+    },
+    {
+        "id": "BossMachinegun",
+        "level": 1,
+        "multiplier": 1.1,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.5,
+        "shotCount": 10,
+        "reloadTime": 4
+    },
+    {
+        "id": "BossMachinegun",
+        "level": 2,
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.5,
+        "shotCount": 12,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossMachinegun",
+        "level": 3,
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.4,
+        "shotCount": 14,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossMachinegun",
+        "level": 4,
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.4,
+        "shotCount": 16,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossMachinegun",
+        "level": 5,
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.4,
+        "shotCount": 18,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossMachinegun",
+        "level": 6,
+        "multiplier": 1.6,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.3,
+        "shotCount": 20,
+        "reloadTime": 2
+    },
+    {
+        "id": "BossMachinegun",
+        "level": 7,
+        "multiplier": 1.7,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.3,
+        "shotCount": 22,
+        "reloadTime": 2
+    },
+    {
+        "id": "BossMachinegun",
+        "level": 8,
+        "multiplier": 1.8,
+        "shotConfig": [
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.3,
+        "shotCount": 24,
+        "reloadTime": 2
+    },
+    {
+        "id": "BossMachinegun",
+        "level": 9,
+        "multiplier": 1.9,
+        "shotConfig": [
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.2,
+        "shotCount": 26,
+        "reloadTime": 1
+    },
+    {
+        "id": "BossMachinegun",
+        "level": 10,
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.2,
+        "shotCount": 28,
+        "reloadTime": 1
+    },
+    {
+        "id": "BossLaser",
+        "level": 1,
+        "multiplier": 1.1,
+        "shotConfig": [
+            {
+                "bullet": "Laser1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 1,
+        "shotCount": 2,
+        "reloadTime": 5
+    },
+    {
+        "id": "BossLaser",
+        "level": 2,
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "Laser1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.95,
+        "shotCount": 2,
+        "reloadTime": 5
+    },
+    {
+        "id": "BossLaser",
+        "level": 3,
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "Laser1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.9,
+        "shotCount": 2,
+        "reloadTime": 5
+    },
+    {
+        "id": "BossLaser",
+        "level": 4,
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "Laser1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.85,
+        "shotCount": 3,
+        "reloadTime": 4
+    },
+    {
+        "id": "BossLaser",
+        "level": 5,
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "Laser1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.8,
+        "shotCount": 3,
+        "reloadTime": 4
+    },
+    {
+        "id": "BossLaser",
+        "level": 6,
+        "multiplier": 1.6,
+        "shotConfig": [
+            {
+                "bullet": "Laser2",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 0.75,
+        "shotCount": 4,
+        "reloadTime": 4
+    },
+    {
+        "id": "BossLaser",
+        "level": 7,
+        "multiplier": 1.7,
+        "shotConfig": [
+            {
+                "bullet": "Laser2",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 0.7,
+        "shotCount": 4,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossLaser",
+        "level": 8,
+        "multiplier": 1.8,
+        "shotConfig": [
+            {
+                "bullet": "Laser2",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 0.65,
+        "shotCount": 4,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossLaser",
+        "level": 9,
+        "multiplier": 1.9,
+        "shotConfig": [
+            {
+                "bullet": "Laser2",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 0.6,
+        "shotCount": 5,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossLaser",
+        "level": 10,
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "Laser2",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 0.55,
+        "shotCount": 5,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossCannon",
+        "level": 1,
+        "multiplier": 1.1,
+        "shotConfig": [
+            {
+                "bullet": "Shell1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.8,
+        "shotCount": 6,
+        "reloadTime": 6
+    },
+    {
+        "id": "BossCannon",
+        "level": 2,
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "Shell1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.8,
+        "shotCount": 8,
+        "reloadTime": 6
+    },
+    {
+        "id": "BossCannon",
+        "level": 3,
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "Shell1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.7,
+        "shotCount": 10,
+        "reloadTime": 5
+    },
+    {
+        "id": "BossCannon",
+        "level": 4,
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "Shell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.7,
+        "shotCount": 11,
+        "reloadTime": 5
+    },
+    {
+        "id": "BossCannon",
+        "level": 5,
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "Shell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.7,
+        "shotCount": 12,
+        "reloadTime": 5
+    },
+    {
+        "id": "BossCannon",
+        "level": 6,
+        "multiplier": 1.6,
+        "shotConfig": [
+            {
+                "bullet": "Shell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.6,
+        "shotCount": 13,
+        "reloadTime": 4
+    },
+    {
+        "id": "BossCannon",
+        "level": 7,
+        "multiplier": 1.7,
+        "shotConfig": [
+            {
+                "bullet": "Shell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 0.6,
+        "shotCount": 14,
+        "reloadTime": 4
+    },
+    {
+        "id": "BossCannon",
+        "level": 8,
+        "multiplier": 1.8,
+        "shotConfig": [
+            {
+                "bullet": "Shell3",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 0.6,
+        "shotCount": 15,
+        "reloadTime": 4
+    },
+    {
+        "id": "BossCannon",
+        "level": 9,
+        "multiplier": 1.9,
+        "shotConfig": [
+            {
+                "bullet": "Shell3",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 0.5,
+        "shotCount": 15,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossCannon",
+        "level": 10,
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "Shell3",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 0.5,
+        "shotCount": 15,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossPulseCannon",
+        "level": 1,
+        "multiplier": 1.1,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 2.5,
+        "shotCount": 2,
+        "reloadTime": 5
+    },
+    {
+        "id": "BossPulseCannon",
+        "level": 2,
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 2.25,
+        "shotCount": 2,
+        "reloadTime": 5
+    },
+    {
+        "id": "BossPulseCannon",
+        "level": 3,
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 2.25,
+        "shotCount": 2,
+        "reloadTime": 4
+    },
+    {
+        "id": "BossPulseCannon",
+        "level": 4,
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 2,
+        "shotCount": 3,
+        "reloadTime": 4
+    },
+    {
+        "id": "BossPulseCannon",
+        "level": 5,
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "fireCooldown": 2,
+        "shotCount": 3,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossPulseCannon",
+        "level": 6,
+        "multiplier": 1.6,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.75,
+        "shotCount": 3,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossPulseCannon",
+        "level": 7,
+        "multiplier": 1.7,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.75,
+        "shotCount": 4,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossPulseCannon",
+        "level": 8,
+        "multiplier": 1.8,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.5,
+        "shotCount": 4,
+        "reloadTime": 2
+    },
+    {
+        "id": "BossPulseCannon",
+        "level": 9,
+        "multiplier": 1.9,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.25,
+        "shotCount": 5,
+        "reloadTime": 2
+    },
+    {
+        "id": "BossPulseCannon",
+        "level": 10,
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "PlayerTarget"
+            }
+        ],
+        "fireCooldown": 1.25,
+        "shotCount": 5,
+        "reloadTime": 2
+    },
+    {
+        "id": "BossRocketLauncher",
+        "level": 1,
+        "multiplier": 1,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 20,
+                "aimingAngle": 45,
+                "detectingRadius": 50
+            }
+        ],
+        "fireCooldown": 2.5,
+        "shotCount": 2,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossRocketLauncher",
+        "level": 2,
+        "multiplier": 1.25,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 20,
+                "aimingAngle": 45,
+                "detectingRadius": 50
+            }
+        ],
+        "fireCooldown": 2.25,
+        "shotCount": 2,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossRocketLauncher",
+        "level": 3,
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 25,
+                "aimingAngle": 55,
+                "detectingRadius": 60
+            }
+        ],
+        "fireCooldown": 2.25,
+        "shotCount": 3,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossRocketLauncher",
+        "level": 4,
+        "multiplier": 1.75,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 25,
+                "aimingAngle": 55,
+                "detectingRadius": 60
+            }
+        ],
+        "fireCooldown": 2,
+        "shotCount": 3,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossRocketLauncher",
+        "level": 5,
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 30,
+                "aimingAngle": 65,
+                "detectingRadius": 70
+            }
+        ],
+        "fireCooldown": 2,
+        "shotCount": 4,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossRocketLauncher",
+        "level": 6,
+        "multiplier": 2.25,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 30,
+                "aimingAngle": 65,
+                "detectingRadius": 70
+            }
+        ],
+        "fireCooldown": 1.75,
+        "shotCount": 4,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossRocketLauncher",
+        "level": 7,
+        "multiplier": 2.5,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 35,
+                "aimingAngle": 75,
+                "detectingRadius": 80
+            }
+        ],
+        "fireCooldown": 1.75,
+        "shotCount": 5,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossRocketLauncher",
+        "level": 8,
+        "multiplier": 2.75,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 35,
+                "aimingAngle": 75,
+                "detectingRadius": 80
+            }
+        ],
+        "fireCooldown": 1.5,
+        "shotCount": 5,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossRocketLauncher",
+        "level": 9,
+        "multiplier": 3,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 45,
+                "aimingAngle": 85,
+                "detectingRadius": 90
+            }
+        ],
+        "fireCooldown": 1.25,
+        "shotCount": 6,
+        "reloadTime": 3
+    },
+    {
+        "id": "BossRocketLauncher",
+        "level": 10,
+        "multiplier": 3.5,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 45,
+                "aimingAngle": 85,
+                "detectingRadius": 90
+            }
+        ],
+        "fireCooldown": 1.25,
+        "shotCount": 6,
+        "reloadTime": 3
+    }
+]

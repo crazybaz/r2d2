@@ -1,0 +1,69 @@
+[
+    {
+        "id": "Ranger",
+        "weapons": [
+            "Machinegun",
+            "Laser"
+        ],
+        "abilities": [
+            "Nanobots",
+            "ShockWaves",
+            "Artillery",
+            "HiScores",
+            "DamageBonus",
+            "DropRate",
+            "DroneX",
+            "DroneY"
+        ]
+    },
+    {
+        "id": "Assault",
+        "weapons": [
+            "Cannon",
+            "PulseCannon",
+            "ShockCannon",
+            "WaveCannon"
+        ],
+        "abilities": [
+            "ClusterGrenades",
+            "FireRate",
+            "ArmorBonus"
+        ]
+    },
+    {
+        "id": "Peacemaker",
+        "weapons": [
+            "Missile",
+            "GrenadeLauncher",
+            "MissileSystem",
+            "RocketLauncher"
+        ],
+        "abilities": [
+            "ShockShells",
+            "VacuumBomb",
+            "Bankir",
+            "HealthBonus",
+            "Vampirism"
+        ]
+    },
+    {
+        "id": "Crusader",
+        "weapons": [
+            "PlasmaCannon",
+            "BoloCannon"
+        ],
+        "abilities": [
+            "Invulnerability",
+            "Rocket",
+            "Magnet"
+        ]
+    },
+    {
+        "id": "Juggernaut",
+        "abilities": [
+            "Phantom",
+            "SpeedBonus",
+            "Torn"
+        ]
+    }
+]

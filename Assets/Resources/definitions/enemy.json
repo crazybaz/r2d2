@@ -1,0 +1,3487 @@
+[
+    {
+        "kind": "easy",
+        "type": "Trooper1",
+        "group": "Trooper",
+        "level": 1,
+        "maxSpeed": 30,
+        "maxHealth": 90,
+        "collisionDamage": 15,
+        "rewardPoints": 30,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "easy",
+        "type": "Trooper1",
+        "group": "Trooper",
+        "level": 2,
+        "maxSpeed": 33,
+        "maxHealth": 60,
+        "collisionDamage": 17,
+        "rewardPoints": 40,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "easy",
+        "type": "Trooper1",
+        "group": "Trooper",
+        "level": 3,
+        "maxSpeed": 36,
+        "maxHealth": 70,
+        "collisionDamage": 19,
+        "rewardPoints": 50,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "easy",
+        "type": "Trooper1",
+        "group": "Trooper",
+        "level": 4,
+        "maxSpeed": 39,
+        "maxHealth": 80,
+        "collisionDamage": 21,
+        "rewardPoints": 60,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "easy",
+        "type": "Trooper1",
+        "group": "Trooper",
+        "level": 5,
+        "maxSpeed": 42,
+        "maxHealth": 100,
+        "collisionDamage": 23,
+        "rewardPoints": 70,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "easy",
+        "type": "Trooper2",
+        "group": "Trooper",
+        "level": 1,
+        "maxSpeed": 27,
+        "maxHealth": 130,
+        "collisionDamage": 17,
+        "rewardPoints": 50,
+        "weaponInfo": [
+            {
+                "type": "ShockCannon",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "easy",
+        "type": "Trooper2",
+        "group": "Trooper",
+        "level": 2,
+        "maxSpeed": 30,
+        "maxHealth": 140,
+        "collisionDamage": 22,
+        "rewardPoints": 60,
+        "weaponInfo": [
+            {
+                "type": "ShockCannon",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "easy",
+        "type": "Trooper2",
+        "group": "Trooper",
+        "level": 3,
+        "maxSpeed": 33,
+        "maxHealth": 150,
+        "collisionDamage": 27,
+        "rewardPoints": 70,
+        "weaponInfo": [
+            {
+                "type": "ShockCannon",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "easy",
+        "type": "Trooper2",
+        "group": "Trooper",
+        "level": 4,
+        "maxSpeed": 36,
+        "maxHealth": 160,
+        "collisionDamage": 32,
+        "rewardPoints": 80,
+        "weaponInfo": [
+            {
+                "type": "ShockCannon",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "easy",
+        "type": "Trooper2",
+        "group": "Trooper",
+        "level": 5,
+        "maxSpeed": 39,
+        "maxHealth": 170,
+        "collisionDamage": 37,
+        "rewardPoints": 90,
+        "weaponInfo": [
+            {
+                "type": "ShockCannon",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "easy",
+        "type": "Trooper3",
+        "group": "Trooper",
+        "level": 1,
+        "maxSpeed": 25,
+        "maxHealth": 150,
+        "collisionDamage": 20,
+        "rewardPoints": 70,
+        "weaponInfo": [
+            {
+                "type": "Missile",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "easy",
+        "type": "Trooper3",
+        "group": "Trooper",
+        "level": 2,
+        "maxSpeed": 30,
+        "maxHealth": 165,
+        "collisionDamage": 27,
+        "rewardPoints": 80,
+        "weaponInfo": [
+            {
+                "type": "Missile",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "easy",
+        "type": "Trooper3",
+        "group": "Trooper",
+        "level": 3,
+        "maxSpeed": 35,
+        "maxHealth": 180,
+        "collisionDamage": 34,
+        "rewardPoints": 90,
+        "weaponInfo": [
+            {
+                "type": "Missile",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "easy",
+        "type": "Trooper3",
+        "group": "Trooper",
+        "level": 4,
+        "maxSpeed": 40,
+        "maxHealth": 195,
+        "collisionDamage": 41,
+        "rewardPoints": 100,
+        "weaponInfo": [
+            {
+                "type": "Missile",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "easy",
+        "type": "Trooper3",
+        "group": "Trooper",
+        "level": 5,
+        "maxSpeed": 45,
+        "maxHealth": 210,
+        "collisionDamage": 48,
+        "rewardPoints": 110,
+        "weaponInfo": [
+            {
+                "type": "Missile",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "easy",
+        "type": "Trooper4",
+        "group": "Trooper",
+        "level": 1,
+        "maxSpeed": 75,
+        "maxHealth": 120,
+        "collisionDamage": 25,
+        "rewardPoints": 90,
+        "weaponInfo": [
+            {
+                "type": "Electra",
+                "level": 1,
+                "attackRadius": 120
+            }
+        ]
+    },
+    {
+        "kind": "easy",
+        "type": "Trooper4",
+        "group": "Trooper",
+        "level": 2,
+        "maxSpeed": 82,
+        "maxHealth": 140,
+        "collisionDamage": 35,
+        "rewardPoints": 100,
+        "weaponInfo": [
+            {
+                "type": "Electra",
+                "level": 2,
+                "attackRadius": 130
+            }
+        ]
+    },
+    {
+        "kind": "easy",
+        "type": "Trooper4",
+        "group": "Trooper",
+        "level": 3,
+        "maxSpeed": 89,
+        "maxHealth": 160,
+        "collisionDamage": 45,
+        "rewardPoints": 110,
+        "weaponInfo": [
+            {
+                "type": "Electra",
+                "level": 3,
+                "attackRadius": 140
+            }
+        ]
+    },
+    {
+        "kind": "easy",
+        "type": "Trooper4",
+        "group": "Trooper",
+        "level": 4,
+        "maxSpeed": 96,
+        "maxHealth": 180,
+        "collisionDamage": 55,
+        "rewardPoints": 120,
+        "weaponInfo": [
+            {
+                "type": "Electra",
+                "level": 4,
+                "attackRadius": 150
+            }
+        ]
+    },
+    {
+        "kind": "easy",
+        "type": "Trooper4",
+        "group": "Trooper",
+        "level": 5,
+        "maxSpeed": 103,
+        "maxHealth": 200,
+        "collisionDamage": 65,
+        "rewardPoints": 130,
+        "weaponInfo": [
+            {
+                "type": "Electra",
+                "level": 5,
+                "attackRadius": 160
+            }
+        ]
+    },
+    {
+        "kind": "easy",
+        "type": "Mite1",
+        "group": "Mite",
+        "level": 1,
+        "maxSpeed": 70,
+        "maxHealth": 300,
+        "collisionDamage": 20,
+        "rewardPoints": 70,
+        "explosionEffect": "fx_spider_explosion"
+    },
+    {
+        "kind": "easy",
+        "type": "Mite1",
+        "group": "Mite",
+        "level": 2,
+        "maxSpeed": 75,
+        "maxHealth": 310,
+        "collisionDamage": 23,
+        "rewardPoints": 80,
+        "explosionEffect": "fx_spider_explosion"
+    },
+    {
+        "kind": "easy",
+        "type": "Mite1",
+        "group": "Mite",
+        "level": 3,
+        "maxSpeed": 80,
+        "maxHealth": 320,
+        "collisionDamage": 26,
+        "rewardPoints": 90,
+        "explosionEffect": "fx_spider_explosion"
+    },
+    {
+        "kind": "easy",
+        "type": "Mite1",
+        "group": "Mite",
+        "level": 4,
+        "maxSpeed": 85,
+        "maxHealth": 330,
+        "collisionDamage": 29,
+        "rewardPoints": 100,
+        "explosionEffect": "fx_spider_explosion"
+    },
+    {
+        "kind": "easy",
+        "type": "Mite1",
+        "group": "Mite",
+        "level": 5,
+        "maxSpeed": 90,
+        "maxHealth": 340,
+        "collisionDamage": 32,
+        "rewardPoints": 110,
+        "explosionEffect": "fx_spider_explosion"
+    },
+    {
+        "kind": "easy",
+        "type": "Mite2",
+        "group": "Mite",
+        "level": 1,
+        "maxSpeed": 75,
+        "maxHealth": 400,
+        "collisionDamage": 31,
+        "rewardPoints": 90,
+        "weaponInfo": [
+            {
+                "type": "Miner",
+                "level": 1
+            }
+        ],
+        "explosionEffect": "fx_spider_explosion"
+    },
+    {
+        "kind": "easy",
+        "type": "Mite2",
+        "group": "Mite",
+        "level": 2,
+        "maxSpeed": 80,
+        "maxHealth": 415,
+        "collisionDamage": 34,
+        "rewardPoints": 105,
+        "weaponInfo": [
+            {
+                "type": "Miner",
+                "level": 2
+            }
+        ],
+        "explosionEffect": "fx_spider_explosion"
+    },
+    {
+        "kind": "easy",
+        "type": "Mite2",
+        "group": "Mite",
+        "level": 3,
+        "maxSpeed": 85,
+        "maxHealth": 430,
+        "collisionDamage": 37,
+        "rewardPoints": 120,
+        "weaponInfo": [
+            {
+                "type": "Miner",
+                "level": 3
+            }
+        ],
+        "explosionEffect": "fx_spider_explosion"
+    },
+    {
+        "kind": "easy",
+        "type": "Mite2",
+        "group": "Mite",
+        "level": 4,
+        "maxSpeed": 90,
+        "maxHealth": 445,
+        "collisionDamage": 36,
+        "rewardPoints": 135,
+        "weaponInfo": [
+            {
+                "type": "Miner",
+                "level": 4
+            }
+        ],
+        "explosionEffect": "fx_spider_explosion"
+    },
+    {
+        "kind": "easy",
+        "type": "Mite2",
+        "group": "Mite",
+        "level": 5,
+        "maxSpeed": 95,
+        "maxHealth": 460,
+        "collisionDamage": 39,
+        "rewardPoints": 150,
+        "weaponInfo": [
+            {
+                "type": "Miner",
+                "level": 5
+            }
+        ],
+        "explosionEffect": "fx_spider_explosion"
+    },
+    {
+        "kind": "easy",
+        "type": "Mite3",
+        "group": "Mite",
+        "level": 1,
+        "maxSpeed": 80,
+        "maxHealth": 415,
+        "collisionDamage": 37,
+        "rewardPoints": 120,
+        "explosionEffect": "fx_spider_explosion"
+    },
+    {
+        "kind": "easy",
+        "type": "Mite3",
+        "group": "Mite",
+        "level": 2,
+        "maxSpeed": 90,
+        "maxHealth": 435,
+        "collisionDamage": 47,
+        "rewardPoints": 140,
+        "explosionEffect": "fx_spider_explosion"
+    },
+    {
+        "kind": "easy",
+        "type": "Mite3",
+        "group": "Mite",
+        "level": 3,
+        "maxSpeed": 100,
+        "maxHealth": 455,
+        "collisionDamage": 57,
+        "rewardPoints": 160,
+        "explosionEffect": "fx_spider_explosion"
+    },
+    {
+        "kind": "easy",
+        "type": "Mite3",
+        "group": "Mite",
+        "level": 4,
+        "maxSpeed": 110,
+        "maxHealth": 475,
+        "collisionDamage": 67,
+        "rewardPoints": 180,
+        "explosionEffect": "fx_spider_explosion"
+    },
+    {
+        "kind": "easy",
+        "type": "Mite3",
+        "group": "Mite",
+        "level": 5,
+        "maxSpeed": 120,
+        "maxHealth": 495,
+        "collisionDamage": 77,
+        "rewardPoints": 200,
+        "explosionEffect": "fx_spider_explosion"
+    },
+    {
+        "kind": "easy",
+        "type": "Mite4",
+        "group": "Mite",
+        "level": 1,
+        "maxSpeed": 90,
+        "maxHealth": 435,
+        "collisionDamage": 57,
+        "rewardPoints": 160,
+        "explosionEffect": "fx_spider_explosion"
+    },
+    {
+        "kind": "easy",
+        "type": "Mite4",
+        "group": "Mite",
+        "level": 2,
+        "maxSpeed": 105,
+        "maxHealth": 460,
+        "collisionDamage": 72,
+        "rewardPoints": 185,
+        "explosionEffect": "fx_spider_explosion"
+    },
+    {
+        "kind": "easy",
+        "type": "Mite4",
+        "group": "Mite",
+        "level": 3,
+        "maxSpeed": 120,
+        "maxHealth": 485,
+        "collisionDamage": 87,
+        "rewardPoints": 210,
+        "explosionEffect": "fx_spider_explosion"
+    },
+    {
+        "kind": "easy",
+        "type": "Mite4",
+        "group": "Mite",
+        "level": 4,
+        "maxSpeed": 135,
+        "maxHealth": 510,
+        "collisionDamage": 102,
+        "rewardPoints": 235,
+        "explosionEffect": "fx_spider_explosion"
+    },
+    {
+        "kind": "easy",
+        "type": "Mite4",
+        "group": "Mite",
+        "level": 5,
+        "maxSpeed": 150,
+        "maxHealth": 535,
+        "collisionDamage": 117,
+        "rewardPoints": 260,
+        "explosionEffect": "fx_spider_explosion"
+    },
+    {
+        "kind": "easy",
+        "type": "LightMech1",
+        "group": "LightMech",
+        "level": 1,
+        "maxSpeed": 60,
+        "maxHealth": 260,
+        "collisionDamage": 180,
+        "rewardPoints": 100
+    },
+    {
+        "kind": "easy",
+        "type": "LightMech1",
+        "group": "LightMech",
+        "level": 2,
+        "maxSpeed": 62,
+        "maxHealth": 275,
+        "collisionDamage": 200,
+        "rewardPoints": 105
+    },
+    {
+        "kind": "easy",
+        "type": "LightMech1",
+        "group": "LightMech",
+        "level": 3,
+        "maxSpeed": 64,
+        "maxHealth": 290,
+        "collisionDamage": 220,
+        "rewardPoints": 110
+    },
+    {
+        "kind": "easy",
+        "type": "LightMech1",
+        "group": "LightMech",
+        "level": 4,
+        "maxSpeed": 66,
+        "maxHealth": 305,
+        "collisionDamage": 240,
+        "rewardPoints": 115
+    },
+    {
+        "kind": "easy",
+        "type": "LightMech1",
+        "group": "LightMech",
+        "level": 5,
+        "maxSpeed": 68,
+        "maxHealth": 320,
+        "collisionDamage": 260,
+        "rewardPoints": 120
+    },
+    {
+        "kind": "easy",
+        "type": "LightMech2",
+        "group": "LightMech",
+        "level": 1,
+        "maxSpeed": 64,
+        "maxHealth": 290,
+        "collisionDamage": 220,
+        "rewardPoints": 110
+    },
+    {
+        "kind": "easy",
+        "type": "LightMech2",
+        "group": "LightMech",
+        "level": 2,
+        "maxSpeed": 67,
+        "maxHealth": 310,
+        "collisionDamage": 245,
+        "rewardPoints": 120
+    },
+    {
+        "kind": "easy",
+        "type": "LightMech2",
+        "group": "LightMech",
+        "level": 3,
+        "maxSpeed": 70,
+        "maxHealth": 330,
+        "collisionDamage": 270,
+        "rewardPoints": 130
+    },
+    {
+        "kind": "easy",
+        "type": "LightMech2",
+        "group": "LightMech",
+        "level": 4,
+        "maxSpeed": 73,
+        "maxHealth": 350,
+        "collisionDamage": 295,
+        "rewardPoints": 140
+    },
+    {
+        "kind": "easy",
+        "type": "LightMech2",
+        "group": "LightMech",
+        "level": 5,
+        "maxSpeed": 76,
+        "maxHealth": 370,
+        "collisionDamage": 320,
+        "rewardPoints": 150
+    },
+    {
+        "kind": "easy",
+        "type": "LightMech3",
+        "group": "LightMech",
+        "level": 1,
+        "maxSpeed": 70,
+        "maxHealth": 330,
+        "collisionDamage": 270,
+        "rewardPoints": 130
+    },
+    {
+        "kind": "easy",
+        "type": "LightMech3",
+        "group": "LightMech",
+        "level": 2,
+        "maxSpeed": 74,
+        "maxHealth": 360,
+        "collisionDamage": 300,
+        "rewardPoints": 145
+    },
+    {
+        "kind": "easy",
+        "type": "LightMech3",
+        "group": "LightMech",
+        "level": 3,
+        "maxSpeed": 78,
+        "maxHealth": 390,
+        "collisionDamage": 330,
+        "rewardPoints": 160
+    },
+    {
+        "kind": "easy",
+        "type": "LightMech3",
+        "group": "LightMech",
+        "level": 4,
+        "maxSpeed": 82,
+        "maxHealth": 420,
+        "collisionDamage": 360,
+        "rewardPoints": 175
+    },
+    {
+        "kind": "easy",
+        "type": "LightMech3",
+        "group": "LightMech",
+        "level": 5,
+        "maxSpeed": 86,
+        "maxHealth": 450,
+        "collisionDamage": 390,
+        "rewardPoints": 190
+    },
+    {
+        "kind": "easy",
+        "type": "LightMech4",
+        "group": "LightMech",
+        "level": 1,
+        "maxSpeed": 78,
+        "maxHealth": 390,
+        "collisionDamage": 330,
+        "rewardPoints": 160
+    },
+    {
+        "kind": "easy",
+        "type": "LightMech4",
+        "group": "LightMech",
+        "level": 2,
+        "maxSpeed": 83,
+        "maxHealth": 430,
+        "collisionDamage": 365,
+        "rewardPoints": 180
+    },
+    {
+        "kind": "easy",
+        "type": "LightMech4",
+        "group": "LightMech",
+        "level": 3,
+        "maxSpeed": 88,
+        "maxHealth": 470,
+        "collisionDamage": 400,
+        "rewardPoints": 200
+    },
+    {
+        "kind": "easy",
+        "type": "LightMech4",
+        "group": "LightMech",
+        "level": 4,
+        "maxSpeed": 93,
+        "maxHealth": 510,
+        "collisionDamage": 435,
+        "rewardPoints": 220
+    },
+    {
+        "kind": "easy",
+        "type": "LightMech4",
+        "group": "LightMech",
+        "level": 5,
+        "maxSpeed": 98,
+        "maxHealth": 550,
+        "collisionDamage": 470,
+        "rewardPoints": 240
+    },
+    {
+        "kind": "medium",
+        "type": "Exoskeleton1",
+        "group": "Exoskeleton",
+        "level": 1,
+        "maxSpeed": 20,
+        "maxHealth": 260,
+        "collisionDamage": 180,
+        "rewardPoints": 100,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Exoskeleton1",
+        "group": "Exoskeleton",
+        "level": 2,
+        "maxSpeed": 22,
+        "maxHealth": 275,
+        "collisionDamage": 200,
+        "rewardPoints": 105,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Exoskeleton1",
+        "group": "Exoskeleton",
+        "level": 3,
+        "maxSpeed": 24,
+        "maxHealth": 290,
+        "collisionDamage": 220,
+        "rewardPoints": 110,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Exoskeleton1",
+        "group": "Exoskeleton",
+        "level": 4,
+        "maxSpeed": 26,
+        "maxHealth": 305,
+        "collisionDamage": 240,
+        "rewardPoints": 115,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Exoskeleton1",
+        "group": "Exoskeleton",
+        "level": 5,
+        "maxSpeed": 28,
+        "maxHealth": 320,
+        "collisionDamage": 260,
+        "rewardPoints": 120,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Exoskeleton2",
+        "group": "Exoskeleton",
+        "level": 1,
+        "maxSpeed": 24,
+        "maxHealth": 290,
+        "collisionDamage": 220,
+        "rewardPoints": 110
+    },
+    {
+        "kind": "medium",
+        "type": "Exoskeleton2",
+        "group": "Exoskeleton",
+        "level": 2,
+        "maxSpeed": 27,
+        "maxHealth": 310,
+        "collisionDamage": 245,
+        "rewardPoints": 120
+    },
+    {
+        "kind": "medium",
+        "type": "Exoskeleton2",
+        "group": "Exoskeleton",
+        "level": 3,
+        "maxSpeed": 30,
+        "maxHealth": 330,
+        "collisionDamage": 270,
+        "rewardPoints": 130
+    },
+    {
+        "kind": "medium",
+        "type": "Exoskeleton2",
+        "group": "Exoskeleton",
+        "level": 4,
+        "maxSpeed": 33,
+        "maxHealth": 350,
+        "collisionDamage": 295,
+        "rewardPoints": 140
+    },
+    {
+        "kind": "medium",
+        "type": "Exoskeleton2",
+        "group": "Exoskeleton",
+        "level": 5,
+        "maxSpeed": 36,
+        "maxHealth": 370,
+        "collisionDamage": 320,
+        "rewardPoints": 150
+    },
+    {
+        "kind": "medium",
+        "type": "Exoskeleton3",
+        "group": "Exoskeleton",
+        "level": 1,
+        "maxSpeed": 30,
+        "maxHealth": 330,
+        "collisionDamage": 270,
+        "rewardPoints": 130
+    },
+    {
+        "kind": "medium",
+        "type": "Exoskeleton3",
+        "group": "Exoskeleton",
+        "level": 2,
+        "maxSpeed": 34,
+        "maxHealth": 360,
+        "collisionDamage": 300,
+        "rewardPoints": 145
+    },
+    {
+        "kind": "medium",
+        "type": "Exoskeleton3",
+        "group": "Exoskeleton",
+        "level": 3,
+        "maxSpeed": 38,
+        "maxHealth": 390,
+        "collisionDamage": 330,
+        "rewardPoints": 160
+    },
+    {
+        "kind": "medium",
+        "type": "Exoskeleton3",
+        "group": "Exoskeleton",
+        "level": 4,
+        "maxSpeed": 42,
+        "maxHealth": 420,
+        "collisionDamage": 360,
+        "rewardPoints": 175
+    },
+    {
+        "kind": "medium",
+        "type": "Exoskeleton3",
+        "group": "Exoskeleton",
+        "level": 5,
+        "maxSpeed": 46,
+        "maxHealth": 450,
+        "collisionDamage": 390,
+        "rewardPoints": 190
+    },
+    {
+        "kind": "medium",
+        "type": "Exoskeleton4",
+        "group": "Exoskeleton",
+        "level": 1,
+        "maxSpeed": 38,
+        "maxHealth": 390,
+        "collisionDamage": 330,
+        "rewardPoints": 160
+    },
+    {
+        "kind": "medium",
+        "type": "Exoskeleton4",
+        "group": "Exoskeleton",
+        "level": 2,
+        "maxSpeed": 43,
+        "maxHealth": 430,
+        "collisionDamage": 365,
+        "rewardPoints": 180
+    },
+    {
+        "kind": "medium",
+        "type": "Exoskeleton4",
+        "group": "Exoskeleton",
+        "level": 3,
+        "maxSpeed": 48,
+        "maxHealth": 470,
+        "collisionDamage": 400,
+        "rewardPoints": 200
+    },
+    {
+        "kind": "medium",
+        "type": "Exoskeleton4",
+        "group": "Exoskeleton",
+        "level": 4,
+        "maxSpeed": 53,
+        "maxHealth": 510,
+        "collisionDamage": 435,
+        "rewardPoints": 220
+    },
+    {
+        "kind": "medium",
+        "type": "Exoskeleton4",
+        "group": "Exoskeleton",
+        "level": 5,
+        "maxSpeed": 58,
+        "maxHealth": 550,
+        "collisionDamage": 470,
+        "rewardPoints": 240
+    },
+    {
+        "kind": "medium",
+        "type": "Buggy1",
+        "group": "Buggy",
+        "level": 1,
+        "maxSpeed": 80,
+        "maxHealth": 300,
+        "collisionDamage": 200,
+        "rewardPoints": 100
+    },
+    {
+        "kind": "medium",
+        "type": "Buggy1",
+        "group": "Buggy",
+        "level": 2,
+        "maxSpeed": 82,
+        "maxHealth": 315,
+        "collisionDamage": 220,
+        "rewardPoints": 105
+    },
+    {
+        "kind": "medium",
+        "type": "Buggy1",
+        "group": "Buggy",
+        "level": 3,
+        "maxSpeed": 84,
+        "maxHealth": 330,
+        "collisionDamage": 240,
+        "rewardPoints": 110
+    },
+    {
+        "kind": "medium",
+        "type": "Buggy1",
+        "group": "Buggy",
+        "level": 4,
+        "maxSpeed": 86,
+        "maxHealth": 345,
+        "collisionDamage": 260,
+        "rewardPoints": 115
+    },
+    {
+        "kind": "medium",
+        "type": "Buggy1",
+        "group": "Buggy",
+        "level": 5,
+        "maxSpeed": 88,
+        "maxHealth": 360,
+        "collisionDamage": 280,
+        "rewardPoints": 120
+    },
+    {
+        "kind": "medium",
+        "type": "Buggy2",
+        "group": "Buggy",
+        "level": 1,
+        "maxSpeed": 84,
+        "maxHealth": 330,
+        "collisionDamage": 240,
+        "rewardPoints": 110
+    },
+    {
+        "kind": "medium",
+        "type": "Buggy2",
+        "group": "Buggy",
+        "level": 2,
+        "maxSpeed": 87,
+        "maxHealth": 350,
+        "collisionDamage": 265,
+        "rewardPoints": 120
+    },
+    {
+        "kind": "medium",
+        "type": "Buggy2",
+        "group": "Buggy",
+        "level": 3,
+        "maxSpeed": 90,
+        "maxHealth": 370,
+        "collisionDamage": 290,
+        "rewardPoints": 130
+    },
+    {
+        "kind": "medium",
+        "type": "Buggy2",
+        "group": "Buggy",
+        "level": 4,
+        "maxSpeed": 93,
+        "maxHealth": 390,
+        "collisionDamage": 315,
+        "rewardPoints": 140
+    },
+    {
+        "kind": "medium",
+        "type": "Buggy2",
+        "group": "Buggy",
+        "level": 5,
+        "maxSpeed": 96,
+        "maxHealth": 410,
+        "collisionDamage": 340,
+        "rewardPoints": 150
+    },
+    {
+        "kind": "medium",
+        "type": "Buggy3",
+        "group": "Buggy",
+        "level": 1,
+        "maxSpeed": 90,
+        "maxHealth": 370,
+        "collisionDamage": 290,
+        "rewardPoints": 130
+    },
+    {
+        "kind": "medium",
+        "type": "Buggy3",
+        "group": "Buggy",
+        "level": 2,
+        "maxSpeed": 94,
+        "maxHealth": 400,
+        "collisionDamage": 320,
+        "rewardPoints": 145
+    },
+    {
+        "kind": "medium",
+        "type": "Buggy3",
+        "group": "Buggy",
+        "level": 3,
+        "maxSpeed": 98,
+        "maxHealth": 430,
+        "collisionDamage": 350,
+        "rewardPoints": 160
+    },
+    {
+        "kind": "medium",
+        "type": "Buggy3",
+        "group": "Buggy",
+        "level": 4,
+        "maxSpeed": 102,
+        "maxHealth": 460,
+        "collisionDamage": 380,
+        "rewardPoints": 175
+    },
+    {
+        "kind": "medium",
+        "type": "Buggy3",
+        "group": "Buggy",
+        "level": 5,
+        "maxSpeed": 106,
+        "maxHealth": 490,
+        "collisionDamage": 410,
+        "rewardPoints": 190
+    },
+    {
+        "kind": "medium",
+        "type": "Buggy4",
+        "group": "Buggy",
+        "level": 1,
+        "maxSpeed": 98,
+        "maxHealth": 430,
+        "collisionDamage": 350,
+        "rewardPoints": 160
+    },
+    {
+        "kind": "medium",
+        "type": "Buggy4",
+        "group": "Buggy",
+        "level": 2,
+        "maxSpeed": 103,
+        "maxHealth": 470,
+        "collisionDamage": 385,
+        "rewardPoints": 180
+    },
+    {
+        "kind": "medium",
+        "type": "Buggy4",
+        "group": "Buggy",
+        "level": 3,
+        "maxSpeed": 108,
+        "maxHealth": 510,
+        "collisionDamage": 420,
+        "rewardPoints": 200
+    },
+    {
+        "kind": "medium",
+        "type": "Buggy4",
+        "group": "Buggy",
+        "level": 4,
+        "maxSpeed": 113,
+        "maxHealth": 550,
+        "collisionDamage": 455,
+        "rewardPoints": 220
+    },
+    {
+        "kind": "medium",
+        "type": "Buggy4",
+        "group": "Buggy",
+        "level": 5,
+        "maxSpeed": 118,
+        "maxHealth": 590,
+        "collisionDamage": 490,
+        "rewardPoints": 240
+    },
+    {
+        "kind": "medium",
+        "type": "Bmp1",
+        "group": "Bmp",
+        "level": 1,
+        "maxSpeed": 60,
+        "maxHealth": 600,
+        "collisionDamage": 200,
+        "rewardPoints": 115,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Bmp1",
+        "group": "Bmp",
+        "level": 2,
+        "maxSpeed": 62,
+        "maxHealth": 615,
+        "collisionDamage": 220,
+        "rewardPoints": 120,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Bmp1",
+        "group": "Bmp",
+        "level": 3,
+        "maxSpeed": 64,
+        "maxHealth": 630,
+        "collisionDamage": 240,
+        "rewardPoints": 125,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Bmp1",
+        "group": "Bmp",
+        "level": 4,
+        "maxSpeed": 66,
+        "maxHealth": 645,
+        "collisionDamage": 260,
+        "rewardPoints": 130,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Bmp1",
+        "group": "Bmp",
+        "level": 5,
+        "maxSpeed": 68,
+        "maxHealth": 660,
+        "collisionDamage": 280,
+        "rewardPoints": 135,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Bmp2",
+        "group": "Bmp",
+        "level": 1,
+        "maxSpeed": 64,
+        "maxHealth": 700,
+        "collisionDamage": 240,
+        "rewardPoints": 125,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Bmp2",
+        "group": "Bmp",
+        "level": 2,
+        "maxSpeed": 67,
+        "maxHealth": 720,
+        "collisionDamage": 265,
+        "rewardPoints": 135,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Bmp2",
+        "group": "Bmp",
+        "level": 3,
+        "maxSpeed": 70,
+        "maxHealth": 740,
+        "collisionDamage": 290,
+        "rewardPoints": 145,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Bmp2",
+        "group": "Bmp",
+        "level": 4,
+        "maxSpeed": 73,
+        "maxHealth": 760,
+        "collisionDamage": 315,
+        "rewardPoints": 155,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Bmp2",
+        "group": "Bmp",
+        "level": 5,
+        "maxSpeed": 76,
+        "maxHealth": 780,
+        "collisionDamage": 340,
+        "rewardPoints": 165,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Bmp3",
+        "group": "Bmp",
+        "level": 1,
+        "maxSpeed": 70,
+        "maxHealth": 800,
+        "collisionDamage": 290,
+        "rewardPoints": 145,
+        "weaponInfo": [
+            {
+                "type": "RocketLauncher",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Bmp3",
+        "group": "Bmp",
+        "level": 2,
+        "maxSpeed": 74,
+        "maxHealth": 830,
+        "collisionDamage": 320,
+        "rewardPoints": 160,
+        "weaponInfo": [
+            {
+                "type": "RocketLauncher",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Bmp3",
+        "group": "Bmp",
+        "level": 3,
+        "maxSpeed": 78,
+        "maxHealth": 860,
+        "collisionDamage": 350,
+        "rewardPoints": 175,
+        "weaponInfo": [
+            {
+                "type": "RocketLauncher",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Bmp3",
+        "group": "Bmp",
+        "level": 4,
+        "maxSpeed": 82,
+        "maxHealth": 890,
+        "collisionDamage": 380,
+        "rewardPoints": 190,
+        "weaponInfo": [
+            {
+                "type": "RocketLauncher",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Bmp3",
+        "group": "Bmp",
+        "level": 5,
+        "maxSpeed": 86,
+        "maxHealth": 920,
+        "collisionDamage": 410,
+        "rewardPoints": 205,
+        "weaponInfo": [
+            {
+                "type": "RocketLauncher",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Bmp4",
+        "group": "Bmp",
+        "level": 1,
+        "maxSpeed": 78,
+        "maxHealth": 900,
+        "collisionDamage": 350,
+        "rewardPoints": 175,
+        "weaponInfo": [
+            {
+                "type": "ShockCannon",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Bmp4",
+        "group": "Bmp",
+        "level": 2,
+        "maxSpeed": 83,
+        "maxHealth": 940,
+        "collisionDamage": 385,
+        "rewardPoints": 195,
+        "weaponInfo": [
+            {
+                "type": "ShockCannon",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Bmp4",
+        "group": "Bmp",
+        "level": 3,
+        "maxSpeed": 88,
+        "maxHealth": 980,
+        "collisionDamage": 420,
+        "rewardPoints": 215,
+        "weaponInfo": [
+            {
+                "type": "ShockCannon",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Bmp4",
+        "group": "Bmp",
+        "level": 4,
+        "maxSpeed": 93,
+        "maxHealth": 1020,
+        "collisionDamage": 455,
+        "rewardPoints": 235,
+        "weaponInfo": [
+            {
+                "type": "ShockCannon",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Bmp4",
+        "group": "Bmp",
+        "level": 5,
+        "maxSpeed": 98,
+        "maxHealth": 1060,
+        "collisionDamage": 490,
+        "rewardPoints": 255,
+        "weaponInfo": [
+            {
+                "type": "ShockCannon",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Tank1",
+        "group": "Tank",
+        "level": 1,
+        "maxSpeed": 30,
+        "maxHealth": 600,
+        "collisionDamage": 300,
+        "rewardPoints": 125,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Tank1",
+        "group": "Tank",
+        "level": 2,
+        "maxSpeed": 32,
+        "maxHealth": 615,
+        "collisionDamage": 320,
+        "rewardPoints": 130,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Tank1",
+        "group": "Tank",
+        "level": 3,
+        "maxSpeed": 34,
+        "maxHealth": 630,
+        "collisionDamage": 340,
+        "rewardPoints": 135,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Tank1",
+        "group": "Tank",
+        "level": 4,
+        "maxSpeed": 36,
+        "maxHealth": 645,
+        "collisionDamage": 360,
+        "rewardPoints": 140,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Tank1",
+        "group": "Tank",
+        "level": 5,
+        "maxSpeed": 38,
+        "maxHealth": 660,
+        "collisionDamage": 380,
+        "rewardPoints": 145,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Tank2",
+        "group": "Tank",
+        "level": 1,
+        "maxSpeed": 29,
+        "maxHealth": 700,
+        "collisionDamage": 340,
+        "rewardPoints": 135,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 1
+            },
+            {
+                "type": "RocketLauncher",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Tank2",
+        "group": "Tank",
+        "level": 2,
+        "maxSpeed": 32,
+        "maxHealth": 720,
+        "collisionDamage": 365,
+        "rewardPoints": 145,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 1
+            },
+            {
+                "type": "RocketLauncher",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Tank2",
+        "group": "Tank",
+        "level": 3,
+        "maxSpeed": 35,
+        "maxHealth": 740,
+        "collisionDamage": 390,
+        "rewardPoints": 155,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 1
+            },
+            {
+                "type": "RocketLauncher",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Tank2",
+        "group": "Tank",
+        "level": 4,
+        "maxSpeed": 38,
+        "maxHealth": 760,
+        "collisionDamage": 415,
+        "rewardPoints": 165,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 1
+            },
+            {
+                "type": "RocketLauncher",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Tank2",
+        "group": "Tank",
+        "level": 5,
+        "maxSpeed": 41,
+        "maxHealth": 780,
+        "collisionDamage": 440,
+        "rewardPoints": 175,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 1
+            },
+            {
+                "type": "RocketLauncher",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Tank3",
+        "group": "Tank",
+        "level": 1,
+        "maxSpeed": 28,
+        "maxHealth": 800,
+        "collisionDamage": 390,
+        "rewardPoints": 155,
+        "weaponInfo": [
+            {
+                "type": "Laser",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Tank3",
+        "group": "Tank",
+        "level": 2,
+        "maxSpeed": 32,
+        "maxHealth": 830,
+        "collisionDamage": 420,
+        "rewardPoints": 170,
+        "weaponInfo": [
+            {
+                "type": "Laser",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Tank3",
+        "group": "Tank",
+        "level": 3,
+        "maxSpeed": 36,
+        "maxHealth": 860,
+        "collisionDamage": 450,
+        "rewardPoints": 185,
+        "weaponInfo": [
+            {
+                "type": "Laser",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Tank3",
+        "group": "Tank",
+        "level": 4,
+        "maxSpeed": 40,
+        "maxHealth": 890,
+        "collisionDamage": 480,
+        "rewardPoints": 200,
+        "weaponInfo": [
+            {
+                "type": "Laser",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Tank3",
+        "group": "Tank",
+        "level": 5,
+        "maxSpeed": 44,
+        "maxHealth": 920,
+        "collisionDamage": 510,
+        "rewardPoints": 215,
+        "weaponInfo": [
+            {
+                "type": "Laser",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Tank4",
+        "group": "Tank",
+        "level": 1,
+        "maxSpeed": 27,
+        "maxHealth": 600,
+        "collisionDamage": 450,
+        "rewardPoints": 185,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Tank4",
+        "group": "Tank",
+        "level": 2,
+        "maxSpeed": 32,
+        "maxHealth": 640,
+        "collisionDamage": 485,
+        "rewardPoints": 205,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Tank4",
+        "group": "Tank",
+        "level": 3,
+        "maxSpeed": 37,
+        "maxHealth": 680,
+        "collisionDamage": 520,
+        "rewardPoints": 225,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Tank4",
+        "group": "Tank",
+        "level": 4,
+        "maxSpeed": 42,
+        "maxHealth": 720,
+        "collisionDamage": 555,
+        "rewardPoints": 245,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "medium",
+        "type": "Tank4",
+        "group": "Tank",
+        "level": 5,
+        "maxSpeed": 47,
+        "maxHealth": 760,
+        "collisionDamage": 590,
+        "rewardPoints": 265,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "heavy",
+        "type": "Mech1",
+        "group": "Mech",
+        "level": 1,
+        "maxSpeed": 25,
+        "maxHealth": 1000,
+        "collisionDamage": 300,
+        "rewardPoints": 125,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 1,
+                "attackRadius": 70
+            }
+        ],
+        "explosionEffect": "FX_Explosion_Dalan"
+    },
+    {
+        "kind": "heavy",
+        "type": "Mech1",
+        "group": "Mech",
+        "level": 2,
+        "maxSpeed": 27,
+        "maxHealth": 1015,
+        "collisionDamage": 320,
+        "rewardPoints": 130,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 2,
+                "attackRadius": 75
+            }
+        ],
+        "explosionEffect": "FX_Explosion_Dalan"
+    },
+    {
+        "kind": "heavy",
+        "type": "Mech1",
+        "group": "Mech",
+        "level": 3,
+        "maxSpeed": 29,
+        "maxHealth": 1030,
+        "collisionDamage": 340,
+        "rewardPoints": 135,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 3,
+                "attackRadius": 80
+            }
+        ],
+        "explosionEffect": "FX_Explosion_Dalan"
+    },
+    {
+        "kind": "heavy",
+        "type": "Mech1",
+        "group": "Mech",
+        "level": 4,
+        "maxSpeed": 31,
+        "maxHealth": 1045,
+        "collisionDamage": 360,
+        "rewardPoints": 140,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 4,
+                "attackRadius": 85
+            }
+        ],
+        "explosionEffect": "FX_Explosion_Dalan"
+    },
+    {
+        "kind": "heavy",
+        "type": "Mech1",
+        "group": "Mech",
+        "level": 5,
+        "maxSpeed": 33,
+        "maxHealth": 1060,
+        "collisionDamage": 380,
+        "rewardPoints": 145,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 5,
+                "attackRadius": 90
+            }
+        ],
+        "explosionEffect": "FX_Explosion_Dalan"
+    },
+    {
+        "kind": "heavy",
+        "type": "Mech2",
+        "group": "Mech",
+        "level": 1,
+        "maxSpeed": 26,
+        "maxHealth": 1200,
+        "collisionDamage": 340,
+        "rewardPoints": 135,
+        "weaponInfo": [
+            {
+                "type": "RocketLauncher",
+                "level": 1
+            }
+        ],
+        "explosionEffect": "FX_Explosion_Dalan"
+    },
+    {
+        "kind": "heavy",
+        "type": "Mech2",
+        "group": "Mech",
+        "level": 2,
+        "maxSpeed": 29,
+        "maxHealth": 1220,
+        "collisionDamage": 365,
+        "rewardPoints": 145,
+        "weaponInfo": [
+            {
+                "type": "RocketLauncher",
+                "level": 2
+            }
+        ],
+        "explosionEffect": "FX_Explosion_Dalan"
+    },
+    {
+        "kind": "heavy",
+        "type": "Mech2",
+        "group": "Mech",
+        "level": 3,
+        "maxSpeed": 32,
+        "maxHealth": 1240,
+        "collisionDamage": 390,
+        "rewardPoints": 155,
+        "weaponInfo": [
+            {
+                "type": "RocketLauncher",
+                "level": 3
+            }
+        ],
+        "explosionEffect": "FX_Explosion_Dalan"
+    },
+    {
+        "kind": "heavy",
+        "type": "Mech2",
+        "group": "Mech",
+        "level": 4,
+        "maxSpeed": 35,
+        "maxHealth": 1260,
+        "collisionDamage": 415,
+        "rewardPoints": 165,
+        "weaponInfo": [
+            {
+                "type": "RocketLauncher",
+                "level": 4
+            }
+        ],
+        "explosionEffect": "FX_Explosion_Dalan"
+    },
+    {
+        "kind": "heavy",
+        "type": "Mech2",
+        "group": "Mech",
+        "level": 5,
+        "maxSpeed": 38,
+        "maxHealth": 1280,
+        "collisionDamage": 440,
+        "rewardPoints": 175,
+        "weaponInfo": [
+            {
+                "type": "RocketLauncher",
+                "level": 5
+            }
+        ],
+        "explosionEffect": "FX_Explosion_Dalan"
+    },
+    {
+        "kind": "heavy",
+        "type": "Mech3",
+        "group": "Mech",
+        "level": 1,
+        "maxSpeed": 25,
+        "maxHealth": 1400,
+        "collisionDamage": 390,
+        "rewardPoints": 155,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 1,
+                "attackRadius": 70
+            }
+        ],
+        "explosionEffect": "FX_Explosion_Dalan"
+    },
+    {
+        "kind": "heavy",
+        "type": "Mech3",
+        "group": "Mech",
+        "level": 2,
+        "maxSpeed": 29,
+        "maxHealth": 1430,
+        "collisionDamage": 420,
+        "rewardPoints": 170,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 2,
+                "attackRadius": 75
+            }
+        ],
+        "explosionEffect": "FX_Explosion_Dalan"
+    },
+    {
+        "kind": "heavy",
+        "type": "Mech3",
+        "group": "Mech",
+        "level": 3,
+        "maxSpeed": 33,
+        "maxHealth": 1460,
+        "collisionDamage": 450,
+        "rewardPoints": 185,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 3,
+                "attackRadius": 80
+            }
+        ],
+        "explosionEffect": "FX_Explosion_Dalan"
+    },
+    {
+        "kind": "heavy",
+        "type": "Mech3",
+        "group": "Mech",
+        "level": 4,
+        "maxSpeed": 37,
+        "maxHealth": 1490,
+        "collisionDamage": 480,
+        "rewardPoints": 200,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 4,
+                "attackRadius": 85
+            }
+        ],
+        "explosionEffect": "FX_Explosion_Dalan"
+    },
+    {
+        "kind": "heavy",
+        "type": "Mech3",
+        "group": "Mech",
+        "level": 5,
+        "maxSpeed": 41,
+        "maxHealth": 1520,
+        "collisionDamage": 510,
+        "rewardPoints": 215,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 5,
+                "attackRadius": 90
+            }
+        ],
+        "explosionEffect": "FX_Explosion_Dalan"
+    },
+    {
+        "kind": "heavy",
+        "type": "Mech4",
+        "group": "Mech",
+        "level": 1,
+        "maxSpeed": 33,
+        "maxHealth": 1460,
+        "collisionDamage": 450,
+        "rewardPoints": 185,
+        "weaponInfo": [
+            {
+                "type": "Electra",
+                "level": 1
+            }
+        ],
+        "explosionEffect": "FX_Explosion_Dalan"
+    },
+    {
+        "kind": "heavy",
+        "type": "Mech4",
+        "group": "Mech",
+        "level": 2,
+        "maxSpeed": 38,
+        "maxHealth": 1500,
+        "collisionDamage": 485,
+        "rewardPoints": 205,
+        "weaponInfo": [
+            {
+                "type": "Electra",
+                "level": 2
+            }
+        ],
+        "explosionEffect": "FX_Explosion_Dalan"
+    },
+    {
+        "kind": "heavy",
+        "type": "Mech4",
+        "group": "Mech",
+        "level": 3,
+        "maxSpeed": 43,
+        "maxHealth": 1540,
+        "collisionDamage": 520,
+        "rewardPoints": 225,
+        "weaponInfo": [
+            {
+                "type": "Electra",
+                "level": 3
+            }
+        ],
+        "explosionEffect": "FX_Explosion_Dalan"
+    },
+    {
+        "kind": "heavy",
+        "type": "Mech4",
+        "group": "Mech",
+        "level": 4,
+        "maxSpeed": 48,
+        "maxHealth": 1580,
+        "collisionDamage": 555,
+        "rewardPoints": 245,
+        "weaponInfo": [
+            {
+                "type": "Electra",
+                "level": 4
+            }
+        ],
+        "explosionEffect": "FX_Explosion_Dalan"
+    },
+    {
+        "kind": "heavy",
+        "type": "Mech4",
+        "group": "Mech",
+        "level": 5,
+        "maxSpeed": 53,
+        "maxHealth": 1620,
+        "collisionDamage": 590,
+        "rewardPoints": 265,
+        "weaponInfo": [
+            {
+                "type": "Electra",
+                "level": 5
+            }
+        ],
+        "explosionEffect": "FX_Explosion_Dalan"
+    },
+    {
+        "kind": "heavy",
+        "type": "HeavyTank1",
+        "group": "HeavyTank",
+        "level": 1,
+        "maxSpeed": 16,
+        "maxHealth": 1000,
+        "collisionDamage": 350,
+        "rewardPoints": 145,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "heavy",
+        "type": "HeavyTank1",
+        "group": "HeavyTank",
+        "level": 2,
+        "maxSpeed": 18,
+        "maxHealth": 1015,
+        "collisionDamage": 370,
+        "rewardPoints": 150,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "heavy",
+        "type": "HeavyTank1",
+        "group": "HeavyTank",
+        "level": 3,
+        "maxSpeed": 20,
+        "maxHealth": 1030,
+        "collisionDamage": 390,
+        "rewardPoints": 155,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "heavy",
+        "type": "HeavyTank1",
+        "group": "HeavyTank",
+        "level": 4,
+        "maxSpeed": 22,
+        "maxHealth": 1045,
+        "collisionDamage": 410,
+        "rewardPoints": 160,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "heavy",
+        "type": "HeavyTank1",
+        "group": "HeavyTank",
+        "level": 5,
+        "maxSpeed": 24,
+        "maxHealth": 1060,
+        "collisionDamage": 430,
+        "rewardPoints": 165,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "heavy",
+        "type": "HeavyTank2",
+        "group": "HeavyTank",
+        "level": 1,
+        "maxSpeed": 15,
+        "maxHealth": 1200,
+        "collisionDamage": 390,
+        "rewardPoints": 155,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "heavy",
+        "type": "HeavyTank2",
+        "group": "HeavyTank",
+        "level": 2,
+        "maxSpeed": 18,
+        "maxHealth": 1220,
+        "collisionDamage": 415,
+        "rewardPoints": 165,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "heavy",
+        "type": "HeavyTank2",
+        "group": "HeavyTank",
+        "level": 3,
+        "maxSpeed": 21,
+        "maxHealth": 1240,
+        "collisionDamage": 440,
+        "rewardPoints": 175,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "heavy",
+        "type": "HeavyTank2",
+        "group": "HeavyTank",
+        "level": 4,
+        "maxSpeed": 24,
+        "maxHealth": 1260,
+        "collisionDamage": 465,
+        "rewardPoints": 185,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "heavy",
+        "type": "HeavyTank2",
+        "group": "HeavyTank",
+        "level": 5,
+        "maxSpeed": 27,
+        "maxHealth": 1280,
+        "collisionDamage": 490,
+        "rewardPoints": 195,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "heavy",
+        "type": "HeavyTank3",
+        "group": "HeavyTank",
+        "level": 1,
+        "maxSpeed": 14,
+        "maxHealth": 1300,
+        "collisionDamage": 440,
+        "rewardPoints": 175,
+        "weaponInfo": [
+            {
+                "type": "Laser",
+                "level": 1
+            },
+            {
+                "type": "Missile",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "heavy",
+        "type": "HeavyTank3",
+        "group": "HeavyTank",
+        "level": 2,
+        "maxSpeed": 18,
+        "maxHealth": 1330,
+        "collisionDamage": 470,
+        "rewardPoints": 190,
+        "weaponInfo": [
+            {
+                "type": "Laser",
+                "level": 2
+            },
+            {
+                "type": "Missile",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "heavy",
+        "type": "HeavyTank3",
+        "group": "HeavyTank",
+        "level": 3,
+        "maxSpeed": 22,
+        "maxHealth": 1360,
+        "collisionDamage": 500,
+        "rewardPoints": 205,
+        "weaponInfo": [
+            {
+                "type": "Laser",
+                "level": 3
+            },
+            {
+                "type": "Missile",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "heavy",
+        "type": "HeavyTank3",
+        "group": "HeavyTank",
+        "level": 4,
+        "maxSpeed": 26,
+        "maxHealth": 1390,
+        "collisionDamage": 530,
+        "rewardPoints": 220,
+        "weaponInfo": [
+            {
+                "type": "Laser",
+                "level": 4
+            },
+            {
+                "type": "Missile",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "heavy",
+        "type": "HeavyTank3",
+        "group": "HeavyTank",
+        "level": 5,
+        "maxSpeed": 30,
+        "maxHealth": 1420,
+        "collisionDamage": 560,
+        "rewardPoints": 235,
+        "weaponInfo": [
+            {
+                "type": "Laser",
+                "level": 5
+            },
+            {
+                "type": "Missile",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "heavy",
+        "type": "HeavyTank4",
+        "group": "HeavyTank",
+        "level": 1,
+        "maxSpeed": 13,
+        "maxHealth": 1400,
+        "collisionDamage": 500,
+        "rewardPoints": 205,
+        "weaponInfo": [
+            {
+                "type": "ShockCannon",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "heavy",
+        "type": "HeavyTank4",
+        "group": "HeavyTank",
+        "level": 2,
+        "maxSpeed": 18,
+        "maxHealth": 1440,
+        "collisionDamage": 535,
+        "rewardPoints": 225,
+        "weaponInfo": [
+            {
+                "type": "ShockCannon",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "heavy",
+        "type": "HeavyTank4",
+        "group": "HeavyTank",
+        "level": 3,
+        "maxSpeed": 23,
+        "maxHealth": 1480,
+        "collisionDamage": 570,
+        "rewardPoints": 245,
+        "weaponInfo": [
+            {
+                "type": "ShockCannon",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "heavy",
+        "type": "HeavyTank4",
+        "group": "HeavyTank",
+        "level": 4,
+        "maxSpeed": 28,
+        "maxHealth": 1520,
+        "collisionDamage": 605,
+        "rewardPoints": 265,
+        "weaponInfo": [
+            {
+                "type": "ShockCannon",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "heavy",
+        "type": "HeavyTank4",
+        "group": "HeavyTank",
+        "level": 5,
+        "maxSpeed": 33,
+        "maxHealth": 1560,
+        "collisionDamage": 640,
+        "rewardPoints": 285,
+        "weaponInfo": [
+            {
+                "type": "ShockCannon",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Drone1",
+        "group": "Drone",
+        "level": 1,
+        "maxSpeed": 120,
+        "maxHealth": 300,
+        "collisionDamage": 35,
+        "rewardPoints": 125
+    },
+    {
+        "kind": "flying",
+        "type": "Drone1",
+        "group": "Drone",
+        "level": 2,
+        "maxSpeed": 125,
+        "maxHealth": 315,
+        "collisionDamage": 55,
+        "rewardPoints": 130
+    },
+    {
+        "kind": "flying",
+        "type": "Drone1",
+        "group": "Drone",
+        "level": 3,
+        "maxSpeed": 130,
+        "maxHealth": 330,
+        "collisionDamage": 75,
+        "rewardPoints": 135
+    },
+    {
+        "kind": "flying",
+        "type": "Drone1",
+        "group": "Drone",
+        "level": 4,
+        "maxSpeed": 135,
+        "maxHealth": 345,
+        "collisionDamage": 95,
+        "rewardPoints": 140
+    },
+    {
+        "kind": "flying",
+        "type": "Drone1",
+        "group": "Drone",
+        "level": 5,
+        "maxSpeed": 140,
+        "maxHealth": 360,
+        "collisionDamage": 115,
+        "rewardPoints": 145
+    },
+    {
+        "kind": "flying",
+        "type": "Drone2",
+        "group": "Drone",
+        "level": 1,
+        "maxSpeed": 130,
+        "maxHealth": 330,
+        "collisionDamage": 0,
+        "rewardPoints": 135,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Drone2",
+        "group": "Drone",
+        "level": 2,
+        "maxSpeed": 137,
+        "maxHealth": 350,
+        "collisionDamage": 0,
+        "rewardPoints": 145,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Drone2",
+        "group": "Drone",
+        "level": 3,
+        "maxSpeed": 144,
+        "maxHealth": 370,
+        "collisionDamage": 0,
+        "rewardPoints": 155,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Drone2",
+        "group": "Drone",
+        "level": 4,
+        "maxSpeed": 151,
+        "maxHealth": 390,
+        "collisionDamage": 0,
+        "rewardPoints": 165,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Drone2",
+        "group": "Drone",
+        "level": 5,
+        "maxSpeed": 158,
+        "maxHealth": 410,
+        "collisionDamage": 0,
+        "rewardPoints": 175,
+        "weaponInfo": [
+            {
+                "type": "Machinegun",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Drone3",
+        "group": "Drone",
+        "level": 1,
+        "maxSpeed": 144,
+        "maxHealth": 370,
+        "collisionDamage": 0,
+        "rewardPoints": 155,
+        "weaponInfo": [
+            {
+                "type": "Laser",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Drone3",
+        "group": "Drone",
+        "level": 2,
+        "maxSpeed": 154,
+        "maxHealth": 400,
+        "collisionDamage": 0,
+        "rewardPoints": 170,
+        "weaponInfo": [
+            {
+                "type": "Laser",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Drone3",
+        "group": "Drone",
+        "level": 3,
+        "maxSpeed": 164,
+        "maxHealth": 430,
+        "collisionDamage": 0,
+        "rewardPoints": 185,
+        "weaponInfo": [
+            {
+                "type": "Laser",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Drone3",
+        "group": "Drone",
+        "level": 4,
+        "maxSpeed": 174,
+        "maxHealth": 460,
+        "collisionDamage": 0,
+        "rewardPoints": 200,
+        "weaponInfo": [
+            {
+                "type": "Laser",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Drone3",
+        "group": "Drone",
+        "level": 5,
+        "maxSpeed": 184,
+        "maxHealth": 490,
+        "collisionDamage": 0,
+        "rewardPoints": 215,
+        "weaponInfo": [
+            {
+                "type": "Laser",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Drone4",
+        "group": "Drone",
+        "level": 1,
+        "maxSpeed": 164,
+        "maxHealth": 430,
+        "collisionDamage": 0,
+        "rewardPoints": 185,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Drone4",
+        "group": "Drone",
+        "level": 2,
+        "maxSpeed": 179,
+        "maxHealth": 470,
+        "collisionDamage": 0,
+        "rewardPoints": 205,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Drone4",
+        "group": "Drone",
+        "level": 3,
+        "maxSpeed": 194,
+        "maxHealth": 510,
+        "collisionDamage": 0,
+        "rewardPoints": 225,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Drone4",
+        "group": "Drone",
+        "level": 4,
+        "maxSpeed": 209,
+        "maxHealth": 550,
+        "collisionDamage": 0,
+        "rewardPoints": 245,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Drone4",
+        "group": "Drone",
+        "level": 5,
+        "maxSpeed": 224,
+        "maxHealth": 590,
+        "collisionDamage": 0,
+        "rewardPoints": 265,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Helicopter1",
+        "group": "Helicopter",
+        "level": 1,
+        "maxSpeed": 80,
+        "maxHealth": 250,
+        "collisionDamage": 0,
+        "rewardPoints": 125,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Helicopter1",
+        "group": "Helicopter",
+        "level": 2,
+        "maxSpeed": 82,
+        "maxHealth": 265,
+        "collisionDamage": 0,
+        "rewardPoints": 130,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Helicopter1",
+        "group": "Helicopter",
+        "level": 3,
+        "maxSpeed": 84,
+        "maxHealth": 280,
+        "collisionDamage": 0,
+        "rewardPoints": 135,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Helicopter1",
+        "group": "Helicopter",
+        "level": 4,
+        "maxSpeed": 86,
+        "maxHealth": 295,
+        "collisionDamage": 0,
+        "rewardPoints": 140,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Helicopter1",
+        "group": "Helicopter",
+        "level": 5,
+        "maxSpeed": 88,
+        "maxHealth": 310,
+        "collisionDamage": 0,
+        "rewardPoints": 145,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Helicopter2",
+        "group": "Helicopter",
+        "level": 1,
+        "maxSpeed": 84,
+        "maxHealth": 280,
+        "collisionDamage": 0,
+        "rewardPoints": 135,
+        "weaponInfo": [
+            {
+                "type": "Missile",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Helicopter2",
+        "group": "Helicopter",
+        "level": 2,
+        "maxSpeed": 87,
+        "maxHealth": 300,
+        "collisionDamage": 0,
+        "rewardPoints": 145,
+        "weaponInfo": [
+            {
+                "type": "Missile",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Helicopter2",
+        "group": "Helicopter",
+        "level": 3,
+        "maxSpeed": 90,
+        "maxHealth": 320,
+        "collisionDamage": 0,
+        "rewardPoints": 155,
+        "weaponInfo": [
+            {
+                "type": "Missile",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Helicopter2",
+        "group": "Helicopter",
+        "level": 4,
+        "maxSpeed": 93,
+        "maxHealth": 340,
+        "collisionDamage": 0,
+        "rewardPoints": 165,
+        "weaponInfo": [
+            {
+                "type": "Missile",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Helicopter2",
+        "group": "Helicopter",
+        "level": 5,
+        "maxSpeed": 96,
+        "maxHealth": 360,
+        "collisionDamage": 0,
+        "rewardPoints": 175,
+        "weaponInfo": [
+            {
+                "type": "Missile",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Helicopter3",
+        "group": "Helicopter",
+        "level": 1,
+        "maxSpeed": 90,
+        "maxHealth": 320,
+        "collisionDamage": 0,
+        "rewardPoints": 155,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Helicopter3",
+        "group": "Helicopter",
+        "level": 2,
+        "maxSpeed": 94,
+        "maxHealth": 350,
+        "collisionDamage": 0,
+        "rewardPoints": 170,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Helicopter3",
+        "group": "Helicopter",
+        "level": 3,
+        "maxSpeed": 98,
+        "maxHealth": 380,
+        "collisionDamage": 0,
+        "rewardPoints": 185,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Helicopter3",
+        "group": "Helicopter",
+        "level": 4,
+        "maxSpeed": 102,
+        "maxHealth": 410,
+        "collisionDamage": 0,
+        "rewardPoints": 200,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Helicopter3",
+        "group": "Helicopter",
+        "level": 5,
+        "maxSpeed": 106,
+        "maxHealth": 440,
+        "collisionDamage": 0,
+        "rewardPoints": 215,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Helicopter4",
+        "group": "Helicopter",
+        "level": 1,
+        "maxSpeed": 98,
+        "maxHealth": 380,
+        "collisionDamage": 0,
+        "rewardPoints": 185,
+        "weaponInfo": [
+            {
+                "type": "RocketLauncher",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Helicopter4",
+        "group": "Helicopter",
+        "level": 2,
+        "maxSpeed": 103,
+        "maxHealth": 420,
+        "collisionDamage": 0,
+        "rewardPoints": 205,
+        "weaponInfo": [
+            {
+                "type": "RocketLauncher",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Helicopter4",
+        "group": "Helicopter",
+        "level": 3,
+        "maxSpeed": 108,
+        "maxHealth": 460,
+        "collisionDamage": 0,
+        "rewardPoints": 225,
+        "weaponInfo": [
+            {
+                "type": "RocketLauncher",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Helicopter4",
+        "group": "Helicopter",
+        "level": 4,
+        "maxSpeed": 113,
+        "maxHealth": 500,
+        "collisionDamage": 0,
+        "rewardPoints": 245,
+        "weaponInfo": [
+            {
+                "type": "RocketLauncher",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "flying",
+        "type": "Helicopter4",
+        "group": "Helicopter",
+        "level": 5,
+        "maxSpeed": 118,
+        "maxHealth": 540,
+        "collisionDamage": 0,
+        "rewardPoints": 265,
+        "weaponInfo": [
+            {
+                "type": "RocketLauncher",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "static",
+        "type": "Bunker1",
+        "group": "Bunker",
+        "level": 1,
+        "maxSpeed": 0,
+        "maxHealth": 800,
+        "collisionDamage": 250,
+        "rewardPoints": 125,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "static",
+        "type": "Bunker1",
+        "group": "Bunker",
+        "level": 2,
+        "maxSpeed": 0,
+        "maxHealth": 1000,
+        "collisionDamage": 270,
+        "rewardPoints": 130,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "static",
+        "type": "Bunker1",
+        "group": "Bunker",
+        "level": 3,
+        "maxSpeed": 0,
+        "maxHealth": 1200,
+        "collisionDamage": 290,
+        "rewardPoints": 135,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "static",
+        "type": "Bunker1",
+        "group": "Bunker",
+        "level": 4,
+        "maxSpeed": 0,
+        "maxHealth": 1400,
+        "collisionDamage": 310,
+        "rewardPoints": 140,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "static",
+        "type": "Bunker1",
+        "group": "Bunker",
+        "level": 5,
+        "maxSpeed": 0,
+        "maxHealth": 1600,
+        "collisionDamage": 330,
+        "rewardPoints": 145,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "static",
+        "type": "Bunker2",
+        "group": "Bunker",
+        "level": 1,
+        "maxSpeed": 0,
+        "maxHealth": 1400,
+        "collisionDamage": 290,
+        "rewardPoints": 135,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "static",
+        "type": "Bunker2",
+        "group": "Bunker",
+        "level": 2,
+        "maxSpeed": 0,
+        "maxHealth": 1700,
+        "collisionDamage": 315,
+        "rewardPoints": 145,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "static",
+        "type": "Bunker2",
+        "group": "Bunker",
+        "level": 3,
+        "maxSpeed": 0,
+        "maxHealth": 1900,
+        "collisionDamage": 340,
+        "rewardPoints": 155,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "static",
+        "type": "Bunker2",
+        "group": "Bunker",
+        "level": 4,
+        "maxSpeed": 0,
+        "maxHealth": 1700,
+        "collisionDamage": 365,
+        "rewardPoints": 165,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "static",
+        "type": "Bunker2",
+        "group": "Bunker",
+        "level": 5,
+        "maxSpeed": 0,
+        "maxHealth": 2000,
+        "collisionDamage": 390,
+        "rewardPoints": 175,
+        "weaponInfo": [
+            {
+                "type": "Cannon",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "static",
+        "type": "Bunker3",
+        "group": "Bunker",
+        "level": 1,
+        "maxSpeed": 0,
+        "maxHealth": 1900,
+        "collisionDamage": 340,
+        "rewardPoints": 155,
+        "weaponInfo": [
+            {
+                "type": "RocketLauncher",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "static",
+        "type": "Bunker3",
+        "group": "Bunker",
+        "level": 2,
+        "maxSpeed": 0,
+        "maxHealth": 2300,
+        "collisionDamage": 370,
+        "rewardPoints": 170,
+        "weaponInfo": [
+            {
+                "type": "RocketLauncher",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "static",
+        "type": "Bunker3",
+        "group": "Bunker",
+        "level": 3,
+        "maxSpeed": 0,
+        "maxHealth": 2700,
+        "collisionDamage": 400,
+        "rewardPoints": 185,
+        "weaponInfo": [
+            {
+                "type": "RocketLauncher",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "static",
+        "type": "Bunker3",
+        "group": "Bunker",
+        "level": 4,
+        "maxSpeed": 0,
+        "maxHealth": 3100,
+        "collisionDamage": 430,
+        "rewardPoints": 200,
+        "weaponInfo": [
+            {
+                "type": "RocketLauncher",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "static",
+        "type": "Bunker3",
+        "group": "Bunker",
+        "level": 5,
+        "maxSpeed": 0,
+        "maxHealth": 3500,
+        "collisionDamage": 460,
+        "rewardPoints": 215,
+        "weaponInfo": [
+            {
+                "type": "RocketLauncher",
+                "level": 5
+            }
+        ]
+    },
+    {
+        "kind": "static",
+        "type": "Bunker4",
+        "group": "Bunker",
+        "level": 1,
+        "maxSpeed": 0,
+        "maxHealth": 2700,
+        "collisionDamage": 400,
+        "rewardPoints": 185,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 1
+            }
+        ]
+    },
+    {
+        "kind": "static",
+        "type": "Bunker4",
+        "group": "Bunker",
+        "level": 2,
+        "maxSpeed": 0,
+        "maxHealth": 3200,
+        "collisionDamage": 435,
+        "rewardPoints": 205,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 2
+            }
+        ]
+    },
+    {
+        "kind": "static",
+        "type": "Bunker4",
+        "group": "Bunker",
+        "level": 3,
+        "maxSpeed": 0,
+        "maxHealth": 3500,
+        "collisionDamage": 470,
+        "rewardPoints": 225,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 3
+            }
+        ]
+    },
+    {
+        "kind": "static",
+        "type": "Bunker4",
+        "group": "Bunker",
+        "level": 4,
+        "maxSpeed": 0,
+        "maxHealth": 4000,
+        "collisionDamage": 505,
+        "rewardPoints": 245,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 4
+            }
+        ]
+    },
+    {
+        "kind": "static",
+        "type": "Bunker4",
+        "group": "Bunker",
+        "level": 5,
+        "maxSpeed": 0,
+        "maxHealth": 3200,
+        "collisionDamage": 540,
+        "rewardPoints": 265,
+        "weaponInfo": [
+            {
+                "type": "PulseCannon",
+                "level": 5
+            }
+        ]
+    }
+]

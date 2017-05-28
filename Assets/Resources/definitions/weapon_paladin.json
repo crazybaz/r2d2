@@ -1,0 +1,5135 @@
+[
+    {
+        "id": "Machinegun",
+        "level": 1,
+        "upgradeReqs": {
+            "playerLevel": 1,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.3
+    },
+    {
+        "id": "Machinegun",
+        "level": 2,
+        "upgradeCost": {
+            "Soft": 100,
+            "Microchips": 6
+        },
+        "upgradeReqs": {
+            "playerLevel": 1,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.29
+    },
+    {
+        "id": "Machinegun",
+        "level": 3,
+        "upgradeCost": {
+            "Soft": 155,
+            "Microchips": 10
+        },
+        "upgradeReqs": {
+            "playerLevel": 2,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.28
+    },
+    {
+        "id": "Machinegun",
+        "level": 4,
+        "upgradeCost": {
+            "Soft": 388,
+            "Microchips": 14
+        },
+        "upgradeReqs": {
+            "playerLevel": 3,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.27
+    },
+    {
+        "id": "Machinegun",
+        "level": 5,
+        "upgradeCost": {
+            "Soft": 1164,
+            "Microchips": 18
+        },
+        "upgradeReqs": {
+            "playerLevel": 4,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.26
+    },
+    {
+        "id": "Machinegun",
+        "level": 6,
+        "upgradeCost": {
+            "Soft": 2328,
+            "Microchips": 22
+        },
+        "upgradeReqs": {
+            "playerLevel": 5,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.6,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.25
+    },
+    {
+        "id": "Machinegun",
+        "level": 7,
+        "upgradeCost": {
+            "Soft": 4074,
+            "Microchips": 26
+        },
+        "upgradeReqs": {
+            "playerLevel": 6,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.7,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.24
+    },
+    {
+        "id": "Machinegun",
+        "level": 8,
+        "upgradeCost": {
+            "Soft": 7130,
+            "Microchips": 30
+        },
+        "upgradeReqs": {
+            "playerLevel": 7,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.8,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.23
+    },
+    {
+        "id": "Machinegun",
+        "level": 9,
+        "upgradeCost": {
+            "Soft": 12478,
+            "Microchips": 34
+        },
+        "upgradeReqs": {
+            "playerLevel": 8,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.9,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.22
+    },
+    {
+        "id": "Machinegun",
+        "level": 10,
+        "upgradeCost": {
+            "Soft": 21837,
+            "Microchips": 38
+        },
+        "upgradeReqs": {
+            "playerLevel": 9,
+            "paladinType": "Assault"
+        },
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.21
+    },
+    {
+        "id": "Machinegun",
+        "level": 11,
+        "upgradeCost": {
+            "Soft": 38215,
+            "Microchips": 42
+        },
+        "upgradeReqs": {
+            "playerLevel": 10,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.1,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.2
+    },
+    {
+        "id": "Machinegun",
+        "level": 12,
+        "upgradeCost": {
+            "Soft": 43947,
+            "Microchips": 46
+        },
+        "upgradeReqs": {
+            "playerLevel": 11,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.2,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.19
+    },
+    {
+        "id": "Machinegun",
+        "level": 13,
+        "upgradeCost": {
+            "Soft": 50539,
+            "Microchips": 50
+        },
+        "upgradeReqs": {
+            "playerLevel": 12,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.3,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.18
+    },
+    {
+        "id": "Machinegun",
+        "level": 14,
+        "upgradeCost": {
+            "Soft": 58120,
+            "Microchips": 54
+        },
+        "upgradeReqs": {
+            "playerLevel": 13,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.4,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.17
+    },
+    {
+        "id": "Machinegun",
+        "level": 15,
+        "upgradeCost": {
+            "Soft": 66838,
+            "Microchips": 58
+        },
+        "upgradeReqs": {
+            "playerLevel": 14,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.5,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.16
+    },
+    {
+        "id": "Machinegun",
+        "level": 16,
+        "upgradeCost": {
+            "Soft": 76864,
+            "Microchips": 62
+        },
+        "upgradeReqs": {
+            "playerLevel": 14,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.6,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.15
+    },
+    {
+        "id": "Machinegun",
+        "level": 17,
+        "upgradeCost": {
+            "Soft": 84550,
+            "Microchips": 66
+        },
+        "upgradeReqs": {
+            "playerLevel": 16,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.7,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.14
+    },
+    {
+        "id": "Machinegun",
+        "level": 18,
+        "upgradeCost": {
+            "Soft": 93005,
+            "Microchips": 70
+        },
+        "upgradeReqs": {
+            "playerLevel": 17,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.8,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.13
+    },
+    {
+        "id": "Machinegun",
+        "level": 19,
+        "upgradeCost": {
+            "Soft": 102306,
+            "Microchips": 74
+        },
+        "upgradeReqs": {
+            "playerLevel": 18,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.9,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.12
+    },
+    {
+        "id": "Machinegun",
+        "level": 20,
+        "upgradeCost": {
+            "Soft": 112537,
+            "Microchips": 78
+        },
+        "upgradeReqs": {
+            "playerLevel": 19,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 3,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.11
+    },
+    {
+        "id": "Machinegun",
+        "level": 21,
+        "upgradeCost": {
+            "Soft": 123791,
+            "Microchips": 82
+        },
+        "upgradeReqs": {
+            "playerLevel": 20,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.1,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.1
+    },
+    {
+        "id": "Machinegun",
+        "level": 22,
+        "upgradeCost": {
+            "Soft": 129981,
+            "Microchips": 86
+        },
+        "upgradeReqs": {
+            "playerLevel": 21,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.2,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.1
+    },
+    {
+        "id": "Machinegun",
+        "level": 23,
+        "upgradeCost": {
+            "Soft": 136480,
+            "Microchips": 90
+        },
+        "upgradeReqs": {
+            "playerLevel": 22,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.3,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.1
+    },
+    {
+        "id": "Machinegun",
+        "level": 24,
+        "upgradeCost": {
+            "Soft": 143304,
+            "Microchips": 94
+        },
+        "upgradeReqs": {
+            "playerLevel": 23,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.4,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.1
+    },
+    {
+        "id": "Machinegun",
+        "level": 25,
+        "upgradeCost": {
+            "Soft": 150469,
+            "Microchips": 98
+        },
+        "upgradeReqs": {
+            "playerLevel": 24,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.5,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.1
+    },
+    {
+        "id": "Laser",
+        "level": 1,
+        "upgradeReqs": {
+            "playerLevel": 1,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.5
+    },
+    {
+        "id": "Laser",
+        "level": 2,
+        "upgradeCost": {
+            "Soft": 125,
+            "Microchips": 8
+        },
+        "upgradeReqs": {
+            "playerLevel": 1,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.49
+    },
+    {
+        "id": "Laser",
+        "level": 3,
+        "upgradeCost": {
+            "Soft": 194,
+            "Microchips": 13
+        },
+        "upgradeReqs": {
+            "playerLevel": 2,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.48
+    },
+    {
+        "id": "Laser",
+        "level": 4,
+        "upgradeCost": {
+            "Soft": 485,
+            "Microchips": 18
+        },
+        "upgradeReqs": {
+            "playerLevel": 3,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.47
+    },
+    {
+        "id": "Laser",
+        "level": 5,
+        "upgradeCost": {
+            "Soft": 1455,
+            "Microchips": 23
+        },
+        "upgradeReqs": {
+            "playerLevel": 4,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.46
+    },
+    {
+        "id": "Laser",
+        "level": 6,
+        "upgradeCost": {
+            "Soft": 2910,
+            "Microchips": 28
+        },
+        "upgradeReqs": {
+            "playerLevel": 5,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.6,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.45
+    },
+    {
+        "id": "Laser",
+        "level": 7,
+        "upgradeCost": {
+            "Soft": 5093,
+            "Microchips": 33
+        },
+        "upgradeReqs": {
+            "playerLevel": 6,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.7,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.44
+    },
+    {
+        "id": "Laser",
+        "level": 8,
+        "upgradeCost": {
+            "Soft": 8913,
+            "Microchips": 38
+        },
+        "upgradeReqs": {
+            "playerLevel": 7,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.8,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.43
+    },
+    {
+        "id": "Laser",
+        "level": 9,
+        "upgradeCost": {
+            "Soft": 15598,
+            "Microchips": 43
+        },
+        "upgradeReqs": {
+            "playerLevel": 8,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.9,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.42
+    },
+    {
+        "id": "Laser",
+        "level": 10,
+        "upgradeCost": {
+            "Soft": 27297,
+            "Microchips": 48
+        },
+        "upgradeReqs": {
+            "playerLevel": 9,
+            "paladinType": "Assault"
+        },
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.41
+    },
+    {
+        "id": "Laser",
+        "level": 11,
+        "upgradeCost": {
+            "Soft": 47770,
+            "Microchips": 53
+        },
+        "upgradeReqs": {
+            "playerLevel": 10,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.1,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.4
+    },
+    {
+        "id": "Laser",
+        "level": 12,
+        "upgradeCost": {
+            "Soft": 54936,
+            "Microchips": 58
+        },
+        "upgradeReqs": {
+            "playerLevel": 11,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.2,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.39
+    },
+    {
+        "id": "Laser",
+        "level": 13,
+        "upgradeCost": {
+            "Soft": 63176,
+            "Microchips": 63
+        },
+        "upgradeReqs": {
+            "playerLevel": 12,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.3,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.38
+    },
+    {
+        "id": "Laser",
+        "level": 14,
+        "upgradeCost": {
+            "Soft": 72652,
+            "Microchips": 68
+        },
+        "upgradeReqs": {
+            "playerLevel": 13,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.4,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.37
+    },
+    {
+        "id": "Laser",
+        "level": 15,
+        "upgradeCost": {
+            "Soft": 83550,
+            "Microchips": 73
+        },
+        "upgradeReqs": {
+            "playerLevel": 14,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.5,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.36
+    },
+    {
+        "id": "Laser",
+        "level": 16,
+        "upgradeCost": {
+            "Soft": 96083,
+            "Microchips": 78
+        },
+        "upgradeReqs": {
+            "playerLevel": 14,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.6,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.35
+    },
+    {
+        "id": "Laser",
+        "level": 17,
+        "upgradeCost": {
+            "Soft": 105691,
+            "Microchips": 83
+        },
+        "upgradeReqs": {
+            "playerLevel": 16,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.7,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.34
+    },
+    {
+        "id": "Laser",
+        "level": 18,
+        "upgradeCost": {
+            "Soft": 116260,
+            "Microchips": 88
+        },
+        "upgradeReqs": {
+            "playerLevel": 17,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.8,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.33
+    },
+    {
+        "id": "Laser",
+        "level": 19,
+        "upgradeCost": {
+            "Soft": 127886,
+            "Microchips": 93
+        },
+        "upgradeReqs": {
+            "playerLevel": 18,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.9,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.32
+    },
+    {
+        "id": "Laser",
+        "level": 20,
+        "upgradeCost": {
+            "Soft": 140675,
+            "Microchips": 98
+        },
+        "upgradeReqs": {
+            "playerLevel": 19,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 3,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.31
+    },
+    {
+        "id": "Laser",
+        "level": 21,
+        "upgradeCost": {
+            "Soft": 154743,
+            "Microchips": 103
+        },
+        "upgradeReqs": {
+            "playerLevel": 20,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.1,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.3
+    },
+    {
+        "id": "Laser",
+        "level": 22,
+        "upgradeCost": {
+            "Soft": 162480,
+            "Microchips": 108
+        },
+        "upgradeReqs": {
+            "playerLevel": 21,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.2,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.29
+    },
+    {
+        "id": "Laser",
+        "level": 23,
+        "upgradeCost": {
+            "Soft": 170604,
+            "Microchips": 113
+        },
+        "upgradeReqs": {
+            "playerLevel": 22,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.3,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.28
+    },
+    {
+        "id": "Laser",
+        "level": 24,
+        "upgradeCost": {
+            "Soft": 179134,
+            "Microchips": 118
+        },
+        "upgradeReqs": {
+            "playerLevel": 23,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.4,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.27
+    },
+    {
+        "id": "Laser",
+        "level": 25,
+        "upgradeCost": {
+            "Soft": 188091,
+            "Microchips": 123
+        },
+        "upgradeReqs": {
+            "playerLevel": 24,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.5,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.25
+    },
+    {
+        "id": "Cannon",
+        "level": 1,
+        "upgradeReqs": {
+            "playerLevel": 1,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.3
+    },
+    {
+        "id": "Cannon",
+        "level": 2,
+        "upgradeCost": {
+            "Soft": 150,
+            "Microchips": 10
+        },
+        "upgradeReqs": {
+            "playerLevel": 1,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.3
+    },
+    {
+        "id": "Cannon",
+        "level": 3,
+        "upgradeCost": {
+            "Soft": 233,
+            "Microchips": 16
+        },
+        "upgradeReqs": {
+            "playerLevel": 2,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.3
+    },
+    {
+        "id": "Cannon",
+        "level": 4,
+        "upgradeCost": {
+            "Soft": 583,
+            "Microchips": 22
+        },
+        "upgradeReqs": {
+            "playerLevel": 3,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.28
+    },
+    {
+        "id": "Cannon",
+        "level": 5,
+        "upgradeCost": {
+            "Soft": 1749,
+            "Microchips": 28
+        },
+        "upgradeReqs": {
+            "playerLevel": 4,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.28
+    },
+    {
+        "id": "Cannon",
+        "level": 6,
+        "upgradeCost": {
+            "Soft": 3498,
+            "Microchips": 34
+        },
+        "upgradeReqs": {
+            "playerLevel": 5,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.6,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.28
+    },
+    {
+        "id": "Cannon",
+        "level": 7,
+        "upgradeCost": {
+            "Soft": 6122,
+            "Microchips": 40
+        },
+        "upgradeReqs": {
+            "playerLevel": 6,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.7,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.26
+    },
+    {
+        "id": "Cannon",
+        "level": 8,
+        "upgradeCost": {
+            "Soft": 10714,
+            "Microchips": 46
+        },
+        "upgradeReqs": {
+            "playerLevel": 7,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.8,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.26
+    },
+    {
+        "id": "Cannon",
+        "level": 9,
+        "upgradeCost": {
+            "Soft": 18750,
+            "Microchips": 52
+        },
+        "upgradeReqs": {
+            "playerLevel": 8,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.9,
+        "shotConfig": [
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.26
+    },
+    {
+        "id": "Cannon",
+        "level": 10,
+        "upgradeCost": {
+            "Soft": 32813,
+            "Microchips": 58
+        },
+        "upgradeReqs": {
+            "playerLevel": 9,
+            "paladinType": "Assault"
+        },
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.24
+    },
+    {
+        "id": "Cannon",
+        "level": 11,
+        "upgradeCost": {
+            "Soft": 57423,
+            "Microchips": 64
+        },
+        "upgradeReqs": {
+            "playerLevel": 10,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.1,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.24
+    },
+    {
+        "id": "Cannon",
+        "level": 12,
+        "upgradeCost": {
+            "Soft": 66036,
+            "Microchips": 70
+        },
+        "upgradeReqs": {
+            "playerLevel": 11,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.2,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.24
+    },
+    {
+        "id": "Cannon",
+        "level": 13,
+        "upgradeCost": {
+            "Soft": 75941,
+            "Microchips": 76
+        },
+        "upgradeReqs": {
+            "playerLevel": 12,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.3,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.22
+    },
+    {
+        "id": "Cannon",
+        "level": 14,
+        "upgradeCost": {
+            "Soft": 87332,
+            "Microchips": 82
+        },
+        "upgradeReqs": {
+            "playerLevel": 13,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.4,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.22
+    },
+    {
+        "id": "Cannon",
+        "level": 15,
+        "upgradeCost": {
+            "Soft": 100432,
+            "Microchips": 88
+        },
+        "upgradeReqs": {
+            "playerLevel": 14,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.5,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.22
+    },
+    {
+        "id": "Cannon",
+        "level": 16,
+        "upgradeCost": {
+            "Soft": 115497,
+            "Microchips": 94
+        },
+        "upgradeReqs": {
+            "playerLevel": 14,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.6,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.2
+    },
+    {
+        "id": "Cannon",
+        "level": 17,
+        "upgradeCost": {
+            "Soft": 127047,
+            "Microchips": 100
+        },
+        "upgradeReqs": {
+            "playerLevel": 16,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.7,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet2",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.2
+    },
+    {
+        "id": "Cannon",
+        "level": 18,
+        "upgradeCost": {
+            "Soft": 139752,
+            "Microchips": 106
+        },
+        "upgradeReqs": {
+            "playerLevel": 17,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.8,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.2
+    },
+    {
+        "id": "Cannon",
+        "level": 19,
+        "upgradeCost": {
+            "Soft": 153727,
+            "Microchips": 112
+        },
+        "upgradeReqs": {
+            "playerLevel": 18,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.9,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.18
+    },
+    {
+        "id": "Cannon",
+        "level": 20,
+        "upgradeCost": {
+            "Soft": 169100,
+            "Microchips": 118
+        },
+        "upgradeReqs": {
+            "playerLevel": 19,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 3,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.18
+    },
+    {
+        "id": "Cannon",
+        "level": 21,
+        "upgradeCost": {
+            "Soft": 186010,
+            "Microchips": 124
+        },
+        "upgradeReqs": {
+            "playerLevel": 20,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.1,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.18
+    },
+    {
+        "id": "Cannon",
+        "level": 22,
+        "upgradeCost": {
+            "Soft": 195311,
+            "Microchips": 130
+        },
+        "upgradeReqs": {
+            "playerLevel": 21,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.2,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.16
+    },
+    {
+        "id": "Cannon",
+        "level": 23,
+        "upgradeCost": {
+            "Soft": 205077,
+            "Microchips": 136
+        },
+        "upgradeReqs": {
+            "playerLevel": 22,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.3,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.16
+    },
+    {
+        "id": "Cannon",
+        "level": 24,
+        "upgradeCost": {
+            "Soft": 215331,
+            "Microchips": 142
+        },
+        "upgradeReqs": {
+            "playerLevel": 23,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.4,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.16
+    },
+    {
+        "id": "Cannon",
+        "level": 25,
+        "upgradeCost": {
+            "Soft": 226098,
+            "Microchips": 148
+        },
+        "upgradeReqs": {
+            "playerLevel": 24,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.5,
+        "shotConfig": [
+            {
+                "bullet": "Bullet1",
+                "orientation": -15,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet3",
+                "orientation": 0,
+                "movingType": "Forward"
+            },
+            {
+                "bullet": "Bullet1",
+                "orientation": 15,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.16
+    },
+    {
+        "id": "PulseCannon",
+        "level": 1,
+        "upgradeReqs": {
+            "playerLevel": 1,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 2
+    },
+    {
+        "id": "PulseCannon",
+        "level": 2,
+        "upgradeCost": {
+            "Soft": 200,
+            "Microchips": 12
+        },
+        "upgradeReqs": {
+            "playerLevel": 1,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.95
+    },
+    {
+        "id": "PulseCannon",
+        "level": 3,
+        "upgradeCost": {
+            "Soft": 310,
+            "Microchips": 20
+        },
+        "upgradeReqs": {
+            "playerLevel": 2,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.9
+    },
+    {
+        "id": "PulseCannon",
+        "level": 4,
+        "upgradeCost": {
+            "Soft": 775,
+            "Microchips": 28
+        },
+        "upgradeReqs": {
+            "playerLevel": 3,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.85
+    },
+    {
+        "id": "PulseCannon",
+        "level": 5,
+        "upgradeCost": {
+            "Soft": 2325,
+            "Microchips": 36
+        },
+        "upgradeReqs": {
+            "playerLevel": 4,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.8
+    },
+    {
+        "id": "PulseCannon",
+        "level": 6,
+        "upgradeCost": {
+            "Soft": 4650,
+            "Microchips": 44
+        },
+        "upgradeReqs": {
+            "playerLevel": 5,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.6,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.75
+    },
+    {
+        "id": "PulseCannon",
+        "level": 7,
+        "upgradeCost": {
+            "Soft": 8138,
+            "Microchips": 52
+        },
+        "upgradeReqs": {
+            "playerLevel": 6,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.7,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.7
+    },
+    {
+        "id": "PulseCannon",
+        "level": 8,
+        "upgradeCost": {
+            "Soft": 14242,
+            "Microchips": 60
+        },
+        "upgradeReqs": {
+            "playerLevel": 7,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.8,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.65
+    },
+    {
+        "id": "PulseCannon",
+        "level": 9,
+        "upgradeCost": {
+            "Soft": 24924,
+            "Microchips": 68
+        },
+        "upgradeReqs": {
+            "playerLevel": 8,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.9,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.6
+    },
+    {
+        "id": "PulseCannon",
+        "level": 10,
+        "upgradeCost": {
+            "Soft": 43617,
+            "Microchips": 76
+        },
+        "upgradeReqs": {
+            "playerLevel": 9,
+            "paladinType": "Assault"
+        },
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.55
+    },
+    {
+        "id": "PulseCannon",
+        "level": 11,
+        "upgradeCost": {
+            "Soft": 76330,
+            "Microchips": 84
+        },
+        "upgradeReqs": {
+            "playerLevel": 10,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.1,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.5
+    },
+    {
+        "id": "PulseCannon",
+        "level": 12,
+        "upgradeCost": {
+            "Soft": 87780,
+            "Microchips": 92
+        },
+        "upgradeReqs": {
+            "playerLevel": 11,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.2,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.45
+    },
+    {
+        "id": "PulseCannon",
+        "level": 13,
+        "upgradeCost": {
+            "Soft": 100947,
+            "Microchips": 100
+        },
+        "upgradeReqs": {
+            "playerLevel": 12,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.3,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.4
+    },
+    {
+        "id": "PulseCannon",
+        "level": 14,
+        "upgradeCost": {
+            "Soft": 116089,
+            "Microchips": 108
+        },
+        "upgradeReqs": {
+            "playerLevel": 13,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.4,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.35
+    },
+    {
+        "id": "PulseCannon",
+        "level": 15,
+        "upgradeCost": {
+            "Soft": 133502,
+            "Microchips": 116
+        },
+        "upgradeReqs": {
+            "playerLevel": 14,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.5,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.3
+    },
+    {
+        "id": "PulseCannon",
+        "level": 16,
+        "upgradeCost": {
+            "Soft": 153527,
+            "Microchips": 124
+        },
+        "upgradeReqs": {
+            "playerLevel": 14,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.6,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.25
+    },
+    {
+        "id": "PulseCannon",
+        "level": 17,
+        "upgradeCost": {
+            "Soft": 168880,
+            "Microchips": 132
+        },
+        "upgradeReqs": {
+            "playerLevel": 16,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.7,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.2
+    },
+    {
+        "id": "PulseCannon",
+        "level": 18,
+        "upgradeCost": {
+            "Soft": 185768,
+            "Microchips": 140
+        },
+        "upgradeReqs": {
+            "playerLevel": 17,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.8,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.15
+    },
+    {
+        "id": "PulseCannon",
+        "level": 19,
+        "upgradeCost": {
+            "Soft": 204345,
+            "Microchips": 148
+        },
+        "upgradeReqs": {
+            "playerLevel": 18,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.9,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.09999999999999
+    },
+    {
+        "id": "PulseCannon",
+        "level": 20,
+        "upgradeCost": {
+            "Soft": 224780,
+            "Microchips": 156
+        },
+        "upgradeReqs": {
+            "playerLevel": 19,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 3,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.04999999999999
+    },
+    {
+        "id": "PulseCannon",
+        "level": 21,
+        "upgradeCost": {
+            "Soft": 247258,
+            "Microchips": 164
+        },
+        "upgradeReqs": {
+            "playerLevel": 20,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.1,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.999999999999994
+    },
+    {
+        "id": "PulseCannon",
+        "level": 22,
+        "upgradeCost": {
+            "Soft": 259621,
+            "Microchips": 172
+        },
+        "upgradeReqs": {
+            "playerLevel": 21,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.2,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.949999999999994
+    },
+    {
+        "id": "PulseCannon",
+        "level": 23,
+        "upgradeCost": {
+            "Soft": 272602,
+            "Microchips": 180
+        },
+        "upgradeReqs": {
+            "playerLevel": 22,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.3,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.899999999999994
+    },
+    {
+        "id": "PulseCannon",
+        "level": 24,
+        "upgradeCost": {
+            "Soft": 286232,
+            "Microchips": 188
+        },
+        "upgradeReqs": {
+            "playerLevel": 23,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.4,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.849999999999993
+    },
+    {
+        "id": "PulseCannon",
+        "level": 25,
+        "upgradeCost": {
+            "Soft": 300544,
+            "Microchips": 196
+        },
+        "upgradeReqs": {
+            "playerLevel": 24,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.5,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.799999999999993
+    },
+    {
+        "id": "ShockCannon",
+        "level": 1,
+        "upgradeReqs": {
+            "playerLevel": 1,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1
+    },
+    {
+        "id": "ShockCannon",
+        "level": 2,
+        "upgradeCost": {
+            "Soft": 225,
+            "Microchips": 14
+        },
+        "upgradeReqs": {
+            "playerLevel": 1,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.99
+    },
+    {
+        "id": "ShockCannon",
+        "level": 3,
+        "upgradeCost": {
+            "Soft": 349,
+            "Microchips": 24
+        },
+        "upgradeReqs": {
+            "playerLevel": 2,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.98
+    },
+    {
+        "id": "ShockCannon",
+        "level": 4,
+        "upgradeCost": {
+            "Soft": 873,
+            "Microchips": 34
+        },
+        "upgradeReqs": {
+            "playerLevel": 3,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.97
+    },
+    {
+        "id": "ShockCannon",
+        "level": 5,
+        "upgradeCost": {
+            "Soft": 2619,
+            "Microchips": 44
+        },
+        "upgradeReqs": {
+            "playerLevel": 4,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.96
+    },
+    {
+        "id": "ShockCannon",
+        "level": 6,
+        "upgradeCost": {
+            "Soft": 5238,
+            "Microchips": 54
+        },
+        "upgradeReqs": {
+            "playerLevel": 5,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.6,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.95
+    },
+    {
+        "id": "ShockCannon",
+        "level": 7,
+        "upgradeCost": {
+            "Soft": 9167,
+            "Microchips": 64
+        },
+        "upgradeReqs": {
+            "playerLevel": 6,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.7,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.94
+    },
+    {
+        "id": "ShockCannon",
+        "level": 8,
+        "upgradeCost": {
+            "Soft": 16042,
+            "Microchips": 74
+        },
+        "upgradeReqs": {
+            "playerLevel": 7,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.8,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.93
+    },
+    {
+        "id": "ShockCannon",
+        "level": 9,
+        "upgradeCost": {
+            "Soft": 28074,
+            "Microchips": 84
+        },
+        "upgradeReqs": {
+            "playerLevel": 8,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.9,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.92
+    },
+    {
+        "id": "ShockCannon",
+        "level": 10,
+        "upgradeCost": {
+            "Soft": 49130,
+            "Microchips": 94
+        },
+        "upgradeReqs": {
+            "playerLevel": 9,
+            "paladinType": "Assault"
+        },
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.91
+    },
+    {
+        "id": "ShockCannon",
+        "level": 11,
+        "upgradeCost": {
+            "Soft": 85978,
+            "Microchips": 104
+        },
+        "upgradeReqs": {
+            "playerLevel": 10,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.1,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.9
+    },
+    {
+        "id": "ShockCannon",
+        "level": 12,
+        "upgradeCost": {
+            "Soft": 98875,
+            "Microchips": 114
+        },
+        "upgradeReqs": {
+            "playerLevel": 11,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.2,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.89
+    },
+    {
+        "id": "ShockCannon",
+        "level": 13,
+        "upgradeCost": {
+            "Soft": 113706,
+            "Microchips": 124
+        },
+        "upgradeReqs": {
+            "playerLevel": 12,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.3,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.88
+    },
+    {
+        "id": "ShockCannon",
+        "level": 14,
+        "upgradeCost": {
+            "Soft": 130762,
+            "Microchips": 134
+        },
+        "upgradeReqs": {
+            "playerLevel": 13,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.4,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.87
+    },
+    {
+        "id": "ShockCannon",
+        "level": 15,
+        "upgradeCost": {
+            "Soft": 150376,
+            "Microchips": 144
+        },
+        "upgradeReqs": {
+            "playerLevel": 14,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.5,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.86
+    },
+    {
+        "id": "ShockCannon",
+        "level": 16,
+        "upgradeCost": {
+            "Soft": 172932,
+            "Microchips": 154
+        },
+        "upgradeReqs": {
+            "playerLevel": 14,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.6,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.85
+    },
+    {
+        "id": "ShockCannon",
+        "level": 17,
+        "upgradeCost": {
+            "Soft": 190225,
+            "Microchips": 164
+        },
+        "upgradeReqs": {
+            "playerLevel": 16,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.7,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.84
+    },
+    {
+        "id": "ShockCannon",
+        "level": 18,
+        "upgradeCost": {
+            "Soft": 209248,
+            "Microchips": 174
+        },
+        "upgradeReqs": {
+            "playerLevel": 17,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.8,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.83
+    },
+    {
+        "id": "ShockCannon",
+        "level": 19,
+        "upgradeCost": {
+            "Soft": 230173,
+            "Microchips": 184
+        },
+        "upgradeReqs": {
+            "playerLevel": 18,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.9,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.82
+    },
+    {
+        "id": "ShockCannon",
+        "level": 20,
+        "upgradeCost": {
+            "Soft": 253190,
+            "Microchips": 194
+        },
+        "upgradeReqs": {
+            "playerLevel": 19,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 3,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.81
+    },
+    {
+        "id": "ShockCannon",
+        "level": 21,
+        "upgradeCost": {
+            "Soft": 278509,
+            "Microchips": 204
+        },
+        "upgradeReqs": {
+            "playerLevel": 20,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.1,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.8
+    },
+    {
+        "id": "ShockCannon",
+        "level": 22,
+        "upgradeCost": {
+            "Soft": 292434,
+            "Microchips": 214
+        },
+        "upgradeReqs": {
+            "playerLevel": 21,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.2,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.79
+    },
+    {
+        "id": "ShockCannon",
+        "level": 23,
+        "upgradeCost": {
+            "Soft": 307056,
+            "Microchips": 224
+        },
+        "upgradeReqs": {
+            "playerLevel": 22,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.3,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.78
+    },
+    {
+        "id": "ShockCannon",
+        "level": 24,
+        "upgradeCost": {
+            "Soft": 322409,
+            "Microchips": 234
+        },
+        "upgradeReqs": {
+            "playerLevel": 23,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.4,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.77
+    },
+    {
+        "id": "ShockCannon",
+        "level": 25,
+        "upgradeCost": {
+            "Soft": 338529,
+            "Microchips": 244
+        },
+        "upgradeReqs": {
+            "playerLevel": 24,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.5,
+        "shotConfig": [
+            {
+                "bullet": "PulseShell2",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 0.75
+    },
+    {
+        "id": "WaveCannon",
+        "level": 1,
+        "upgradeReqs": {
+            "playerLevel": 1,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.5
+    },
+    {
+        "id": "WaveCannon",
+        "level": 2,
+        "upgradeCost": {
+            "Soft": 250,
+            "Microchips": 16
+        },
+        "upgradeReqs": {
+            "playerLevel": 1,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.49
+    },
+    {
+        "id": "WaveCannon",
+        "level": 3,
+        "upgradeCost": {
+            "Soft": 388,
+            "Microchips": 28
+        },
+        "upgradeReqs": {
+            "playerLevel": 2,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.48
+    },
+    {
+        "id": "WaveCannon",
+        "level": 4,
+        "upgradeCost": {
+            "Soft": 970,
+            "Microchips": 40
+        },
+        "upgradeReqs": {
+            "playerLevel": 3,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.47
+    },
+    {
+        "id": "WaveCannon",
+        "level": 5,
+        "upgradeCost": {
+            "Soft": 2910,
+            "Microchips": 52
+        },
+        "upgradeReqs": {
+            "playerLevel": 4,
+            "paladinType": "Ranger"
+        },
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.46
+    },
+    {
+        "id": "WaveCannon",
+        "level": 6,
+        "upgradeCost": {
+            "Soft": 5820,
+            "Microchips": 64
+        },
+        "upgradeReqs": {
+            "playerLevel": 5,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.6,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.45
+    },
+    {
+        "id": "WaveCannon",
+        "level": 7,
+        "upgradeCost": {
+            "Soft": 10185,
+            "Microchips": 76
+        },
+        "upgradeReqs": {
+            "playerLevel": 6,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.7,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.44
+    },
+    {
+        "id": "WaveCannon",
+        "level": 8,
+        "upgradeCost": {
+            "Soft": 17824,
+            "Microchips": 88
+        },
+        "upgradeReqs": {
+            "playerLevel": 7,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.8,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.43
+    },
+    {
+        "id": "WaveCannon",
+        "level": 9,
+        "upgradeCost": {
+            "Soft": 31192,
+            "Microchips": 100
+        },
+        "upgradeReqs": {
+            "playerLevel": 8,
+            "paladinType": "Assault"
+        },
+        "multiplier": 1.9,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.42
+    },
+    {
+        "id": "WaveCannon",
+        "level": 10,
+        "upgradeCost": {
+            "Soft": 54586,
+            "Microchips": 112
+        },
+        "upgradeReqs": {
+            "playerLevel": 9,
+            "paladinType": "Assault"
+        },
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.41
+    },
+    {
+        "id": "WaveCannon",
+        "level": 11,
+        "upgradeCost": {
+            "Soft": 95526,
+            "Microchips": 124
+        },
+        "upgradeReqs": {
+            "playerLevel": 10,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.1,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.4
+    },
+    {
+        "id": "WaveCannon",
+        "level": 12,
+        "upgradeCost": {
+            "Soft": 109855,
+            "Microchips": 136
+        },
+        "upgradeReqs": {
+            "playerLevel": 11,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.2,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.39
+    },
+    {
+        "id": "WaveCannon",
+        "level": 13,
+        "upgradeCost": {
+            "Soft": 126333,
+            "Microchips": 148
+        },
+        "upgradeReqs": {
+            "playerLevel": 12,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.3,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.38
+    },
+    {
+        "id": "WaveCannon",
+        "level": 14,
+        "upgradeCost": {
+            "Soft": 145283,
+            "Microchips": 160
+        },
+        "upgradeReqs": {
+            "playerLevel": 13,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.4,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.37
+    },
+    {
+        "id": "WaveCannon",
+        "level": 15,
+        "upgradeCost": {
+            "Soft": 167075,
+            "Microchips": 172
+        },
+        "upgradeReqs": {
+            "playerLevel": 14,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 2.5,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.36
+    },
+    {
+        "id": "WaveCannon",
+        "level": 16,
+        "upgradeCost": {
+            "Soft": 192136,
+            "Microchips": 184
+        },
+        "upgradeReqs": {
+            "playerLevel": 14,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.6,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.35
+    },
+    {
+        "id": "WaveCannon",
+        "level": 17,
+        "upgradeCost": {
+            "Soft": 211350,
+            "Microchips": 196
+        },
+        "upgradeReqs": {
+            "playerLevel": 16,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.7,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.34
+    },
+    {
+        "id": "WaveCannon",
+        "level": 18,
+        "upgradeCost": {
+            "Soft": 232485,
+            "Microchips": 208
+        },
+        "upgradeReqs": {
+            "playerLevel": 17,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.8,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.33
+    },
+    {
+        "id": "WaveCannon",
+        "level": 19,
+        "upgradeCost": {
+            "Soft": 255734,
+            "Microchips": 220
+        },
+        "upgradeReqs": {
+            "playerLevel": 18,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2.9,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.32
+    },
+    {
+        "id": "WaveCannon",
+        "level": 20,
+        "upgradeCost": {
+            "Soft": 281307,
+            "Microchips": 232
+        },
+        "upgradeReqs": {
+            "playerLevel": 19,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 3,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.31
+    },
+    {
+        "id": "WaveCannon",
+        "level": 21,
+        "upgradeCost": {
+            "Soft": 309438,
+            "Microchips": 244
+        },
+        "upgradeReqs": {
+            "playerLevel": 20,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.1,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.3
+    },
+    {
+        "id": "WaveCannon",
+        "level": 22,
+        "upgradeCost": {
+            "Soft": 324910,
+            "Microchips": 256
+        },
+        "upgradeReqs": {
+            "playerLevel": 21,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.2,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.29
+    },
+    {
+        "id": "WaveCannon",
+        "level": 23,
+        "upgradeCost": {
+            "Soft": 341156,
+            "Microchips": 268
+        },
+        "upgradeReqs": {
+            "playerLevel": 22,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.3,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.28
+    },
+    {
+        "id": "WaveCannon",
+        "level": 24,
+        "upgradeCost": {
+            "Soft": 358214,
+            "Microchips": 280
+        },
+        "upgradeReqs": {
+            "playerLevel": 23,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.4,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.27
+    },
+    {
+        "id": "WaveCannon",
+        "level": 25,
+        "upgradeCost": {
+            "Soft": 376125,
+            "Microchips": 292
+        },
+        "upgradeReqs": {
+            "playerLevel": 24,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 3.5,
+        "shotConfig": [
+            {
+                "bullet": "ShockWaves1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.25
+    },
+    {
+        "id": "PlasmaCannon",
+        "level": 1,
+        "upgradeReqs": {
+            "playerLevel": 10,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 1,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 2
+    },
+    {
+        "id": "PlasmaCannon",
+        "level": 2,
+        "upgradeCost": {
+            "Soft": 110000,
+            "Microchips": 100
+        },
+        "upgradeReqs": {
+            "playerLevel": 11,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.95
+    },
+    {
+        "id": "PlasmaCannon",
+        "level": 3,
+        "upgradeCost": {
+            "Soft": 126500,
+            "Microchips": 115
+        },
+        "upgradeReqs": {
+            "playerLevel": 12,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.9
+    },
+    {
+        "id": "PlasmaCannon",
+        "level": 4,
+        "upgradeCost": {
+            "Soft": 145475,
+            "Microchips": 130
+        },
+        "upgradeReqs": {
+            "playerLevel": 13,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.85
+    },
+    {
+        "id": "PlasmaCannon",
+        "level": 5,
+        "upgradeCost": {
+            "Soft": 167296,
+            "Microchips": 145
+        },
+        "upgradeReqs": {
+            "playerLevel": 14,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.8
+    },
+    {
+        "id": "PlasmaCannon",
+        "level": 6,
+        "upgradeCost": {
+            "Soft": 192390,
+            "Microchips": 160
+        },
+        "upgradeReqs": {
+            "playerLevel": 14,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 1.6,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.75
+    },
+    {
+        "id": "PlasmaCannon",
+        "level": 7,
+        "upgradeCost": {
+            "Soft": 211629,
+            "Microchips": 175
+        },
+        "upgradeReqs": {
+            "playerLevel": 16,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 1.7,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.7
+    },
+    {
+        "id": "PlasmaCannon",
+        "level": 8,
+        "upgradeCost": {
+            "Soft": 232792,
+            "Microchips": 190
+        },
+        "upgradeReqs": {
+            "playerLevel": 17,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 1.8,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.65
+    },
+    {
+        "id": "PlasmaCannon",
+        "level": 9,
+        "upgradeCost": {
+            "Soft": 256071,
+            "Microchips": 205
+        },
+        "upgradeReqs": {
+            "playerLevel": 18,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 1.9,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.6
+    },
+    {
+        "id": "PlasmaCannon",
+        "level": 10,
+        "upgradeCost": {
+            "Soft": 281678,
+            "Microchips": 220
+        },
+        "upgradeReqs": {
+            "playerLevel": 19,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.55
+    },
+    {
+        "id": "PlasmaCannon",
+        "level": 11,
+        "upgradeCost": {
+            "Soft": 309846,
+            "Microchips": 235
+        },
+        "upgradeReqs": {
+            "playerLevel": 20,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2.1,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.5
+    },
+    {
+        "id": "PlasmaCannon",
+        "level": 12,
+        "upgradeCost": {
+            "Soft": 325338,
+            "Microchips": 250
+        },
+        "upgradeReqs": {
+            "playerLevel": 21,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2.2,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.45
+    },
+    {
+        "id": "PlasmaCannon",
+        "level": 13,
+        "upgradeCost": {
+            "Soft": 341605,
+            "Microchips": 265
+        },
+        "upgradeReqs": {
+            "playerLevel": 22,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2.3,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.4
+    },
+    {
+        "id": "PlasmaCannon",
+        "level": 14,
+        "upgradeCost": {
+            "Soft": 358685,
+            "Microchips": 280
+        },
+        "upgradeReqs": {
+            "playerLevel": 23,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2.4,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.35
+    },
+    {
+        "id": "PlasmaCannon",
+        "level": 15,
+        "upgradeCost": {
+            "Soft": 376619,
+            "Microchips": 295
+        },
+        "upgradeReqs": {
+            "playerLevel": 24,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2.5,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBall1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 1.3
+    },
+    {
+        "id": "BoloCannon",
+        "level": 1,
+        "upgradeReqs": {
+            "playerLevel": 10,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 1,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 5
+    },
+    {
+        "id": "BoloCannon",
+        "level": 2,
+        "upgradeCost": {
+            "Soft": 109855,
+            "Microchips": 110
+        },
+        "upgradeReqs": {
+            "playerLevel": 11,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 4.75
+    },
+    {
+        "id": "BoloCannon",
+        "level": 3,
+        "upgradeCost": {
+            "Soft": 126333,
+            "Microchips": 125
+        },
+        "upgradeReqs": {
+            "playerLevel": 12,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 4.5
+    },
+    {
+        "id": "BoloCannon",
+        "level": 4,
+        "upgradeCost": {
+            "Soft": 145283,
+            "Microchips": 140
+        },
+        "upgradeReqs": {
+            "playerLevel": 13,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 4.25
+    },
+    {
+        "id": "BoloCannon",
+        "level": 5,
+        "upgradeCost": {
+            "Soft": 167075,
+            "Microchips": 155
+        },
+        "upgradeReqs": {
+            "playerLevel": 14,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 4
+    },
+    {
+        "id": "BoloCannon",
+        "level": 6,
+        "upgradeCost": {
+            "Soft": 192136,
+            "Microchips": 170
+        },
+        "upgradeReqs": {
+            "playerLevel": 14,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 1.6,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 3.75
+    },
+    {
+        "id": "BoloCannon",
+        "level": 7,
+        "upgradeCost": {
+            "Soft": 211350,
+            "Microchips": 185
+        },
+        "upgradeReqs": {
+            "playerLevel": 16,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 1.7,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 3.5
+    },
+    {
+        "id": "BoloCannon",
+        "level": 8,
+        "upgradeCost": {
+            "Soft": 232485,
+            "Microchips": 200
+        },
+        "upgradeReqs": {
+            "playerLevel": 17,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 1.8,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 3.25
+    },
+    {
+        "id": "BoloCannon",
+        "level": 9,
+        "upgradeCost": {
+            "Soft": 255734,
+            "Microchips": 215
+        },
+        "upgradeReqs": {
+            "playerLevel": 18,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 1.9,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 3
+    },
+    {
+        "id": "BoloCannon",
+        "level": 10,
+        "upgradeCost": {
+            "Soft": 281307,
+            "Microchips": 230
+        },
+        "upgradeReqs": {
+            "playerLevel": 19,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 2.75
+    },
+    {
+        "id": "BoloCannon",
+        "level": 11,
+        "upgradeCost": {
+            "Soft": 309438,
+            "Microchips": 245
+        },
+        "upgradeReqs": {
+            "playerLevel": 20,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2.1,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 2.5
+    },
+    {
+        "id": "BoloCannon",
+        "level": 12,
+        "upgradeCost": {
+            "Soft": 324910,
+            "Microchips": 260
+        },
+        "upgradeReqs": {
+            "playerLevel": 21,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2.2,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 2.5
+    },
+    {
+        "id": "BoloCannon",
+        "level": 13,
+        "upgradeCost": {
+            "Soft": 341156,
+            "Microchips": 275
+        },
+        "upgradeReqs": {
+            "playerLevel": 22,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2.3,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 2.5
+    },
+    {
+        "id": "BoloCannon",
+        "level": 14,
+        "upgradeCost": {
+            "Soft": 358214,
+            "Microchips": 290
+        },
+        "upgradeReqs": {
+            "playerLevel": 23,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2.4,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 2.5
+    },
+    {
+        "id": "BoloCannon",
+        "level": 15,
+        "upgradeCost": {
+            "Soft": 376125,
+            "Microchips": 305
+        },
+        "upgradeReqs": {
+            "playerLevel": 24,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2.5,
+        "shotConfig": [
+            {
+                "bullet": "PlasmaBolo1",
+                "orientation": 0,
+                "movingType": "Forward"
+            }
+        ],
+        "reloadTime": 2.5
+    },
+    {
+        "id": "Missile",
+        "level": 1,
+        "upgradeReqs": {
+            "playerLevel": 10,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 1,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "Arc",
+                "angleSpeed": 10
+            }
+        ],
+        "reloadTime": 1.5
+    },
+    {
+        "id": "Missile",
+        "level": 2,
+        "upgradeCost": {
+            "Soft": 109855,
+            "Microchips": 120
+        },
+        "upgradeReqs": {
+            "playerLevel": 11,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "Arc",
+                "angleSpeed": 10
+            }
+        ],
+        "reloadTime": 1.4
+    },
+    {
+        "id": "Missile",
+        "level": 3,
+        "upgradeCost": {
+            "Soft": 126333,
+            "Microchips": 135
+        },
+        "upgradeReqs": {
+            "playerLevel": 12,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "Arc",
+                "angleSpeed": 10
+            }
+        ],
+        "reloadTime": 1.3
+    },
+    {
+        "id": "Missile",
+        "level": 4,
+        "upgradeCost": {
+            "Soft": 145283,
+            "Microchips": 150
+        },
+        "upgradeReqs": {
+            "playerLevel": 13,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "Arc",
+                "angleSpeed": 10
+            }
+        ],
+        "reloadTime": 1.2
+    },
+    {
+        "id": "Missile",
+        "level": 5,
+        "upgradeCost": {
+            "Soft": 167075,
+            "Microchips": 165
+        },
+        "upgradeReqs": {
+            "playerLevel": 14,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "Arc",
+                "angleSpeed": 10
+            }
+        ],
+        "reloadTime": 1.1
+    },
+    {
+        "id": "Missile",
+        "level": 6,
+        "upgradeCost": {
+            "Soft": 192136,
+            "Microchips": 180
+        },
+        "upgradeReqs": {
+            "playerLevel": 14,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 1.6,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "Arc",
+                "angleSpeed": 10
+            }
+        ],
+        "reloadTime": 1
+    },
+    {
+        "id": "Missile",
+        "level": 7,
+        "upgradeCost": {
+            "Soft": 211350,
+            "Microchips": 195
+        },
+        "upgradeReqs": {
+            "playerLevel": 16,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 1.7,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "Arc",
+                "angleSpeed": 10
+            }
+        ],
+        "reloadTime": 0.95
+    },
+    {
+        "id": "Missile",
+        "level": 8,
+        "upgradeCost": {
+            "Soft": 232485,
+            "Microchips": 210
+        },
+        "upgradeReqs": {
+            "playerLevel": 17,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 1.8,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "Arc",
+                "angleSpeed": 10
+            }
+        ],
+        "reloadTime": 0.9
+    },
+    {
+        "id": "Missile",
+        "level": 9,
+        "upgradeCost": {
+            "Soft": 255734,
+            "Microchips": 225
+        },
+        "upgradeReqs": {
+            "playerLevel": 18,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 1.9,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": 0,
+                "movingType": "Arc",
+                "angleSpeed": 10
+            }
+        ],
+        "reloadTime": 0.85
+    },
+    {
+        "id": "Missile",
+        "level": 10,
+        "upgradeCost": {
+            "Soft": 281307,
+            "Microchips": 240
+        },
+        "upgradeReqs": {
+            "playerLevel": 19,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": -10,
+                "movingType": "Arc",
+                "angleSpeed": -10
+            },
+            {
+                "bullet": "Missile1",
+                "orientation": 10,
+                "movingType": "Arc",
+                "angleSpeed": 10
+            }
+        ],
+        "reloadTime": 0.8
+    },
+    {
+        "id": "Missile",
+        "level": 11,
+        "upgradeCost": {
+            "Soft": 309438,
+            "Microchips": 255
+        },
+        "upgradeReqs": {
+            "playerLevel": 20,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2.1,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": -10,
+                "movingType": "Arc",
+                "angleSpeed": -10
+            },
+            {
+                "bullet": "Missile1",
+                "orientation": 10,
+                "movingType": "Arc",
+                "angleSpeed": 10
+            }
+        ],
+        "reloadTime": 0.75
+    },
+    {
+        "id": "Missile",
+        "level": 12,
+        "upgradeCost": {
+            "Soft": 324910,
+            "Microchips": 270
+        },
+        "upgradeReqs": {
+            "playerLevel": 21,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2.2,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": -10,
+                "movingType": "Arc",
+                "angleSpeed": -10
+            },
+            {
+                "bullet": "Missile1",
+                "orientation": 10,
+                "movingType": "Arc",
+                "angleSpeed": 10
+            }
+        ],
+        "reloadTime": 0.7
+    },
+    {
+        "id": "Missile",
+        "level": 13,
+        "upgradeCost": {
+            "Soft": 341156,
+            "Microchips": 285
+        },
+        "upgradeReqs": {
+            "playerLevel": 22,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2.3,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": -10,
+                "movingType": "Arc",
+                "angleSpeed": -10
+            },
+            {
+                "bullet": "Missile1",
+                "orientation": 10,
+                "movingType": "Arc",
+                "angleSpeed": 10
+            }
+        ],
+        "reloadTime": 0.65
+    },
+    {
+        "id": "Missile",
+        "level": 14,
+        "upgradeCost": {
+            "Soft": 358214,
+            "Microchips": 300
+        },
+        "upgradeReqs": {
+            "playerLevel": 23,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2.4,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": -10,
+                "movingType": "Arc",
+                "angleSpeed": -10
+            },
+            {
+                "bullet": "Missile1",
+                "orientation": 10,
+                "movingType": "Arc",
+                "angleSpeed": 10
+            }
+        ],
+        "reloadTime": 0.6
+    },
+    {
+        "id": "Missile",
+        "level": 15,
+        "upgradeCost": {
+            "Soft": 376125,
+            "Microchips": 315
+        },
+        "upgradeReqs": {
+            "playerLevel": 24,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2.5,
+        "shotConfig": [
+            {
+                "bullet": "Missile1",
+                "orientation": -10,
+                "movingType": "Arc",
+                "angleSpeed": -10
+            },
+            {
+                "bullet": "Missile1",
+                "orientation": 10,
+                "movingType": "Arc",
+                "angleSpeed": 10
+            }
+        ],
+        "reloadTime": 0.5
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 1,
+        "upgradeReqs": {
+            "playerLevel": 10,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 1,
+        "shotConfig": [
+            {
+                "bullet": "Grenade1",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "reloadTime": 0.75
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 2,
+        "upgradeCost": {
+            "Soft": 109855,
+            "Microchips": 130
+        },
+        "upgradeReqs": {
+            "playerLevel": 11,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 1.2,
+        "shotConfig": [
+            {
+                "bullet": "Grenade1",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "reloadTime": 0.7
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 3,
+        "upgradeCost": {
+            "Soft": 126333,
+            "Microchips": 145
+        },
+        "upgradeReqs": {
+            "playerLevel": 12,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 1.3,
+        "shotConfig": [
+            {
+                "bullet": "Grenade1",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "reloadTime": 0.65
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 4,
+        "upgradeCost": {
+            "Soft": 145283,
+            "Microchips": 160
+        },
+        "upgradeReqs": {
+            "playerLevel": 13,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 1.4,
+        "shotConfig": [
+            {
+                "bullet": "Grenade1",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "reloadTime": 0.6
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 5,
+        "upgradeCost": {
+            "Soft": 167075,
+            "Microchips": 175
+        },
+        "upgradeReqs": {
+            "playerLevel": 14,
+            "paladinType": "Peacemaker"
+        },
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "Grenade1",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "reloadTime": 0.55
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 6,
+        "upgradeCost": {
+            "Soft": 192136,
+            "Microchips": 190
+        },
+        "upgradeReqs": {
+            "playerLevel": 14,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 1.6,
+        "shotConfig": [
+            {
+                "bullet": "Grenade1",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "reloadTime": 0.5
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 7,
+        "upgradeCost": {
+            "Soft": 211350,
+            "Microchips": 205
+        },
+        "upgradeReqs": {
+            "playerLevel": 16,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 1.7,
+        "shotConfig": [
+            {
+                "bullet": "Grenade1",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "reloadTime": 0.475
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 8,
+        "upgradeCost": {
+            "Soft": 232485,
+            "Microchips": 220
+        },
+        "upgradeReqs": {
+            "playerLevel": 17,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 1.8,
+        "shotConfig": [
+            {
+                "bullet": "Grenade1",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "reloadTime": 0.45
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 9,
+        "upgradeCost": {
+            "Soft": 255734,
+            "Microchips": 235
+        },
+        "upgradeReqs": {
+            "playerLevel": 18,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 1.9,
+        "shotConfig": [
+            {
+                "bullet": "Grenade1",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "reloadTime": 0.425
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 10,
+        "upgradeCost": {
+            "Soft": 281307,
+            "Microchips": 250
+        },
+        "upgradeReqs": {
+            "playerLevel": 19,
+            "paladinType": "Crusader"
+        },
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "Grenade2",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "reloadTime": 0.4
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 11,
+        "upgradeCost": {
+            "Soft": 309438,
+            "Microchips": 265
+        },
+        "upgradeReqs": {
+            "playerLevel": 20,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2.1,
+        "shotConfig": [
+            {
+                "bullet": "Grenade2",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "reloadTime": 0.375
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 12,
+        "upgradeCost": {
+            "Soft": 324910,
+            "Microchips": 280
+        },
+        "upgradeReqs": {
+            "playerLevel": 21,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2.2,
+        "shotConfig": [
+            {
+                "bullet": "Grenade2",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "reloadTime": 0.35
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 13,
+        "upgradeCost": {
+            "Soft": 341156,
+            "Microchips": 295
+        },
+        "upgradeReqs": {
+            "playerLevel": 22,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2.3,
+        "shotConfig": [
+            {
+                "bullet": "Grenade2",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "reloadTime": 0.325
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 14,
+        "upgradeCost": {
+            "Soft": 358214,
+            "Microchips": 310
+        },
+        "upgradeReqs": {
+            "playerLevel": 23,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2.4,
+        "shotConfig": [
+            {
+                "bullet": "Grenade2",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "reloadTime": 0.3
+    },
+    {
+        "id": "GrenadeLauncher",
+        "level": 15,
+        "upgradeCost": {
+            "Soft": 376125,
+            "Microchips": 325
+        },
+        "upgradeReqs": {
+            "playerLevel": 24,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2.5,
+        "shotConfig": [
+            {
+                "bullet": "Grenade2",
+                "orientation": 0,
+                "movingType": "Parabolic"
+            }
+        ],
+        "reloadTime": 0.275
+    },
+    {
+        "id": "MissileSystem",
+        "level": 1,
+        "upgradeReqs": {
+            "playerLevel": 20,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 1,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 25,
+                "aimingAngle": 180,
+                "detectingRadius": 40
+            }
+        ],
+        "reloadTime": 2
+    },
+    {
+        "id": "MissileSystem",
+        "level": 2,
+        "upgradeCost": {
+            "Soft": 324910,
+            "Microchips": 300
+        },
+        "upgradeReqs": {
+            "playerLevel": 21,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 1.25,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 35,
+                "aimingAngle": 200,
+                "detectingRadius": 50
+            }
+        ],
+        "reloadTime": 1.75
+    },
+    {
+        "id": "MissileSystem",
+        "level": 3,
+        "upgradeCost": {
+            "Soft": 341156,
+            "Microchips": 350
+        },
+        "upgradeReqs": {
+            "playerLevel": 22,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 45,
+                "aimingAngle": 240,
+                "detectingRadius": 60
+            }
+        ],
+        "reloadTime": 1.5
+    },
+    {
+        "id": "MissileSystem",
+        "level": 4,
+        "upgradeCost": {
+            "Soft": 358214,
+            "Microchips": 400
+        },
+        "upgradeReqs": {
+            "playerLevel": 23,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 1.75,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 55,
+                "aimingAngle": 300,
+                "detectingRadius": 70
+            }
+        ],
+        "reloadTime": 1.25
+    },
+    {
+        "id": "MissileSystem",
+        "level": 5,
+        "upgradeCost": {
+            "Soft": 376125,
+            "Microchips": 450
+        },
+        "upgradeReqs": {
+            "playerLevel": 24,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 60,
+                "aimingAngle": 360,
+                "detectingRadius": 80
+            }
+        ],
+        "reloadTime": 1
+    },
+    {
+        "id": "RocketLauncher",
+        "level": 1,
+        "upgradeReqs": {
+            "playerLevel": 20,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 1,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 25,
+                "aimingAngle": 40,
+                "detectingRadius": 40
+            }
+        ],
+        "reloadTime": 0.75
+    },
+    {
+        "id": "RocketLauncher",
+        "level": 2,
+        "upgradeCost": {
+            "Soft": 324910,
+            "Microchips": 330
+        },
+        "upgradeReqs": {
+            "playerLevel": 21,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 1.25,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 35,
+                "aimingAngle": 45,
+                "detectingRadius": 50
+            }
+        ],
+        "reloadTime": 0.65
+    },
+    {
+        "id": "RocketLauncher",
+        "level": 3,
+        "upgradeCost": {
+            "Soft": 341156,
+            "Microchips": 390
+        },
+        "upgradeReqs": {
+            "playerLevel": 22,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 1.5,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 45,
+                "aimingAngle": 50,
+                "detectingRadius": 60
+            }
+        ],
+        "reloadTime": 0.55
+    },
+    {
+        "id": "RocketLauncher",
+        "level": 4,
+        "upgradeCost": {
+            "Soft": 358214,
+            "Microchips": 450
+        },
+        "upgradeReqs": {
+            "playerLevel": 23,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 1.75,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 55,
+                "aimingAngle": 55,
+                "detectingRadius": 70
+            }
+        ],
+        "reloadTime": 0.5
+    },
+    {
+        "id": "RocketLauncher",
+        "level": 5,
+        "upgradeCost": {
+            "Soft": 376125,
+            "Microchips": 510
+        },
+        "upgradeReqs": {
+            "playerLevel": 24,
+            "paladinType": "Juggernaut"
+        },
+        "multiplier": 2,
+        "shotConfig": [
+            {
+                "bullet": "CruiseMissile1",
+                "orientation": 0,
+                "movingType": "Aiming",
+                "angleSpeed": 65,
+                "aimingAngle": 60,
+                "detectingRadius": 80
+            }
+        ],
+        "reloadTime": 0.5
+    }
+]

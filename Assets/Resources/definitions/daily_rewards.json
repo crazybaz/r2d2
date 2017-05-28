@@ -1,0 +1,82 @@
+[
+    {
+        "day": 1,
+        "prize": {
+            "Hard": 2,
+            "Possibility": 100
+        }
+    },
+    {
+        "day": 2,
+        "prize": {
+            "Hard": 5,
+            "Possibility": 100
+        }
+    },
+    {
+        "day": 3,
+        "prize": {
+            "Hard": 10,
+            "Possibility": 100
+        }
+    },
+    {
+        "day": 4,
+        "prize": {
+            "Hard": 25,
+            "Possibility": 100
+        }
+    },
+    {
+        "day": 5,
+        "prize": {
+            "Hard": 50,
+            "Possibility": 100
+        }
+    },
+    {
+        "day": 6,
+        "prize": [
+            {
+                "Hard": 50,
+                "Possibility": 100
+            },
+            {
+                "Hard": 10,
+                "Possibility": 10
+            },
+            {
+                "Soft": 300,
+                "Possibility": 25
+            },
+            {
+                "EnergyPach": 10,
+                "Possibility": 10
+            },
+            {
+                "Microchips": 10,
+                "Possibility": 10
+            },
+            {
+                "ArmorPlates": 10,
+                "Possibility": 10
+            },
+            {
+                "Springs": 10,
+                "Possibility": 10
+            },
+            {
+                "Shell": 10,
+                "Possibility": 10
+            },
+            {
+                "Energy": 10,
+                "Possibility": 10
+            },
+            {
+                "Chest1": 1,
+                "Possibility": 5
+            }
+        ]
+    }
+]

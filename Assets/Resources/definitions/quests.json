@@ -1,0 +1,930 @@
+[
+    {
+        "type": "fight",
+        "battle": "all",
+        "counter": "paladin.any",
+        "goal": [
+            {
+                "level": 50,
+                "amount": 10
+            }
+        ],
+        "complexity": 1,
+        "reward": {
+            "Hard": 5
+        }
+    },
+    {
+        "type": "fight",
+        "battle": "all",
+        "counter": "paladin.Ranger",
+        "goal": [
+            {
+                "level": 50,
+                "amount": 10
+            }
+        ],
+        "complexity": 1,
+        "reward": {
+            "Hard": 5
+        }
+    },
+    {
+        "type": "fight",
+        "battle": "all",
+        "counter": "paladin.Assault",
+        "goal": [
+            {
+                "level": 50,
+                "amount": 10
+            }
+        ],
+        "complexity": 1,
+        "reward": {
+            "Hard": 5
+        },
+        "requirements": {
+            "paladinType": "Assault"
+        }
+    },
+    {
+        "type": "fight",
+        "battle": "all",
+        "counter": "paladin.Peacemaker",
+        "goal": [
+            {
+                "level": 50,
+                "amount": 10
+            }
+        ],
+        "complexity": 1,
+        "reward": {
+            "Hard": 5
+        },
+        "requirements": {
+            "paladinType": "Noname"
+        }
+    },
+    {
+        "type": "fight",
+        "battle": "all",
+        "counter": "paladin.Crusader",
+        "goal": [
+            {
+                "level": 50,
+                "amount": 10
+            }
+        ],
+        "complexity": 1,
+        "reward": {
+            "Hard": 5
+        },
+        "requirements": {
+            "paladinType": "Crusader"
+        }
+    },
+    {
+        "type": "kill",
+        "battle": "all",
+        "counter": "enemy.any.any",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 100
+            },
+            {
+                "level": 10,
+                "amount": 150
+            },
+            {
+                "level": 15,
+                "amount": 200
+            },
+            {
+                "level": 20,
+                "amount": 250
+            },
+            {
+                "level": 50,
+                "amount": 300
+            }
+        ],
+        "complexity": 1,
+        "reward": {
+            "Hard": 5
+        }
+    },
+    {
+        "type": "kill",
+        "battle": "all",
+        "counter": "ambience",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 100
+            },
+            {
+                "level": 10,
+                "amount": 150
+            },
+            {
+                "level": 15,
+                "amount": 200
+            },
+            {
+                "level": 20,
+                "amount": 250
+            },
+            {
+                "level": 50,
+                "amount": 300
+            }
+        ],
+        "complexity": 1,
+        "reward": {
+            "Hard": 5
+        }
+    },
+    {
+        "type": "kill",
+        "battle": "all",
+        "counter": "enemy.any.easy",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 100
+            },
+            {
+                "level": 10,
+                "amount": 150
+            },
+            {
+                "level": 15,
+                "amount": 200
+            },
+            {
+                "level": 20,
+                "amount": 250
+            },
+            {
+                "level": 50,
+                "amount": 300
+            }
+        ],
+        "complexity": 2,
+        "reward": {
+            "Hard": 10
+        }
+    },
+    {
+        "type": "kill",
+        "battle": "all",
+        "counter": "enemy.any.medium",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 100
+            },
+            {
+                "level": 10,
+                "amount": 150
+            },
+            {
+                "level": 15,
+                "amount": 200
+            },
+            {
+                "level": 20,
+                "amount": 250
+            },
+            {
+                "level": 50,
+                "amount": 300
+            }
+        ],
+        "complexity": 2,
+        "reward": {
+            "Hard": 10
+        }
+    },
+    {
+        "type": "kill",
+        "battle": "all",
+        "counter": "enemy.any.heavy",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 100
+            },
+            {
+                "level": 10,
+                "amount": 150
+            },
+            {
+                "level": 15,
+                "amount": 200
+            },
+            {
+                "level": 20,
+                "amount": 250
+            },
+            {
+                "level": 50,
+                "amount": 300
+            }
+        ],
+        "complexity": 2,
+        "reward": {
+            "Hard": 10
+        }
+    },
+    {
+        "type": "kill",
+        "battle": "all",
+        "counter": "enemy.any.flying",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 100
+            },
+            {
+                "level": 10,
+                "amount": 150
+            },
+            {
+                "level": 15,
+                "amount": 200
+            },
+            {
+                "level": 20,
+                "amount": 250
+            },
+            {
+                "level": 50,
+                "amount": 300
+            }
+        ],
+        "complexity": 2,
+        "reward": {
+            "Hard": 10
+        }
+    },
+    {
+        "type": "kill",
+        "battle": "all",
+        "counter": "enemy.any.static",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 100
+            },
+            {
+                "level": 10,
+                "amount": 150
+            },
+            {
+                "level": 15,
+                "amount": 200
+            },
+            {
+                "level": 20,
+                "amount": 250
+            },
+            {
+                "level": 50,
+                "amount": 300
+            }
+        ],
+        "complexity": 2,
+        "reward": {
+            "Hard": 10
+        }
+    },
+    {
+        "type": "kill",
+        "battle": "all",
+        "counter": "boss.any",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 10
+            },
+            {
+                "level": 10,
+                "amount": 15
+            },
+            {
+                "level": 15,
+                "amount": 20
+            },
+            {
+                "level": 20,
+                "amount": 25
+            },
+            {
+                "level": 50,
+                "amount": 30
+            }
+        ],
+        "complexity": 2,
+        "reward": {
+            "Hard": 10
+        }
+    },
+    {
+        "type": "kill",
+        "battle": "all",
+        "counter": "boss.BossTank",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 1
+            },
+            {
+                "level": 10,
+                "amount": 2
+            },
+            {
+                "level": 15,
+                "amount": 3
+            },
+            {
+                "level": 20,
+                "amount": 4
+            },
+            {
+                "level": 50,
+                "amount": 5
+            }
+        ],
+        "complexity": 3,
+        "reward": {
+            "Hard": 15
+        }
+    },
+    {
+        "type": "kill",
+        "battle": "all",
+        "counter": "boss.BossHelicopter",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 1
+            },
+            {
+                "level": 10,
+                "amount": 2
+            },
+            {
+                "level": 15,
+                "amount": 3
+            },
+            {
+                "level": 20,
+                "amount": 4
+            },
+            {
+                "level": 50,
+                "amount": 5
+            }
+        ],
+        "complexity": 3,
+        "reward": {
+            "Hard": 15
+        }
+    },
+    {
+        "type": "kill",
+        "battle": "all",
+        "counter": "boss.BossTrain",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 1
+            },
+            {
+                "level": 10,
+                "amount": 2
+            },
+            {
+                "level": 15,
+                "amount": 3
+            },
+            {
+                "level": 20,
+                "amount": 4
+            },
+            {
+                "level": 50,
+                "amount": 5
+            }
+        ],
+        "complexity": 3,
+        "reward": {
+            "Hard": 15
+        }
+    },
+    {
+        "type": "collect",
+        "battle": "all",
+        "counter": "combo.9",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 3
+            },
+            {
+                "level": 10,
+                "amount": 5
+            },
+            {
+                "level": 15,
+                "amount": 10
+            },
+            {
+                "level": 20,
+                "amount": 25
+            },
+            {
+                "level": 50,
+                "amount": 50
+            }
+        ],
+        "complexity": 3,
+        "reward": {
+            "Hard": 15
+        }
+    },
+    {
+        "type": "collect",
+        "battle": "last",
+        "counter": "combo.9",
+        "goal": [
+            {
+                "level": 50,
+                "amount": 1
+            }
+        ],
+        "complexity": 3,
+        "reward": {
+            "Hard": 15
+        }
+    },
+    {
+        "type": "collect",
+        "battle": "all",
+        "counter": "drop.soft",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 100
+            },
+            {
+                "level": 10,
+                "amount": 200
+            },
+            {
+                "level": 15,
+                "amount": 300
+            },
+            {
+                "level": 20,
+                "amount": 450
+            },
+            {
+                "level": 50,
+                "amount": 500
+            }
+        ],
+        "complexity": 2,
+        "reward": {
+            "Hard": 10
+        }
+    },
+    {
+        "type": "collect",
+        "battle": "all",
+        "counter": "drop.Microchips",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 100
+            },
+            {
+                "level": 10,
+                "amount": 200
+            },
+            {
+                "level": 15,
+                "amount": 300
+            },
+            {
+                "level": 20,
+                "amount": 450
+            },
+            {
+                "level": 50,
+                "amount": 500
+            }
+        ],
+        "complexity": 2,
+        "reward": {
+            "Hard": 10
+        }
+    },
+    {
+        "type": "collect",
+        "battle": "all",
+        "counter": "drop.ArmorPlates",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 100
+            },
+            {
+                "level": 10,
+                "amount": 200
+            },
+            {
+                "level": 15,
+                "amount": 300
+            },
+            {
+                "level": 20,
+                "amount": 450
+            },
+            {
+                "level": 50,
+                "amount": 500
+            }
+        ],
+        "complexity": 2,
+        "reward": {
+            "Hard": 10
+        }
+    },
+    {
+        "type": "collect",
+        "battle": "all",
+        "counter": "drop.Springs",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 100
+            },
+            {
+                "level": 10,
+                "amount": 200
+            },
+            {
+                "level": 15,
+                "amount": 300
+            },
+            {
+                "level": 20,
+                "amount": 450
+            },
+            {
+                "level": 50,
+                "amount": 500
+            }
+        ],
+        "complexity": 2,
+        "reward": {
+            "Hard": 10
+        }
+    },
+    {
+        "type": "collect",
+        "battle": "all",
+        "counter": "drop.EnergyPack",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 100
+            },
+            {
+                "level": 10,
+                "amount": 200
+            },
+            {
+                "level": 15,
+                "amount": 300
+            },
+            {
+                "level": 20,
+                "amount": 450
+            },
+            {
+                "level": 50,
+                "amount": 500
+            }
+        ],
+        "complexity": 2,
+        "reward": {
+            "Hard": 10
+        }
+    },
+    {
+        "type": "collect",
+        "battle": "last",
+        "counter": "exp",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 150
+            },
+            {
+                "level": 10,
+                "amount": 300
+            },
+            {
+                "level": 15,
+                "amount": 450
+            },
+            {
+                "level": 20,
+                "amount": 600
+            },
+            {
+                "level": 50,
+                "amount": 900
+            }
+        ],
+        "complexity": 3,
+        "reward": {
+            "Hard": 15
+        }
+    },
+    {
+        "type": "collect",
+        "battle": "last",
+        "counter": "drop.soft",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 100
+            },
+            {
+                "level": 10,
+                "amount": 200
+            },
+            {
+                "level": 15,
+                "amount": 300
+            },
+            {
+                "level": 20,
+                "amount": 450
+            },
+            {
+                "level": 50,
+                "amount": 500
+            }
+        ],
+        "complexity": 3,
+        "reward": {
+            "Hard": 15
+        }
+    },
+    {
+        "type": "activate",
+        "battle": "all",
+        "counter": "ability.any",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 10
+            },
+            {
+                "level": 10,
+                "amount": 20
+            },
+            {
+                "level": 15,
+                "amount": 30
+            },
+            {
+                "level": 20,
+                "amount": 40
+            },
+            {
+                "level": 50,
+                "amount": 50
+            }
+        ],
+        "complexity": 1,
+        "reward": {
+            "Hard": 5
+        }
+    },
+    {
+        "type": "kill",
+        "battle": "last",
+        "counter": "enemy.destroyPercent",
+        "goal": [
+            {
+                "level": 50,
+                "amount": 1
+            }
+        ],
+        "complexity": 2,
+        "reward": {
+            "Hard": 10
+        }
+    },
+    {
+        "type": "kill",
+        "battle": "all",
+        "counter": "enemy.destroyFromCollision.any",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 100
+            },
+            {
+                "level": 10,
+                "amount": 150
+            },
+            {
+                "level": 15,
+                "amount": 200
+            },
+            {
+                "level": 20,
+                "amount": 250
+            },
+            {
+                "level": 50,
+                "amount": 300
+            }
+        ],
+        "complexity": 1,
+        "reward": {
+            "Hard": 5
+        }
+    },
+    {
+        "type": "collect",
+        "battle": "last",
+        "counter": "rewardPoints",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 100000
+            },
+            {
+                "level": 10,
+                "amount": 200000
+            },
+            {
+                "level": 15,
+                "amount": 300000
+            },
+            {
+                "level": 20,
+                "amount": 450000
+            },
+            {
+                "level": 50,
+                "amount": 500000
+            }
+        ],
+        "complexity": 2,
+        "reward": {
+            "Hard": 10
+        }
+    },
+    {
+        "type": "collect",
+        "battle": "all",
+        "counter": "rewardPoints",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 1000000
+            },
+            {
+                "level": 10,
+                "amount": 2000000
+            },
+            {
+                "level": 15,
+                "amount": 3000000
+            },
+            {
+                "level": 20,
+                "amount": 4500000
+            },
+            {
+                "level": 50,
+                "amount": 5000000
+            }
+        ],
+        "complexity": 1,
+        "reward": {
+            "Hard": 5
+        }
+    },
+    {
+        "type": "collect",
+        "goal": [
+            {
+                "level": 50,
+                "amount": 1
+            }
+        ],
+        "complexity": 2,
+        "reward": {
+            "Hard": 10
+        }
+    },
+    {
+        "type": "survive",
+        "battle": "last",
+        "counter": "health",
+        "goal": [
+            {
+                "level": 50,
+                "amount": 1
+            }
+        ],
+        "complexity": 2,
+        "reward": {
+            "Hard": 10
+        }
+    },
+    {
+        "type": "survive",
+        "battle": "last",
+        "counter": "damage",
+        "goal": [
+            {
+                "level": 50,
+                "amount": 0
+            }
+        ],
+        "complexity": 2,
+        "reward": {
+            "Hard": 10
+        }
+    },
+    {
+        "type": "collect",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 1
+            },
+            {
+                "level": 10,
+                "amount": 2
+            },
+            {
+                "level": 15,
+                "amount": 3
+            },
+            {
+                "level": 20,
+                "amount": 4
+            },
+            {
+                "level": 50,
+                "amount": 5
+            }
+        ],
+        "complexity": 1,
+        "reward": {
+            "Hard": 5
+        }
+    },
+    {
+        "type": "collect",
+        "goal": [
+            {
+                "level": 5,
+                "amount": 2
+            },
+            {
+                "level": 10,
+                "amount": 5
+            },
+            {
+                "level": 15,
+                "amount": 10
+            },
+            {
+                "level": 20,
+                "amount": 15
+            },
+            {
+                "level": 50,
+                "amount": 20
+            }
+        ],
+        "complexity": 1,
+        "reward": {
+            "Hard": 5
+        }
+    }
+]

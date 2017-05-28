@@ -1,0 +1,66 @@
+{
+  "type": "array",
+  "format": "table",
+  "options": {
+    "disable_array_reorder": true
+  },
+  "items": {
+    "type": "object",
+    "properties": {
+      "stage": {
+        "type": "integer"
+      },
+      "id": {
+        "type": "string"
+      },
+      "level": {
+        "type": "integer"
+      },
+      "pawns": {
+        "type": "array",
+        "format": "table",
+        "options": {
+          "disable_array_reorder": true
+        },
+        "items": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string"
+            },
+            "maxHealth": {
+              "type": "integer"
+            },
+            "collisionDamage": {
+              "type": "integer"
+            },
+            "rewardPoints": {
+              "type": "integer"
+            },
+            "weaponInfo": {
+              "type": "array",
+              "format": "table",
+              "options": {
+                "disable_array_reorder": true
+              },
+              "items": {
+                "type": "object",
+                "properties": {
+                  "type": {
+                    "type": "string"
+                  },
+                  "level": {
+                    "type": "integer"
+                  }
+                }
+              }
+            },
+            "level": {
+              "type": "integer"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "type": "object",
+  "properties": {
+    "Machinegun": {
+      "type": "string",
+      "required": true,
+      "enum": ["Light", "Normal", "Heavy", "Passive"]
+    },
+    "Laser": {
+      "type": "string",
+      "required": true,
+      "enum": ["Light", "Normal", "Heavy", "Passive"]
+    },
+    "Cannon": {
+      "type": "string",
+      "required": true,
+      "enum": ["Light", "Normal", "Heavy", "Passive"]
+    },
+    "PulseCannon": {
+      "type": "string",
+      "required": true,
+      "enum": ["Light", "Normal", "Heavy", "Passive"]
+    },
+    "ShockCannon": {
+      "type": "string",
+      "required": true,
+      "enum": ["Light", "Normal", "Heavy", "Passive"]
+    },
+    "WaveCannon": {
+      "type": "string",
+      "required": true,
+      "enum": ["Light", "Normal", "Heavy", "Passive"]
+    },
+    "PlasmaCannon": {
+      "type": "string",
+      "required": true,
+      "enum": ["Light", "Normal", "Heavy", "Passive"]
+    },
+    "BoloCannon": {
+      "type": "string",
+      "required": true,
+      "enum": ["Light", "Normal", "Heavy", "Passive"]
+    },
+    "Missile": {
+      "type": "string",
+      "required": true,
+      "enum": ["Light", "Normal", "Heavy", "Passive"]
+    },
+    "GrenadeLauncher": {
+      "type": "string",
+      "required": true,
+      "enum": ["Light", "Normal", "Heavy", "Passive"]
+    },
+    "MissileSystem": {
+      "type": "string",
+      "required": true,
+      "enum": ["Light", "Normal", "Heavy", "Passive"]
+    },
+    "RocketLauncher": {
+      "type": "string",
+      "required": true,
+      "enum": ["Light", "Normal", "Heavy", "Passive"]
+    }
+  }
+}

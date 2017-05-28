@@ -1,0 +1,1732 @@
+[
+    {
+        "id": "ClusterGrenades",
+        "level": 1,
+        "activationCount": 2,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "targetAngle": 45,
+            "amount": 4,
+            "minDistance": 20,
+            "maxDistance": 40,
+            "bullet": "Grenade1"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 2,
+        "activationCount": 2,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "targetAngle": 45,
+            "amount": 4,
+            "minDistance": 20,
+            "maxDistance": 40,
+            "bullet": "Grenade1"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 3,
+        "activationCount": 2,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "targetAngle": 45,
+            "amount": 4,
+            "minDistance": 20,
+            "maxDistance": 40,
+            "bullet": "Grenade1"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 4,
+        "activationCount": 2,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "targetAngle": 50,
+            "amount": 4,
+            "minDistance": 20,
+            "maxDistance": 40,
+            "bullet": "Grenade1"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 5,
+        "activationCount": 3,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "targetAngle": 50,
+            "amount": 4,
+            "minDistance": 20,
+            "maxDistance": 40,
+            "bullet": "Grenade1"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 6,
+        "activationCount": 3,
+        "upgradeCost": {
+            "Soft": 500,
+            "EnergyPack": 12
+        },
+        "options": {
+            "targetAngle": 50,
+            "amount": 5,
+            "minDistance": 25,
+            "maxDistance": 50,
+            "bullet": "Grenade1"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 7,
+        "activationCount": 3,
+        "upgradeCost": {
+            "Soft": 600,
+            "EnergyPack": 14
+        },
+        "options": {
+            "targetAngle": 55,
+            "amount": 5,
+            "minDistance": 25,
+            "maxDistance": 50,
+            "bullet": "Grenade1"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 8,
+        "activationCount": 3,
+        "upgradeCost": {
+            "Soft": 700,
+            "EnergyPack": 16
+        },
+        "options": {
+            "targetAngle": 55,
+            "amount": 5,
+            "minDistance": 25,
+            "maxDistance": 50,
+            "bullet": "Grenade1"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 9,
+        "activationCount": 3,
+        "upgradeCost": {
+            "Soft": 800,
+            "EnergyPack": 18
+        },
+        "options": {
+            "targetAngle": 55,
+            "amount": 5,
+            "minDistance": 25,
+            "maxDistance": 50,
+            "bullet": "Grenade1"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 10,
+        "activationCount": 3,
+        "upgradeCost": {
+            "Soft": 900,
+            "EnergyPack": 20
+        },
+        "options": {
+            "targetAngle": 60,
+            "amount": 5,
+            "minDistance": 25,
+            "maxDistance": 50,
+            "bullet": "Grenade1"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 11,
+        "activationCount": 4,
+        "upgradeCost": {
+            "Soft": 1000,
+            "EnergyPack": 22
+        },
+        "options": {
+            "targetAngle": 60,
+            "amount": 6,
+            "minDistance": 30,
+            "maxDistance": 60,
+            "bullet": "Grenade1"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 12,
+        "activationCount": 4,
+        "upgradeCost": {
+            "Soft": 1100,
+            "EnergyPack": 24
+        },
+        "options": {
+            "targetAngle": 60,
+            "amount": 6,
+            "minDistance": 30,
+            "maxDistance": 60,
+            "bullet": "Grenade1"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 13,
+        "activationCount": 4,
+        "upgradeCost": {
+            "Soft": 1200,
+            "EnergyPack": 26
+        },
+        "options": {
+            "targetAngle": 65,
+            "amount": 6,
+            "minDistance": 30,
+            "maxDistance": 60,
+            "bullet": "Grenade2"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 14,
+        "activationCount": 4,
+        "upgradeCost": {
+            "Soft": 1300,
+            "EnergyPack": 28
+        },
+        "options": {
+            "targetAngle": 65,
+            "amount": 6,
+            "minDistance": 30,
+            "maxDistance": 60,
+            "bullet": "Grenade2"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 15,
+        "activationCount": 4,
+        "upgradeCost": {
+            "Soft": 1400,
+            "EnergyPack": 30
+        },
+        "options": {
+            "targetAngle": 65,
+            "amount": 6,
+            "minDistance": 30,
+            "maxDistance": 60,
+            "bullet": "Grenade2"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 16,
+        "activationCount": 4,
+        "upgradeCost": {
+            "Soft": 1500,
+            "EnergyPack": 32
+        },
+        "options": {
+            "targetAngle": 70,
+            "amount": 7,
+            "minDistance": 35,
+            "maxDistance": 70,
+            "bullet": "Grenade2"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 17,
+        "activationCount": 4,
+        "upgradeCost": {
+            "Soft": 1600,
+            "EnergyPack": 34
+        },
+        "options": {
+            "targetAngle": 70,
+            "amount": 7,
+            "minDistance": 35,
+            "maxDistance": 70,
+            "bullet": "Grenade2"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 18,
+        "activationCount": 4,
+        "upgradeCost": {
+            "Soft": 1700,
+            "EnergyPack": 36
+        },
+        "options": {
+            "targetAngle": 70,
+            "amount": 7,
+            "minDistance": 35,
+            "maxDistance": 70,
+            "bullet": "Grenade2"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 19,
+        "activationCount": 4,
+        "upgradeCost": {
+            "Soft": 1800,
+            "EnergyPack": 38
+        },
+        "options": {
+            "targetAngle": 75,
+            "amount": 7,
+            "minDistance": 35,
+            "maxDistance": 70,
+            "bullet": "Grenade2"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 20,
+        "activationCount": 5,
+        "upgradeCost": {
+            "Soft": 1900,
+            "EnergyPack": 40
+        },
+        "options": {
+            "targetAngle": 75,
+            "amount": 7,
+            "minDistance": 35,
+            "maxDistance": 70,
+            "bullet": "Grenade2"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 21,
+        "activationCount": 5,
+        "upgradeCost": {
+            "Soft": 2000,
+            "EnergyPack": 42
+        },
+        "options": {
+            "targetAngle": 80,
+            "amount": 8,
+            "minDistance": 40,
+            "maxDistance": 80,
+            "bullet": "Grenade2"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 22,
+        "activationCount": 5,
+        "upgradeCost": {
+            "Soft": 2100,
+            "EnergyPack": 44
+        },
+        "options": {
+            "targetAngle": 80,
+            "amount": 8,
+            "minDistance": 40,
+            "maxDistance": 80,
+            "bullet": "Grenade2"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 23,
+        "activationCount": 5,
+        "upgradeCost": {
+            "Soft": 2200,
+            "EnergyPack": 46
+        },
+        "options": {
+            "targetAngle": 85,
+            "amount": 8,
+            "minDistance": 40,
+            "maxDistance": 80,
+            "bullet": "Grenade2"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 24,
+        "activationCount": 5,
+        "upgradeCost": {
+            "Soft": 2300,
+            "EnergyPack": 48
+        },
+        "options": {
+            "targetAngle": 90,
+            "amount": 8,
+            "minDistance": 40,
+            "maxDistance": 80,
+            "bullet": "Grenade2"
+        }
+    },
+    {
+        "id": "ClusterGrenades",
+        "level": 25,
+        "activationCount": 5,
+        "upgradeCost": {
+            "Soft": 2500,
+            "EnergyPack": 50
+        },
+        "options": {
+            "targetAngle": 90,
+            "amount": 8,
+            "minDistance": 40,
+            "maxDistance": 80,
+            "bullet": "Grenade2"
+        }
+    },
+    {
+        "id": "Invulnerability",
+        "level": 1,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "maxHealth": 2000,
+            "duration": 5
+        },
+        "effect": "fx_sheld_explosion"
+    },
+    {
+        "id": "Invulnerability",
+        "level": 2,
+        "activationCount": 2,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "maxHealth": 3000,
+            "duration": 6
+        },
+        "effect": "fx_sheld_explosion"
+    },
+    {
+        "id": "Invulnerability",
+        "level": 3,
+        "activationCount": 2,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "maxHealth": 4000,
+            "duration": 7
+        },
+        "effect": "fx_sheld_explosion"
+    },
+    {
+        "id": "Invulnerability",
+        "level": 4,
+        "activationCount": 3,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "maxHealth": 6000,
+            "duration": 8
+        },
+        "effect": "fx_sheld_explosion"
+    },
+    {
+        "id": "Invulnerability",
+        "level": 5,
+        "activationCount": 3,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "maxHealth": 7000,
+            "duration": 10
+        },
+        "effect": "fx_sheld_explosion"
+    },
+    {
+        "id": "Nanobots",
+        "level": 1,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "restorePart": 0.25
+        }
+    },
+    {
+        "id": "Nanobots",
+        "level": 2,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "restorePart": 0.45
+        }
+    },
+    {
+        "id": "Nanobots",
+        "level": 3,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "restorePart": 0.65
+        }
+    },
+    {
+        "id": "Nanobots",
+        "level": 4,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "restorePart": 0.85
+        }
+    },
+    {
+        "id": "Nanobots",
+        "level": 5,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "restorePart": 1
+        }
+    },
+    {
+        "id": "ShockShells",
+        "level": 1,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "duration": 5,
+            "stun": 0.5
+        }
+    },
+    {
+        "id": "ShockShells",
+        "level": 2,
+        "activationCount": 2,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "duration": 6,
+            "stun": 0.75
+        }
+    },
+    {
+        "id": "ShockShells",
+        "level": 3,
+        "activationCount": 2,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "duration": 7,
+            "stun": 1
+        }
+    },
+    {
+        "id": "ShockShells",
+        "level": 4,
+        "activationCount": 3,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "duration": 8,
+            "stun": 1.25
+        }
+    },
+    {
+        "id": "ShockShells",
+        "level": 5,
+        "activationCount": 3,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "duration": 10,
+            "stun": 1.5
+        }
+    },
+    {
+        "id": "Phantom",
+        "level": 1,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "duration": 2
+        }
+    },
+    {
+        "id": "Phantom",
+        "level": 2,
+        "activationCount": 2,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "duration": 3
+        }
+    },
+    {
+        "id": "Phantom",
+        "level": 3,
+        "activationCount": 2,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "duration": 4
+        }
+    },
+    {
+        "id": "Phantom",
+        "level": 4,
+        "activationCount": 3,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "duration": 5
+        }
+    },
+    {
+        "id": "Phantom",
+        "level": 5,
+        "activationCount": 3,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "duration": 6
+        }
+    },
+    {
+        "id": "ShockWaves",
+        "level": 1,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "amount": 3,
+            "reloadTime": 2
+        }
+    },
+    {
+        "id": "ShockWaves",
+        "level": 2,
+        "activationCount": 2,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "amount": 3,
+            "reloadTime": 1.8
+        }
+    },
+    {
+        "id": "ShockWaves",
+        "level": 3,
+        "activationCount": 2,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "amount": 3,
+            "reloadTime": 1.6
+        }
+    },
+    {
+        "id": "ShockWaves",
+        "level": 4,
+        "activationCount": 3,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "amount": 4,
+            "reloadTime": 1.4
+        }
+    },
+    {
+        "id": "ShockWaves",
+        "level": 5,
+        "activationCount": 3,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "amount": 4,
+            "reloadTime": 1.2
+        }
+    },
+    {
+        "id": "VacuumBomb",
+        "level": 1,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "bullet": "VacuumBomb1"
+        },
+        "effect": "FX_target_bomb"
+    },
+    {
+        "id": "VacuumBomb",
+        "level": 2,
+        "activationCount": 2,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "bullet": "VacuumBomb2"
+        },
+        "effect": "FX_target_bomb"
+    },
+    {
+        "id": "VacuumBomb",
+        "level": 3,
+        "activationCount": 2,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "bullet": "VacuumBomb3"
+        },
+        "effect": "FX_target_bomb"
+    },
+    {
+        "id": "VacuumBomb",
+        "level": 4,
+        "activationCount": 3,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "bullet": "VacuumBomb4"
+        },
+        "effect": "FX_target_bomb"
+    },
+    {
+        "id": "VacuumBomb",
+        "level": 5,
+        "activationCount": 3,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "bullet": "VacuumBomb5"
+        },
+        "effect": "FX_target_bomb"
+    },
+    {
+        "id": "Artillery",
+        "level": 1,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "amount": 5,
+            "bullet": "ArtilleryBomb1"
+        }
+    },
+    {
+        "id": "Artillery",
+        "level": 2,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "amount": 6,
+            "bullet": "ArtilleryBomb2"
+        }
+    },
+    {
+        "id": "Artillery",
+        "level": 3,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "amount": 7,
+            "bullet": "ArtilleryBomb3"
+        }
+    },
+    {
+        "id": "Artillery",
+        "level": 4,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "amount": 8,
+            "bullet": "ArtilleryBomb4"
+        }
+    },
+    {
+        "id": "Artillery",
+        "level": 5,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "amount": 9,
+            "bullet": "ArtilleryBomb5"
+        }
+    },
+    {
+        "id": "DroneX",
+        "level": 1,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "weaponLevel": 1,
+            "healthPoints": 1000
+        }
+    },
+    {
+        "id": "DroneX",
+        "level": 2,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "weaponLevel": 2,
+            "healthPoints": 1200
+        }
+    },
+    {
+        "id": "DroneX",
+        "level": 3,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "weaponLevel": 3,
+            "healthPoints": 1400
+        }
+    },
+    {
+        "id": "DroneX",
+        "level": 4,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "weaponLevel": 4,
+            "healthPoints": 1600
+        }
+    },
+    {
+        "id": "DroneX",
+        "level": 5,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "weaponLevel": 5,
+            "healthPoints": 1800
+        }
+    },
+    {
+        "id": "DroneY",
+        "level": 1,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "weaponLevel": 1,
+            "healthPoints": 1000
+        }
+    },
+    {
+        "id": "DroneY",
+        "level": 2,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "weaponLevel": 2,
+            "healthPoints": 1200
+        }
+    },
+    {
+        "id": "DroneY",
+        "level": 3,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "weaponLevel": 3,
+            "healthPoints": 1400
+        }
+    },
+    {
+        "id": "DroneY",
+        "level": 4,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "weaponLevel": 4,
+            "healthPoints": 1600
+        }
+    },
+    {
+        "id": "DroneY",
+        "level": 5,
+        "activationCount": 1,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "weaponLevel": 5,
+            "healthPoints": 1800
+        }
+    },
+    {
+        "id": "Rocket",
+        "level": 1,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "amount": 1,
+            "reloadTime": 5,
+            "bullet": "RocketMissile1"
+        }
+    },
+    {
+        "id": "Rocket",
+        "level": 2,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "amount": 1,
+            "reloadTime": 4,
+            "bullet": "RocketMissile1"
+        }
+    },
+    {
+        "id": "Rocket",
+        "level": 3,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "amount": 2,
+            "reloadTime": 3,
+            "bullet": "RocketMissile1"
+        }
+    },
+    {
+        "id": "Rocket",
+        "level": 4,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "amount": 2,
+            "reloadTime": 3,
+            "bullet": "RocketMissile2"
+        }
+    },
+    {
+        "id": "Rocket",
+        "level": 5,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "amount": 3,
+            "reloadTime": 2,
+            "bullet": "RocketMissile2"
+        }
+    },
+    {
+        "id": "HiScores",
+        "level": 1,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "multiplier": 1.05
+        }
+    },
+    {
+        "id": "HiScores",
+        "level": 2,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "multiplier": 1.1
+        }
+    },
+    {
+        "id": "HiScores",
+        "level": 3,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "multiplier": 1.15
+        }
+    },
+    {
+        "id": "HiScores",
+        "level": 4,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "multiplier": 1.2
+        }
+    },
+    {
+        "id": "HiScores",
+        "level": 5,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "multiplier": 1.25
+        }
+    },
+    {
+        "id": "Bankir",
+        "level": 1,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "multiplier": 1.05
+        }
+    },
+    {
+        "id": "Bankir",
+        "level": 2,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "multiplier": 1.1
+        }
+    },
+    {
+        "id": "Bankir",
+        "level": 3,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "multiplier": 1.15
+        }
+    },
+    {
+        "id": "Bankir",
+        "level": 4,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "multiplier": 1.2
+        }
+    },
+    {
+        "id": "Bankir",
+        "level": 5,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "multiplier": 1.25
+        }
+    },
+    {
+        "id": "HealthBonus",
+        "level": 1,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "multiplier": 1.05
+        }
+    },
+    {
+        "id": "HealthBonus",
+        "level": 2,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "multiplier": 1.1
+        }
+    },
+    {
+        "id": "HealthBonus",
+        "level": 3,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "multiplier": 1.15
+        }
+    },
+    {
+        "id": "HealthBonus",
+        "level": 4,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "multiplier": 1.2
+        }
+    },
+    {
+        "id": "HealthBonus",
+        "level": 5,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "multiplier": 1.25
+        }
+    },
+    {
+        "id": "SpeedBonus",
+        "level": 1,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "multiplier": 1.05
+        }
+    },
+    {
+        "id": "SpeedBonus",
+        "level": 2,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "multiplier": 1.1
+        }
+    },
+    {
+        "id": "SpeedBonus",
+        "level": 3,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "multiplier": 1.15
+        }
+    },
+    {
+        "id": "SpeedBonus",
+        "level": 4,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "multiplier": 1.2
+        }
+    },
+    {
+        "id": "SpeedBonus",
+        "level": 5,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "multiplier": 1.25
+        }
+    },
+    {
+        "id": "DamageBonus",
+        "level": 1,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "multiplier": 1.05
+        }
+    },
+    {
+        "id": "DamageBonus",
+        "level": 2,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "multiplier": 1.1
+        }
+    },
+    {
+        "id": "DamageBonus",
+        "level": 3,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "multiplier": 1.15
+        }
+    },
+    {
+        "id": "DamageBonus",
+        "level": 4,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "multiplier": 1.2
+        }
+    },
+    {
+        "id": "DamageBonus",
+        "level": 5,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "multiplier": 1.25
+        }
+    },
+    {
+        "id": "FireRate",
+        "level": 1,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "multiplier": 0.95
+        }
+    },
+    {
+        "id": "FireRate",
+        "level": 2,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "multiplier": 0.9
+        }
+    },
+    {
+        "id": "FireRate",
+        "level": 3,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "multiplier": 0.85
+        }
+    },
+    {
+        "id": "FireRate",
+        "level": 4,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "multiplier": 0.8
+        }
+    },
+    {
+        "id": "FireRate",
+        "level": 5,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "multiplier": 0.75
+        }
+    },
+    {
+        "id": "ArmorBonus",
+        "level": 1,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "multiplier": 1.05
+        }
+    },
+    {
+        "id": "ArmorBonus",
+        "level": 2,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "multiplier": 1.1
+        }
+    },
+    {
+        "id": "ArmorBonus",
+        "level": 3,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "multiplier": 1.15
+        }
+    },
+    {
+        "id": "ArmorBonus",
+        "level": 4,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "multiplier": 1.2
+        }
+    },
+    {
+        "id": "ArmorBonus",
+        "level": 5,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "multiplier": 1.25
+        }
+    },
+    {
+        "id": "DropRate",
+        "level": 1,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "lootBonus": 1,
+            "abilityBonus": 5
+        }
+    },
+    {
+        "id": "DropRate",
+        "level": 2,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "lootBonus": 2,
+            "abilityBonus": 10
+        }
+    },
+    {
+        "id": "DropRate",
+        "level": 3,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "lootBonus": 3,
+            "abilityBonus": 15
+        }
+    },
+    {
+        "id": "DropRate",
+        "level": 4,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "lootBonus": 4,
+            "abilityBonus": 20
+        }
+    },
+    {
+        "id": "DropRate",
+        "level": 5,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "lootBonus": 5,
+            "abilityBonus": 25
+        }
+    },
+    {
+        "id": "Vampirism",
+        "level": 1,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "multiplier": 0.05
+        }
+    },
+    {
+        "id": "Vampirism",
+        "level": 2,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "multiplier": 0.1
+        }
+    },
+    {
+        "id": "Vampirism",
+        "level": 3,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "multiplier": 0.15
+        }
+    },
+    {
+        "id": "Vampirism",
+        "level": 4,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "multiplier": 0.2
+        }
+    },
+    {
+        "id": "Vampirism",
+        "level": 5,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "multiplier": 0.25
+        }
+    },
+    {
+        "id": "Torn",
+        "level": 1,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "value": 500,
+            "multiplier": 1.2,
+            "distance": 15
+        }
+    },
+    {
+        "id": "Torn",
+        "level": 2,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "value": 700,
+            "multiplier": 1.25,
+            "distance": 20
+        }
+    },
+    {
+        "id": "Torn",
+        "level": 3,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "value": 900,
+            "multiplier": 1.3,
+            "distance": 25
+        }
+    },
+    {
+        "id": "Torn",
+        "level": 4,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "value": 1200,
+            "multiplier": 1.4,
+            "distance": 30
+        }
+    },
+    {
+        "id": "Torn",
+        "level": 5,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "value": 1500,
+            "multiplier": 1.5,
+            "distance": 35
+        }
+    },
+    {
+        "id": "Magnet",
+        "level": 1,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 100,
+            "EnergyPack": 2
+        },
+        "options": {
+            "distance": 30,
+            "force": 10
+        }
+    },
+    {
+        "id": "Magnet",
+        "level": 2,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 125,
+            "EnergyPack": 4
+        },
+        "options": {
+            "distance": 40,
+            "force": 20
+        }
+    },
+    {
+        "id": "Magnet",
+        "level": 3,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 200,
+            "EnergyPack": 6
+        },
+        "options": {
+            "distance": 50,
+            "force": 30
+        }
+    },
+    {
+        "id": "Magnet",
+        "level": 4,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 300,
+            "EnergyPack": 8
+        },
+        "options": {
+            "distance": 60,
+            "force": 40
+        }
+    },
+    {
+        "id": "Magnet",
+        "level": 5,
+        "activationCount": 0,
+        "upgradeCost": {
+            "Soft": 400,
+            "EnergyPack": 10
+        },
+        "options": {
+            "distance": 70,
+            "force": 50
+        }
+    }
+]

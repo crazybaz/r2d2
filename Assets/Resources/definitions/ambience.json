@@ -1,0 +1,418 @@
+[
+    {
+        "type": "Bags",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "BarrelDown",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Barrels",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Box",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Bunker",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Bus1",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Bus2",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Bus3",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Bus4",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Cart",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "ConcreteWall",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Conteiner",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Fence",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Grid",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Hatch1",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Hatch2",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Home1",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Home2",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "IronWall",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "LitWall",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "MetallWall",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Most",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "MountSmall",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Road1",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Road2",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Rock3",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Rock5",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Rock6",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Rock7",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Rock8",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Rock9",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Rock10",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "RockArch",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Stoun",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "StounWall1",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "StounWall2",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "StounWall3",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "OilTank",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "ThreeBarrelDown",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Tower",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Trash",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Tray",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Tube",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Wheel",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "WoodWall1",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "WoodBox",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Radar",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Antena",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Boxtex",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Budka",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Dom",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    },
+    {
+        "type": "Pipe",
+        "group": "Ambience",
+        "level": 1,
+        "maxHealth": 200,
+        "collisionDamage": 1,
+        "rewardPoints": 1
+    }
+]

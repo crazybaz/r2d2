@@ -1,0 +1,1015 @@
+[
+    {
+        "id": "Microchips",
+        "kind": "Loot",
+        "Trooper": {
+            "dpopPossibility": 30
+        },
+        "Mite": {
+            "dpopPossibility": 40
+        },
+        "LightMech": {
+            "dpopPossibility": 50
+        },
+        "BossTank": {
+            "dpopPossibility": 35
+        },
+        "BossTrain": {
+            "dpopPossibility": 35
+        }
+    },
+    {
+        "id": "ArmorPlates",
+        "kind": "Loot",
+        "Exoskeleton": {
+            "dpopPossibility": 25
+        },
+        "Buggy": {
+            "dpopPossibility": 35
+        },
+        "Bmp": {
+            "dpopPossibility": 40
+        },
+        "Tank": {
+            "dpopPossibility": 50
+        },
+        "BossTank": {
+            "dpopPossibility": 35
+        },
+        "BossTrain": {
+            "dpopPossibility": 35
+        }
+    },
+    {
+        "id": "Springs",
+        "kind": "Loot",
+        "Exoskeleton": {
+            "dpopPossibility": 25
+        },
+        "Buggy": {
+            "dpopPossibility": 25
+        },
+        "Mech": {
+            "dpopPossibility": 45
+        },
+        "HeavyTank": {
+            "dpopPossibility": 45
+        },
+        "BossTank": {
+            "dpopPossibility": 30
+        },
+        "BossHelicopter": {
+            "dpopPossibility": 35
+        }
+    },
+    {
+        "id": "Shell",
+        "kind": "Loot",
+        "Drone": {
+            "dpopPossibility": 55
+        },
+        "Helicopter": {
+            "dpopPossibility": 35
+        },
+        "BossHelicopter": {
+            "dpopPossibility": 25
+        }
+    },
+    {
+        "id": "EnergyPack",
+        "kind": "Loot",
+        "Trooper": {
+            "dpopPossibility": 70
+        },
+        "Mite": {
+            "dpopPossibility": 60
+        },
+        "LightMech": {
+            "dpopPossibility": 50
+        },
+        "Exoskeleton": {
+            "dpopPossibility": 50
+        },
+        "Buggy": {
+            "dpopPossibility": 40
+        },
+        "Bmp": {
+            "dpopPossibility": 60
+        },
+        "Tank": {
+            "dpopPossibility": 50
+        },
+        "Mech": {
+            "dpopPossibility": 55
+        },
+        "Drone": {
+            "dpopPossibility": 45
+        },
+        "Helicopter": {
+            "dpopPossibility": 65
+        },
+        "HeavyTank": {
+            "dpopPossibility": 55
+        },
+        "Bunker": {
+            "dpopPossibility": 100
+        },
+        "BossTrain": {
+            "dpopPossibility": 30
+        },
+        "BossHelicopter": {
+            "dpopPossibility": 40
+        }
+    },
+    {
+        "id": "FireRate",
+        "kind": "Ability",
+        "Trooper": [
+            {
+                "amount": 3,
+                "dpopPossibility": 25
+            },
+            {
+                "amount": 5,
+                "dpopPossibility": 15
+            },
+            {
+                "amount": 7,
+                "dpopPossibility": 5
+            },
+            {
+                "amount": 10,
+                "dpopPossibility": 2
+            }
+        ],
+        "Mite": [
+            {
+                "amount": 3,
+                "dpopPossibility": 25
+            },
+            {
+                "amount": 5,
+                "dpopPossibility": 15
+            },
+            {
+                "amount": 7,
+                "dpopPossibility": 5
+            },
+            {
+                "amount": 10,
+                "dpopPossibility": 2
+            }
+        ],
+        "LightMech": [
+            {
+                "amount": 3,
+                "dpopPossibility": 25
+            },
+            {
+                "amount": 5,
+                "dpopPossibility": 15
+            },
+            {
+                "amount": 7,
+                "dpopPossibility": 5
+            },
+            {
+                "amount": 10,
+                "dpopPossibility": 2
+            }
+        ],
+        "Exoskeleton": [
+            {
+                "amount": 3,
+                "dpopPossibility": 25
+            },
+            {
+                "amount": 5,
+                "dpopPossibility": 15
+            },
+            {
+                "amount": 7,
+                "dpopPossibility": 5
+            },
+            {
+                "amount": 10,
+                "dpopPossibility": 2
+            }
+        ],
+        "Buggy": [
+            {
+                "amount": 3,
+                "dpopPossibility": 25
+            },
+            {
+                "amount": 5,
+                "dpopPossibility": 15
+            },
+            {
+                "amount": 7,
+                "dpopPossibility": 5
+            },
+            {
+                "amount": 10,
+                "dpopPossibility": 2
+            }
+        ],
+        "Bmp": [
+            {
+                "amount": 3,
+                "dpopPossibility": 25
+            },
+            {
+                "amount": 5,
+                "dpopPossibility": 15
+            },
+            {
+                "amount": 7,
+                "dpopPossibility": 5
+            },
+            {
+                "amount": 10,
+                "dpopPossibility": 2
+            }
+        ],
+        "Tank": [
+            {
+                "amount": 3,
+                "dpopPossibility": 25
+            },
+            {
+                "amount": 5,
+                "dpopPossibility": 15
+            },
+            {
+                "amount": 7,
+                "dpopPossibility": 5
+            },
+            {
+                "amount": 10,
+                "dpopPossibility": 2
+            }
+        ],
+        "Mech": [
+            {
+                "amount": 3,
+                "dpopPossibility": 25
+            },
+            {
+                "amount": 5,
+                "dpopPossibility": 15
+            },
+            {
+                "amount": 7,
+                "dpopPossibility": 5
+            },
+            {
+                "amount": 10,
+                "dpopPossibility": 2
+            }
+        ],
+        "Drone": [
+            {
+                "amount": 3,
+                "dpopPossibility": 25
+            },
+            {
+                "amount": 5,
+                "dpopPossibility": 15
+            },
+            {
+                "amount": 7,
+                "dpopPossibility": 5
+            },
+            {
+                "amount": 10,
+                "dpopPossibility": 2
+            }
+        ],
+        "Helicopter": [
+            {
+                "amount": 3,
+                "dpopPossibility": 25
+            },
+            {
+                "amount": 5,
+                "dpopPossibility": 15
+            },
+            {
+                "amount": 7,
+                "dpopPossibility": 5
+            },
+            {
+                "amount": 10,
+                "dpopPossibility": 2
+            }
+        ],
+        "HeavyTank": [
+            {
+                "amount": 3,
+                "dpopPossibility": 25
+            },
+            {
+                "amount": 5,
+                "dpopPossibility": 15
+            },
+            {
+                "amount": 7,
+                "dpopPossibility": 5
+            },
+            {
+                "amount": 10,
+                "dpopPossibility": 2
+            }
+        ],
+        "Bunker": [
+            {
+                "amount": 3,
+                "dpopPossibility": 25
+            },
+            {
+                "amount": 5,
+                "dpopPossibility": 15
+            },
+            {
+                "amount": 7,
+                "dpopPossibility": 5
+            },
+            {
+                "amount": 10,
+                "dpopPossibility": 2
+            }
+        ],
+        "BossTank": [
+            {
+                "amount": 3,
+                "dpopPossibility": 25
+            },
+            {
+                "amount": 5,
+                "dpopPossibility": 15
+            },
+            {
+                "amount": 7,
+                "dpopPossibility": 5
+            },
+            {
+                "amount": 10,
+                "dpopPossibility": 2
+            }
+        ],
+        "BossTrain": [
+            {
+                "amount": 3,
+                "dpopPossibility": 25
+            },
+            {
+                "amount": 5,
+                "dpopPossibility": 15
+            },
+            {
+                "amount": 7,
+                "dpopPossibility": 5
+            },
+            {
+                "amount": 10,
+                "dpopPossibility": 2
+            }
+        ],
+        "BossHelicopter": [
+            {
+                "amount": 3,
+                "dpopPossibility": 25
+            },
+            {
+                "amount": 5,
+                "dpopPossibility": 15
+            },
+            {
+                "amount": 7,
+                "dpopPossibility": 5
+            },
+            {
+                "amount": 10,
+                "dpopPossibility": 2
+            }
+        ]
+    },
+    {
+        "id": "Nanobots",
+        "kind": "Ability",
+        "Trooper": [
+            {
+                "hpAmountPercent": 25,
+                "dpopPossibility": 15
+            },
+            {
+                "hpAmountPercent": 50,
+                "dpopPossibility": 5
+            },
+            {
+                "hpAmountPercent": 75,
+                "dpopPossibility": 2
+            },
+            {
+                "hpAmountPercent": 100,
+                "dpopPossibility": 1
+            }
+        ],
+        "Mite": [
+            {
+                "hpAmountPercent": 25,
+                "dpopPossibility": 15
+            },
+            {
+                "hpAmountPercent": 50,
+                "dpopPossibility": 5
+            },
+            {
+                "hpAmountPercent": 75,
+                "dpopPossibility": 2
+            },
+            {
+                "hpAmountPercent": 100,
+                "dpopPossibility": 1
+            }
+        ],
+        "LightMech": [
+            {
+                "hpAmountPercent": 25,
+                "dpopPossibility": 15
+            },
+            {
+                "hpAmountPercent": 50,
+                "dpopPossibility": 5
+            },
+            {
+                "hpAmountPercent": 75,
+                "dpopPossibility": 2
+            },
+            {
+                "hpAmountPercent": 100,
+                "dpopPossibility": 1
+            }
+        ],
+        "Exoskeleton": [
+            {
+                "hpAmountPercent": 25,
+                "dpopPossibility": 15
+            },
+            {
+                "hpAmountPercent": 50,
+                "dpopPossibility": 5
+            },
+            {
+                "hpAmountPercent": 75,
+                "dpopPossibility": 2
+            },
+            {
+                "hpAmountPercent": 100,
+                "dpopPossibility": 1
+            }
+        ],
+        "Buggy": [
+            {
+                "hpAmountPercent": 25,
+                "dpopPossibility": 15
+            },
+            {
+                "hpAmountPercent": 50,
+                "dpopPossibility": 5
+            },
+            {
+                "hpAmountPercent": 75,
+                "dpopPossibility": 2
+            },
+            {
+                "hpAmountPercent": 100,
+                "dpopPossibility": 1
+            }
+        ],
+        "Bmp": [
+            {
+                "hpAmountPercent": 25,
+                "dpopPossibility": 15
+            },
+            {
+                "hpAmountPercent": 50,
+                "dpopPossibility": 5
+            },
+            {
+                "hpAmountPercent": 75,
+                "dpopPossibility": 2
+            },
+            {
+                "hpAmountPercent": 100,
+                "dpopPossibility": 1
+            }
+        ],
+        "Tank": [
+            {
+                "hpAmountPercent": 25,
+                "dpopPossibility": 15
+            },
+            {
+                "hpAmountPercent": 50,
+                "dpopPossibility": 5
+            },
+            {
+                "hpAmountPercent": 75,
+                "dpopPossibility": 2
+            },
+            {
+                "hpAmountPercent": 100,
+                "dpopPossibility": 1
+            }
+        ],
+        "Mech": [
+            {
+                "hpAmountPercent": 25,
+                "dpopPossibility": 15
+            },
+            {
+                "hpAmountPercent": 50,
+                "dpopPossibility": 5
+            },
+            {
+                "hpAmountPercent": 75,
+                "dpopPossibility": 2
+            },
+            {
+                "hpAmountPercent": 100,
+                "dpopPossibility": 1
+            }
+        ],
+        "Drone": [
+            {
+                "hpAmountPercent": 25,
+                "dpopPossibility": 15
+            },
+            {
+                "hpAmountPercent": 50,
+                "dpopPossibility": 5
+            },
+            {
+                "hpAmountPercent": 75,
+                "dpopPossibility": 2
+            },
+            {
+                "hpAmountPercent": 100,
+                "dpopPossibility": 1
+            }
+        ],
+        "Helicopter": [
+            {
+                "hpAmountPercent": 25,
+                "dpopPossibility": 15
+            },
+            {
+                "hpAmountPercent": 50,
+                "dpopPossibility": 5
+            },
+            {
+                "hpAmountPercent": 75,
+                "dpopPossibility": 2
+            },
+            {
+                "hpAmountPercent": 100,
+                "dpopPossibility": 1
+            }
+        ],
+        "HeavyTank": [
+            {
+                "hpAmountPercent": 25,
+                "dpopPossibility": 15
+            },
+            {
+                "hpAmountPercent": 50,
+                "dpopPossibility": 5
+            },
+            {
+                "hpAmountPercent": 75,
+                "dpopPossibility": 2
+            },
+            {
+                "hpAmountPercent": 100,
+                "dpopPossibility": 1
+            }
+        ],
+        "Bunker": [
+            {
+                "hpAmountPercent": 25,
+                "dpopPossibility": 15
+            },
+            {
+                "hpAmountPercent": 50,
+                "dpopPossibility": 5
+            },
+            {
+                "hpAmountPercent": 75,
+                "dpopPossibility": 2
+            },
+            {
+                "hpAmountPercent": 100,
+                "dpopPossibility": 1
+            }
+        ],
+        "BossTank": [
+            {
+                "hpAmountPercent": 25,
+                "dpopPossibility": 15
+            },
+            {
+                "hpAmountPercent": 50,
+                "dpopPossibility": 5
+            },
+            {
+                "hpAmountPercent": 75,
+                "dpopPossibility": 2
+            },
+            {
+                "hpAmountPercent": 100,
+                "dpopPossibility": 1
+            }
+        ],
+        "BossTrain": [
+            {
+                "hpAmountPercent": 25,
+                "dpopPossibility": 15
+            },
+            {
+                "hpAmountPercent": 50,
+                "dpopPossibility": 5
+            },
+            {
+                "hpAmountPercent": 75,
+                "dpopPossibility": 2
+            },
+            {
+                "hpAmountPercent": 100,
+                "dpopPossibility": 1
+            }
+        ],
+        "BossHelicopter": [
+            {
+                "hpAmountPercent": 25,
+                "dpopPossibility": 15
+            },
+            {
+                "hpAmountPercent": 50,
+                "dpopPossibility": 5
+            },
+            {
+                "hpAmountPercent": 75,
+                "dpopPossibility": 2
+            },
+            {
+                "hpAmountPercent": 100,
+                "dpopPossibility": 1
+            }
+        ]
+    },
+    {
+        "id": "ClusterGrenades",
+        "kind": "Ability",
+        "Trooper": {
+            "dpopPossibility": 5
+        },
+        "Mite": {
+            "dpopPossibility": 5
+        },
+        "LightMech": {
+            "dpopPossibility": 5
+        },
+        "Exoskeleton": {
+            "dpopPossibility": 5
+        },
+        "Buggy": {
+            "dpopPossibility": 5
+        },
+        "Bmp": {
+            "dpopPossibility": 5
+        },
+        "Tank": {
+            "dpopPossibility": 5
+        },
+        "Mech": {
+            "dpopPossibility": 5
+        },
+        "Drone": {
+            "dpopPossibility": 5
+        },
+        "Helicopter": {
+            "dpopPossibility": 5
+        },
+        "HeavyTank": {
+            "dpopPossibility": 5
+        },
+        "Bunker": {
+            "dpopPossibility": 5
+        },
+        "BossTank": {
+            "dpopPossibility": 5
+        },
+        "BossTrain": {
+            "dpopPossibility": 5
+        },
+        "BossHelicopter": {
+            "dpopPossibility": 5
+        }
+    },
+    {
+        "id": "VacuumBomb",
+        "kind": "Ability",
+        "Trooper": {
+            "dpopPossibility": 5
+        },
+        "Mite": {
+            "dpopPossibility": 5
+        },
+        "LightMech": {
+            "dpopPossibility": 5
+        },
+        "Exoskeleton": {
+            "dpopPossibility": 5
+        },
+        "Buggy": {
+            "dpopPossibility": 5
+        },
+        "Bmp": {
+            "dpopPossibility": 5
+        },
+        "Tank": {
+            "dpopPossibility": 5
+        },
+        "Mech": {
+            "dpopPossibility": 5
+        },
+        "Drone": {
+            "dpopPossibility": 5
+        },
+        "Helicopter": {
+            "dpopPossibility": 5
+        },
+        "HeavyTank": {
+            "dpopPossibility": 5
+        },
+        "Bunker": {
+            "dpopPossibility": 5
+        },
+        "BossTank": {
+            "dpopPossibility": 5
+        },
+        "BossTrain": {
+            "dpopPossibility": 5
+        },
+        "BossHelicopter": {
+            "dpopPossibility": 5
+        }
+    },
+    {
+        "id": "Artillery",
+        "kind": "Ability",
+        "Trooper": {
+            "dpopPossibility": 5
+        },
+        "Mite": {
+            "dpopPossibility": 5
+        },
+        "LightMech": {
+            "dpopPossibility": 5
+        },
+        "Exoskeleton": {
+            "dpopPossibility": 5
+        },
+        "Buggy": {
+            "dpopPossibility": 5
+        },
+        "Bmp": {
+            "dpopPossibility": 5
+        },
+        "Tank": {
+            "dpopPossibility": 5
+        },
+        "Mech": {
+            "dpopPossibility": 5
+        },
+        "Drone": {
+            "dpopPossibility": 5
+        },
+        "Helicopter": {
+            "dpopPossibility": 5
+        },
+        "HeavyTank": {
+            "dpopPossibility": 5
+        },
+        "Bunker": {
+            "dpopPossibility": 5
+        },
+        "BossTank": {
+            "dpopPossibility": 5
+        },
+        "BossTrain": {
+            "dpopPossibility": 5
+        },
+        "BossHelicopter": {
+            "dpopPossibility": 5
+        }
+    },
+    {
+        "id": "Invulnerability",
+        "kind": "Ability",
+        "Trooper": {
+            "dpopPossibility": 5
+        },
+        "Mite": {
+            "dpopPossibility": 5
+        },
+        "LightMech": {
+            "dpopPossibility": 5
+        },
+        "Exoskeleton": {
+            "dpopPossibility": 5
+        },
+        "Buggy": {
+            "dpopPossibility": 5
+        },
+        "Bmp": {
+            "dpopPossibility": 5
+        },
+        "Tank": {
+            "dpopPossibility": 5
+        },
+        "Mech": {
+            "dpopPossibility": 5
+        },
+        "Drone": {
+            "dpopPossibility": 5
+        },
+        "Helicopter": {
+            "dpopPossibility": 5
+        },
+        "HeavyTank": {
+            "dpopPossibility": 5
+        },
+        "Bunker": {
+            "dpopPossibility": 5
+        },
+        "BossTank": {
+            "dpopPossibility": 5
+        },
+        "BossTrain": {
+            "dpopPossibility": 5
+        },
+        "BossHelicopter": {
+            "dpopPossibility": 5
+        }
+    },
+    {
+        "id": "ShockShells",
+        "kind": "Ability",
+        "Trooper": {
+            "dpopPossibility": 5
+        },
+        "Mite": {
+            "dpopPossibility": 5
+        },
+        "LightMech": {
+            "dpopPossibility": 5
+        },
+        "Exoskeleton": {
+            "dpopPossibility": 5
+        },
+        "Buggy": {
+            "dpopPossibility": 5
+        },
+        "Bmp": {
+            "dpopPossibility": 5
+        },
+        "Tank": {
+            "dpopPossibility": 5
+        },
+        "Mech": {
+            "dpopPossibility": 5
+        },
+        "Drone": {
+            "dpopPossibility": 5
+        },
+        "Helicopter": {
+            "dpopPossibility": 5
+        },
+        "HeavyTank": {
+            "dpopPossibility": 5
+        },
+        "Bunker": {
+            "dpopPossibility": 5
+        },
+        "BossTank": {
+            "dpopPossibility": 5
+        },
+        "BossTrain": {
+            "dpopPossibility": 5
+        },
+        "BossHelicopter": {
+            "dpopPossibility": 5
+        }
+    },
+    {
+        "id": "Phantom",
+        "kind": "Ability",
+        "Trooper": {
+            "dpopPossibility": 5
+        },
+        "Mite": {
+            "dpopPossibility": 5
+        },
+        "LightMech": {
+            "dpopPossibility": 5
+        },
+        "Exoskeleton": {
+            "dpopPossibility": 5
+        },
+        "Buggy": {
+            "dpopPossibility": 5
+        },
+        "Bmp": {
+            "dpopPossibility": 5
+        },
+        "Tank": {
+            "dpopPossibility": 5
+        },
+        "Mech": {
+            "dpopPossibility": 5
+        },
+        "Drone": {
+            "dpopPossibility": 5
+        },
+        "Helicopter": {
+            "dpopPossibility": 5
+        },
+        "HeavyTank": {
+            "dpopPossibility": 5
+        },
+        "Bunker": {
+            "dpopPossibility": 5
+        },
+        "BossTank": {
+            "dpopPossibility": 5
+        },
+        "BossTrain": {
+            "dpopPossibility": 5
+        },
+        "BossHelicopter": {
+            "dpopPossibility": 5
+        }
+    },
+    {
+        "id": "ShockWaves",
+        "kind": "Ability",
+        "Trooper": {
+            "dpopPossibility": 5
+        },
+        "Mite": {
+            "dpopPossibility": 5
+        },
+        "LightMech": {
+            "dpopPossibility": 5
+        },
+        "Exoskeleton": {
+            "dpopPossibility": 5
+        },
+        "Buggy": {
+            "dpopPossibility": 5
+        },
+        "Bmp": {
+            "dpopPossibility": 5
+        },
+        "Tank": {
+            "dpopPossibility": 5
+        },
+        "Mech": {
+            "dpopPossibility": 5
+        },
+        "Drone": {
+            "dpopPossibility": 5
+        },
+        "Helicopter": {
+            "dpopPossibility": 5
+        },
+        "HeavyTank": {
+            "dpopPossibility": 5
+        },
+        "Bunker": {
+            "dpopPossibility": 5
+        },
+        "BossTank": {
+            "dpopPossibility": 5
+        },
+        "BossTrain": {
+            "dpopPossibility": 5
+        },
+        "BossHelicopter": {
+            "dpopPossibility": 5
+        }
+    }
+]

@@ -1,0 +1,94 @@
+﻿{
+    "player": {
+        "level": 1,
+        "exp": 0,
+        "recordScores": 321,
+        "facebookLoginBonus": 50,
+
+        "energy": {
+            "count": 7,
+            "lastRestoreTime": 1490706602000
+        }
+    },
+
+    "loot": {
+        "Soft": 1000,
+        "Hard": 999,
+        "EnergyPack": 1000
+    },
+
+    "paladin": {
+        "Ranger": {
+            "head": 1,
+            "frame": 1,
+            "chassis": 1,
+
+            "weapon": ["Machinegun"],
+
+            "ability": {
+                "active": ["Nanobots"],
+                "passive": ["HiScores"]
+            },
+            "headUpgrade": 1490697481000,
+            "frameUpgrade": 1490697781000
+        },
+        "Peacemaker": {
+            "head": 1,
+            "frame": 1,
+            "chassis": 1,
+
+            "weapon": ["Machinegun"],
+
+            "ability": {
+                "active": ["Nanobots"],
+                "passive": ["HiScores"]
+            }
+        },
+        "Crusader": {
+            "head": 1,
+            "frame": 1,
+            "chassis": 1,
+
+            "weapon": ["Machinegun"],
+
+            "ability": {
+                "active": ["Nanobots"],
+                "passive": ["HiScores"]
+            }
+        },
+        "Assault": {
+            "head": 1,
+            "frame": 1,
+            "chassis": 1,
+
+            "weapon": ["Machinegun"],
+
+            "ability": {
+                "active": ["Nanobots"],
+                "passive": ["HiScores"]
+            }
+        },
+        "Juggernaut": {
+            "head": 1,
+            "frame": 1,
+            "chassis": 1,
+
+            "weapon": ["Machinegun"],
+
+            "ability": {
+                "active": ["Nanobots"],
+                "passive": ["HiScores"]
+            }
+        }
+    },
+
+    "weapon": { // upgrade level
+        "Machinegun": 2
+    },
+
+    "ability": { // upgrade level
+        "ClusterGrenades": 2,
+        "Nanobots": 2,
+        "HiScores": 2
+    }
+}
